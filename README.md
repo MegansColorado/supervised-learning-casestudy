@@ -117,8 +117,11 @@ Fitting 5 folds for each of 32 candidates, totalling 160 fits
 
 ![Banner](images/decisiontree.png)
 
-Feature importance:
+
+
+# Feature importance:
 ![Banner](images/image.png)
+![other image](images/image2.png)
 
 # Conclusion 
 
