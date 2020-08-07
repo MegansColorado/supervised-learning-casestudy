@@ -57,87 +57,62 @@ hypotheses we had:
     * Random Forest (Classification)
     * Gradient Boost Classifier
 
-## Gradient boost Prior to Grid Search
-
-Hyperparameters used for Gradient Boost (Classifier):
-* loss: 'deviance'
-* n_estimators: 1000
-* learning_rate: 0.1
-* max_depth: 3
-* subsample: 0.5
-* min_samples_split: 2
-* min_samples_leaf: 1
-* min_weight_fraction_lead: 0.0
-
-Result: 
-
-
-## Grid Search Round 1 Results
-Fitting 5 folds for each of 144 candidates, totalling 720 fits
-
-"best parameters" as determined through Grid Search:
-
-* learning_rate: 0.1
-* loss: 'deviance'
-* max_depth: 2
-* max_features: 3
-* n_estimators: 100
-* random_state: 1
-* subsample: 0.3
-
-results 2
-
-"best parameters" as determined through Grid Search:
-
-* learning_rate: 0.001
-* loss: 'deviance'
-* max_depth: 2
-* max_features: 'auto'
-* n_estimators: 1000
-* random_state: 1
-* subsample: 0.3
-
-
-Feature Importance:
 
 # Results & Interpretation
 ### Gradient Boosting Classifier
-* Fitting 5 folds for each of 54 candidates, totalling 270 fits
+ 
+Fitting 5 folds for each of 54 candidates, totalling 270 fits
 [Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
 [Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:   19.6s
 [Parallel(n_jobs=-1)]: Done 184 tasks      | elapsed:  3.1min
 [Parallel(n_jobs=-1)]: Done 270 out of 270 | elapsed:  5.1min finished
 
-### Gradient Boosting Classifier SCORE with best parameters:  0.989558232931727
+"best parameters" as determined through Grid Search:
+* learning_rate': 0.001 
+* 'loss': 'deviance' 
+* 'max_depth': 2 
+* 'max_features': 'auto' 
+* 'n_estimators': 1000 
+* 'random_state': 1 
+* 'subsample': 0.3
+
+#### Gradient Boosting Classifier SCORE with best parameters:  0.989558232931727
 
 ### Random Forest Classifier
 
+Fitting 5 folds for each of 16 candidates, totalling 80 fits
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:   10.3s
+[Parallel(n_jobs=-1)]: Done  80 out of  80 | elapsed:   25.9s finished
+
 "best parameters" as determined through Grid Search:
+* criterion': 'gini'
+* 'max_depth': 2
+* 'n_estimators': 100
+* 'random_state': 1}
 
-* learning_rate: 0.001
-* loss: 'deviance'
-* max_depth: 2
-* max_features: 'auto'
-* n_estimators: 1000
-* random_state: 1
-* subsample: 0.3
 
-### Random Forest Classifier SCORE with best parameters: 
+#### Random Forest Classifier SCORE with best parameters: 
 
 ### Decision Tree Classifier
 
+
+Fitting 5 folds for each of 32 candidates, totalling 160 fits
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  52 tasks      | elapsed:    0.7s
+[Parallel(n_jobs=-1)]: Done 160 out of 160 | elapsed:    1.7s finished
+
+
 "best parameters" as determined through Grid Search:
 
-* criterion: 'gini'
-* max_depth: 2
-* max_features: 10
-* random_state: 1
-* splitter: 'best'
-* n_estimators: 100
-* random_state: 1
+* 'criterion': 'gini'
+* 'max_depth': 2
+* 'max_features': 10
+* 'random_state': 1
+* 'splitter': 'best'
 
 
-### Decision Tree Classifier SCORE with best parameters:
+#### Decision Tree Classifier SCORE with best parameters:
 
 # Conclusion 
 
