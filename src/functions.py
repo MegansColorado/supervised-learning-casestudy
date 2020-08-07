@@ -19,7 +19,8 @@ from scipy.stats import probplot
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.feature_selection import RFECV, SelectFromModel
-from sklearn.ensemble import GradientBoostingClassifier 
+from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import roc_curve
 
 def standardize(X, method):
@@ -152,7 +153,7 @@ def Random_Forest(X_train, X_test, y_train):
     score = model.score(X_test, y_test)
     return y_pred, score
 
-def feature_importance():
+def feature_importance(model, names):
     feature_importances = 100*model_opt.feature_importances_ / np.sum(model.feature_importances_)
     feature_importances, feature_names, feature_idxs = \
     zip(*sorted(zip(feature_importances, names, range(len(names)))))
@@ -279,23 +280,23 @@ if __name__ == '__main__':
                         
     random_forest_grid = {
                     'criterion': ['gini', 'entropy'],
-                    'n_estimators': [10, 20, 40, 80, 100, 300],
+                    'n_estimators': [50, 100, 300, 500],
                     'max_depth': [2,3],
                     'random_state': [1]}
 
     decision_tree_grid = {
                     'criterion': ['gini', 'entropy'],
                     'splitter': ['best', 'random'],
-                    'max_depth': [2,3]
-                    'n_estimators': [10, 20, 40, 80, 100, 300],
-                    ,
-                    #'min_samples_leaf': [7, 9, 13],
+                    'max_depth': [2,3],
                     'max_features': [3, 5, 10, 15],
-                        'random_state': [1]}
+                    'random_state': [1]}
 
 
     paramslst = [grad_boost_grid, random_forest_grid, decision_tree_grid]
     
     # for model, param in zip(models, paramslst):
     #     print(model, param)
-    lst_models = loopallgridsearch(models, paramslst, X_train, y_train_ravel)
+    #lst_models = loopallgridsearch(models, paramslst, X_train, y_train_ravel)
+
+    feature_importance(lst_models[1], cols)
+    plt.show()
