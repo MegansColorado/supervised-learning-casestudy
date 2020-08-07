@@ -114,6 +114,9 @@ Fitting 5 folds for each of 32 candidates, totalling 160 fits
 
 #### Decision Tree Classifier SCORE with best parameters:
 
+Feature importance:
+![Banner](images/image.png)
+
 # Conclusion 
 
 
