@@ -98,6 +98,8 @@ Feature Importance:
 [Parallel(n_jobs=-1)]: Done 184 tasks      | elapsed:  3.1min
 [Parallel(n_jobs=-1)]: Done 270 out of 270 | elapsed:  5.1min finished
 
+### Gradient Boosting Classifier SCORE with best parameters:  0.989558232931727
+
 ### Random Forest Classifier
 "best parameters:", {'learning_rate': 0.001, 'loss': 'deviance', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 1000, 'random_state': 1, 'subsample': 0.3}
 Fitting 5 folds for each of 16 candidates, totalling 80 fits
@@ -105,7 +107,9 @@ Fitting 5 folds for each of 16 candidates, totalling 80 fits
 [Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:   10.3s
 [Parallel(n_jobs=-1)]: Done  80 out of  80 | elapsed:   25.9s finished
 
-### DecisionTreeClassifier
+### Random Forest Classifier SCORE with best parameters: 
+
+### Decision Tree Classifier
 "best parameters:", {'criterion': 'gini', 'max_depth': 2, 'n_estimators': 100, 'random_state': 1}
 Fitting 5 folds for each of 32 candidates, totalling 160 fits
 [Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
@@ -113,9 +117,11 @@ Fitting 5 folds for each of 32 candidates, totalling 160 fits
 [Parallel(n_jobs=-1)]: Done 160 out of 160 | elapsed:    1.7s finished
 "best parameters:", {'criterion': 'gini', 'max_depth': 2, 'max_features': 10, 'random_state': 1, 'splitter': 'best'}
 
+### Decision Tree Classifier SCORE with best parameters:
+
 # Conclusion 
 
 
 # Next Steps
 
-We needed more time to enable the CV Gridsearch and ROC curve graphics, and feature importance. 
+We needed more time to ROC curve graphics, and feature importance. 
