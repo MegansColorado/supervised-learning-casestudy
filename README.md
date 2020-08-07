@@ -86,7 +86,17 @@ Fitting 5 folds for each of 144 candidates, totalling 720 fits
 * subsample: 0.3
 
 results 2
-"best parameters:", {'learning_rate': 0.001, 'loss': 'deviance', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 1000, 'random_state': 1, 'subsample': 0.3}
+
+"best parameters" as determined through Grid Search:
+
+* learning_rate: 0.001
+* loss: 'deviance'
+* max_depth: 2
+* max_features: 'auto'
+* n_estimators: 1000
+* random_state: 1
+* subsample: 0.3
+
 
 Feature Importance:
 
@@ -101,21 +111,31 @@ Feature Importance:
 ### Gradient Boosting Classifier SCORE with best parameters:  0.989558232931727
 
 ### Random Forest Classifier
-"best parameters:", {'learning_rate': 0.001, 'loss': 'deviance', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 1000, 'random_state': 1, 'subsample': 0.3}
-Fitting 5 folds for each of 16 candidates, totalling 80 fits
-[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
-[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:   10.3s
-[Parallel(n_jobs=-1)]: Done  80 out of  80 | elapsed:   25.9s finished
+
+"best parameters" as determined through Grid Search:
+
+* learning_rate: 0.001
+* loss: 'deviance'
+* max_depth: 2
+* max_features: 'auto'
+* n_estimators: 1000
+* random_state: 1
+* subsample: 0.3
 
 ### Random Forest Classifier SCORE with best parameters: 
 
 ### Decision Tree Classifier
-"best parameters:", {'criterion': 'gini', 'max_depth': 2, 'n_estimators': 100, 'random_state': 1}
-Fitting 5 folds for each of 32 candidates, totalling 160 fits
-[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
-[Parallel(n_jobs=-1)]: Done  52 tasks      | elapsed:    0.7s
-[Parallel(n_jobs=-1)]: Done 160 out of 160 | elapsed:    1.7s finished
-"best parameters:", {'criterion': 'gini', 'max_depth': 2, 'max_features': 10, 'random_state': 1, 'splitter': 'best'}
+
+"best parameters" as determined through Grid Search:
+
+* criterion: 'gini'
+* max_depth: 2
+* max_features: 10
+* random_state: 1
+* splitter: 'best'
+* n_estimators: 100
+* random_state: 1
+
 
 ### Decision Tree Classifier SCORE with best parameters:
 
