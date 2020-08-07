@@ -88,12 +88,13 @@ Fitting 5 folds for each of 144 candidates, totalling 720 fits
 results 2
 "best parameters:", {'learning_rate': 0.001, 'loss': 'deviance', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 1000, 'random_state': 1, 'subsample': 0.3}
 
-Feature Importances:
+Feature Importance:
 
 # Results & Interpretation
 * 
 
-# Conclusion
+# Conclusion 
+We needed more time to enable the CV Gridsearch and ROC curve graphics, and feature importance.
 
 # Next Steps
 
