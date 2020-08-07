@@ -167,8 +167,49 @@ def feature_importance():
     plt.xlabel('Relative Importance of Feature', fontsize=14)
     plt.ylabel('Feature Name', fontsize=14)
     
+#### MEGANS ####
+'''
+
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.model_selection import GridSearchCV
+
+from sklearn.ensemble.partial_dependence import plot_partial_dependence
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+df = pd.read_csv('../data/cleaned_churn_train.csv')
+
+%matplotlib inline
+
+import textwrap # for wrapping answer descriptions
+
+
+'''
+import textwrap # for wrapping answer descriptions
+
+def loopallgridsearch(models, params, X_train, y_train):
+    results = []
+    for model, param in zip(models, params):
+        
+        # run grid search
+        gridsearch = GridSearchCV(model,
+                                param,
+                                n_jobs=-1,
+                                verbose=True)
+                                #scoring='neg_mean_squared_error')
+        # fit best model
+        gridsearch.fit(X_train, y_train)
+        # get best model parameters
+        print(f'"best parameters:", {gridsearch.best_params_}')
+        # return best model parameters
+        best_model = gridsearch.best_estimator_
+        results.append(best_model)
+    return results
+    #print(GridSearchCV(model, return_train_score=True))
+
 
 def GridSearch_(X_train, y_train):
+    # params dict
     grad_boost_grid = {'learning_rate': [0.1],
                    'loss': ['deviance'],
                    'subsample': [0.3, 0.5, 0.7],
@@ -215,7 +256,46 @@ if __name__ == '__main__':
     # so need to try these models:
     # 1. random forest
     # 2. gradient boosted
-    gbmodel, yhat, gbscore = grad_boost(X_train_std, X_test_std, y_train, y_test)
+    #gbmodel, yhat, gbscore = grad_boost(X_train_std, X_test_std, y_train, y_test)
     # fix y train
-    #y_train_ravel = y_train.values.ravel()
+    y_train_ravel = y_train.values.ravel()
     #GridSearch_(X_train_std, y_train_ravel)
+
+
+    #models = [DecisionTreeClassifier, GradientBoostClassifier, RandomForestClassifier, AdaBoostClassifier]
+    models = [GradientBoostingClassifier(), RandomForestClassifier(), DecisionTreeClassifier()]
+  
+    # define param dicts for each model
+    grad_boost_grid = {'learning_rate': [0.001, 0.01, 0.1],
+                    'loss': ['deviance'],
+                    'subsample': [0.3, 0.5, 0.7],
+                        #'n_estimators': [10, 20, 40, 80, 100, 300],
+                        'n_estimators': [10, 100, 1000],
+                    'max_depth': [2, 3],
+                    #'min_samples_leaf': [7, 9, 13],
+                    #'max_features': [3, 10],
+                    'max_features': ['auto'],
+                        'random_state': [1]}
+                        
+    random_forest_grid = {
+                    'criterion': ['gini', 'entropy'],
+                    'n_estimators': [10, 20, 40, 80, 100, 300],
+                    'max_depth': [2,3],
+                    'random_state': [1]}
+
+    decision_tree_grid = {
+                    'criterion': ['gini', 'entropy'],
+                    'splitter': ['best', 'random'],
+                    'max_depth': [2,3]
+                    'n_estimators': [10, 20, 40, 80, 100, 300],
+                    ,
+                    #'min_samples_leaf': [7, 9, 13],
+                    'max_features': [3, 5, 10, 15],
+                        'random_state': [1]}
+
+
+    paramslst = [grad_boost_grid, random_forest_grid, decision_tree_grid]
+    
+    # for model, param in zip(models, paramslst):
+    #     print(model, param)
+    lst_models = loopallgridsearch(models, paramslst, X_train, y_train_ravel)
