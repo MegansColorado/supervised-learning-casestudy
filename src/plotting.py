@@ -22,11 +22,11 @@ from sklearn.feature_selection import RFECV, SelectFromModel
 from sklearn.ensemble import GradientBoostingClassifier 
 from sklearn.metrics import roc_curve
 
-def create_roc_curve(X_train, y_train, estimator):
-    # clf = model.fit(X_train, y_train)
-    # metrics.plot_roc_curve(estimator, X_test, y_test)
-    # plt.show()
-    return roc_curve(y_true, y_score, pos_label=None, sample_weight=None, drop_intermediate=True)
+def create_roc_curve(X_train, X_test, y_train, y_test, estimator):
+    clf = model.fit(X_train, y_train)
+    metrics.plot_roc_curve(estimator, X_test, y_test)
+    plt.show()
+    # return roc_curve(y_true, y_score, pos_label=None, sample_weight=None, drop_intermediate=True)
 
 def standardize(X, method):
     # this Fit to data, then transform it.

@@ -53,39 +53,44 @@ hypotheses we had:
 # Modeling
 * Models Explored:
     * Linear Classifier
-![placeholder](images/)
     * Decision Tree (Classification)
-![placeholder](images/)
     * Random Forest (Classification)
-![placeholder](images/)
+    * Gradient Boost Classifier
 
-## Gradient boost on its own result
-GradientBoostingClassifier(loss='deviance',
-                             n_estimators=1000,
-                             learning_rate=0.1,
-                             max_depth=3,
-                             subsample=0.5,
-                             min_samples_split=2,
-                             min_samples_leaf=1,
-                             min_weight_fraction_leaf=0.0)
+## Gradient boost Prior to Grid Search
 
-result: 
+Hyperparameters used for Gradient Boost (Classifier):
+* loss: 'deviance'
+* n_estimators: 1000
+* learning_rate: 0.1
+* max_depth: 3
+* subsample: 0.5
+* min_samples_split: 2
+* min_samples_leaf: 1
+* min_weight_fraction_lead: 0.0
+
+Result: 
 
 
 ## Grid Search Round 1 Results
 Fitting 5 folds for each of 144 candidates, totalling 720 fits
 
-[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
-[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:    3.2s
-[Parallel(n_jobs=-1)]: Done 184 tasks      | elapsed:   38.7s
-[Parallel(n_jobs=-1)]: Done 434 tasks      | elapsed:  1.8min
-[Parallel(n_jobs=-1)]: Done 720 out of 720 | elapsed:  3.6min finished
-"best parameters:", {'learning_rate': 0.1, 'loss': 'deviance', 'max_depth': 2, 'max_features': 3, 'n_estimators': 100, 'random_state': 1, 'subsample': 0.3}
+"best parameters" as determined through Grid Search:
+
+* learning_rate: 0.1
+* loss: 'deviance'
+* max_depth: 2
+* max_features: 3
+* n_estimators: 100
+* random_state: 1
+* subsample: 0.3
+
+results 2
+"best parameters:", {'learning_rate': 0.001, 'loss': 'deviance', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 1000, 'random_state': 1, 'subsample': 0.3}
 
 Feature Importances:
 
-![placeholder](images/)
-# Results
+# Results & Interpretation
 * 
 
 # Conclusion
