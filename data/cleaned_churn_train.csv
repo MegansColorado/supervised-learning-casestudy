@@ -321,7 +321,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.71,5.0,4.0,1.0,0.0,0,False,0.0,3,False,0,1,1,0,0,True
 4.04,4.3,4.0,1.0,0.0,0,False,100.0,5,False,0,1,1,0,0,True
 3.24,5.0,5.0,1.0,0.0,2,False,66.7,6,True,0,1,0,1,0,True
-2.87,,5.0,1.0,0.0,1,True,0.0,6,True,0,1,0,1,0,True
 3.38,4.9,5.0,1.08,25.0,4,False,75.0,6,True,1,0,1,0,0,True
 4.84,4.9,4.6,1.07,10.5,2,True,47.4,6,True,0,1,1,0,0,True
 1.93,5.0,5.0,1.0,0.0,3,False,100.0,1,False,0,1,0,0,1,True
@@ -340,7 +339,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 0.61,5.0,4.0,1.0,0.0,1,False,33.3,4,False,0,1,0,0,1,True
 12.88,5.0,4.601696940726505,1.0,0.0,0,False,0.0,5,False,0,1,0,0,1,False
 1.77,4.4,5.0,1.3,20.0,3,False,20.0,6,True,0,1,0,0,1,True
-4.7,,4.601696940726505,1.0,0.0,0,True,100.0,4,False,0,1,0,0,1,False
 3.61,4.9,4.6,1.28,12.5,0,False,75.0,5,False,0,1,0,0,1,True
 2.96,5.0,5.0,1.0,0.0,1,True,0.0,1,False,0,1,1,0,0,True
 3.28,5.0,5.0,1.0,0.0,1,False,0.0,2,False,1,0,0,0,1,True
@@ -545,7 +543,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.58,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,0,1,0,True
 13.79,5.0,5.0,1.0,0.0,0,False,100.0,4,False,0,1,0,0,1,True
 3.54,4.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,False
-12.97,,3.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 5.07,4.8,5.0,1.0,0.0,1,False,66.7,3,False,0,1,0,0,1,True
 5.97,5.0,4.601696940726505,1.0,0.0,0,True,100.0,5,False,1,0,1,0,0,False
 2.55,5.0,4.601696940726505,1.75,100.0,2,True,100.0,7,False,0,1,1,0,0,False
@@ -606,7 +603,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.47,5.0,5.0,1.0,0.0,0,False,100.0,3,False,0,1,1,0,0,True
 2.3,4.7,5.0,1.0,0.0,2,False,100.0,5,False,0,1,0,0,1,True
 17.23,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,False
-14.84,,4.601696940726505,1.0,0.0,0,False,100.0,4,False,0,1,1,0,0,False
 4.19,4.8,4.0,1.09,9.1,3,True,90.9,6,True,1,0,0,0,1,True
 9.49,5.0,4.5,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,True
 3.91,4.8,3.8,1.0,0.0,0,True,60.0,7,False,0,1,1,0,0,True
@@ -1153,7 +1149,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 8.85,5.0,3.5,1.0,0.0,0,True,33.3,6,True,0,1,0,1,0,True
 4.89,5.0,5.0,1.0,0.0,0,False,0.0,3,False,0,1,1,0,0,True
 5.54,5.0,5.0,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,True
-6.45,,4.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 7.04,4.8,4.9,1.0,0.0,17,True,91.7,6,True,0,1,1,0,0,True
 5.38,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 3.65,5.0,4.0,1.0,0.0,0,True,87.5,6,True,0,1,0,1,0,True
@@ -1346,7 +1341,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.36,5.0,5.0,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,True
 13.89,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,False
 16.57,5.0,5.0,1.0,0.0,0,False,50.0,5,False,0,1,0,0,1,True
-2.03,,4.5,1.5,100.0,0,False,0.0,3,False,0,1,1,0,0,True
 1.66,5.0,5.0,1.13,50.0,0,True,0.0,4,False,0,1,1,0,0,True
 3.54,5.0,5.0,1.0,0.0,3,True,100.0,1,False,0,1,1,0,0,True
 2.8,5.0,5.0,1.25,50.0,1,False,50.0,5,False,0,1,1,0,0,True
@@ -1463,7 +1457,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 0.7,5.0,5.0,1.0,0.0,2,True,100.0,2,False,1,0,0,0,1,True
 1.42,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 3.64,4.6,4.8,1.07,9.1,4,True,36.4,6,True,0,1,0,0,1,True
-3.14,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 2.25,5.0,4.5,1.17,33.3,1,False,33.3,3,False,1,0,1,0,0,True
 16.64,5.0,5.0,1.0,0.0,0,True,100.0,4,False,0,1,0,0,1,True
 6.13,4.3,3.7,1.0,0.0,2,True,60.0,6,True,0,1,1,0,0,True
@@ -1681,7 +1674,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.36,4.7,4.5,1.0,0.0,1,False,66.7,5,False,1,0,1,0,0,True
 6.0,4.8,4.8,1.06,7.7,3,True,53.8,6,True,0,1,0,0,1,True
 4.63,5.0,5.0,1.07,10.7,0,True,60.7,6,True,0,1,0,1,0,True
-6.71,,5.0,1.0,0.0,0,False,0.0,3,False,0,1,0,0,1,True
 3.39,4.5,5.0,1.0,0.0,0,False,0.0,5,False,0,1,1,0,0,True
 4.14,4.3,4.3,1.1,10.0,2,False,40.0,7,False,1,0,1,0,0,True
 20.02,4.8,5.0,1.0,0.0,0,True,100.0,7,False,0,1,0,1,0,True
@@ -2156,7 +2148,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 12.61,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 5.1,4.4,3.0,1.0,0.0,1,True,80.0,6,True,0,1,0,0,1,True
 1.21,5.0,5.0,1.0,0.0,2,False,100.0,6,True,0,1,1,0,0,True
-4.25,,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,False
 3.09,5.0,4.601696940726505,2.25,100.0,0,False,0.0,5,False,0,1,1,0,0,False
 12.65,5.0,4.601696940726505,1.0,0.0,1,True,100.0,1,False,0,1,0,1,0,False
 8.65,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,1,0,False
@@ -2237,7 +2228,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.95,4.6,1.9,1.07,8.8,28,True,61.4,6,True,0,1,0,0,1,True
 15.7,5.0,5.0,1.0,0.0,0,False,100.0,6,True,0,1,0,0,1,True
 4.68,4.9,4.1,1.03,11.1,2,False,88.9,6,True,0,1,0,0,1,True
-2.89,,5.0,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,True
 1.14,3.5,4.5,1.0,0.0,2,True,100.0,1,False,0,1,1,0,0,True
 3.47,5.0,4.0,1.36,28.6,2,True,57.1,6,True,0,1,1,0,0,True
 7.1,4.5,5.0,1.21,28.6,1,True,42.9,6,True,0,1,0,1,0,True
@@ -2512,7 +2502,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.34,4.8,5.0,1.04,16.7,3,False,66.7,6,True,0,1,0,0,1,True
 2.9,5.0,4.601696940726505,1.0,0.0,0,False,0.0,4,False,0,1,1,0,0,False
 4.29,4.6,2.3,1.0,0.0,4,True,100.0,4,False,0,1,0,0,1,True
-11.74,,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,1,0,True
 18.19,5.0,5.0,1.0,0.0,0,True,100.0,5,False,0,1,0,0,1,True
 11.92,4.9,3.4,1.0,0.0,11,True,51.7,3,False,0,1,0,0,1,True
 1.84,5.0,4.601696940726505,1.0,0.0,0,True,100.0,6,True,0,1,0,0,1,False
@@ -2618,7 +2607,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 9.56,5.0,4.0,1.0,0.0,2,True,100.0,2,False,0,1,1,0,0,True
 4.48,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,1,0,0,True
 1.98,5.0,3.0,1.0,0.0,0,True,100.0,5,False,1,0,1,0,0,True
-10.44,,5.0,1.0,0.0,0,False,0.0,4,False,1,0,1,0,0,True
 4.44,5.0,5.0,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,True
 1.85,4.5,4.5,1.0,0.0,8,True,66.7,6,True,0,1,0,0,1,True
 3.1,4.5,4.9,1.17,20.8,1,True,70.8,6,True,0,1,1,0,0,True
@@ -3207,7 +3195,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.09,5.0,4.601696940726505,1.5,100.0,0,False,0.0,3,False,0,1,1,0,0,False
 6.89,5.0,4.5,1.0,0.0,0,True,50.0,6,True,1,0,0,1,0,True
 4.59,4.5,5.0,1.0,0.0,0,True,100.0,6,True,0,1,1,0,0,True
-4.15,,4.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 4.84,4.0,4.601696940726505,1.0,0.0,1,False,100.0,2,False,1,0,0,0,1,False
 2.59,5.0,4.8,1.04,5.1,3,True,94.9,6,True,0,1,1,0,0,True
 7.12,5.0,4.601696940726505,3.75,100.0,0,False,100.0,3,False,0,1,1,0,0,False
@@ -3559,7 +3546,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.42,5.0,5.0,1.0,0.0,0,False,100.0,4,False,1,0,0,1,0,True
 8.2,4.4,4.3,1.0,0.0,4,True,95.5,6,True,0,1,0,0,1,True
 2.93,4.9,4.7,1.0,0.0,1,False,80.0,6,True,0,1,1,0,0,True
-1.59,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 2.06,4.5,5.0,1.0,0.0,0,True,12.5,5,False,0,1,0,0,1,True
 5.43,4.6,4.9,1.02,3.3,23,True,90.0,6,True,0,1,0,0,1,True
 4.75,4.5,5.0,1.0,0.0,0,True,0.0,5,False,0,1,1,0,0,True
@@ -3682,7 +3668,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.07,5.0,4.0,1.0,0.0,0,False,0.0,3,False,1,0,1,0,0,True
 1.09,5.0,4.601696940726505,1.0,0.0,0,False,100.0,4,False,1,0,0,0,1,False
 1.81,4.0,5.0,1.0,0.0,0,False,0.0,5,False,0,1,0,0,1,True
-6.74,,4.601696940726505,1.0,0.0,0,False,100.0,6,True,0,1,0,0,1,False
 3.49,5.0,4.5,1.0,0.0,2,False,50.0,2,False,0,1,1,0,0,True
 6.06,4.2,5.0,1.29,16.7,0,False,83.3,5,False,0,1,0,0,1,True
 6.23,5.0,4.601696940726505,1.0,0.0,1,True,0.0,2,False,0,1,1,0,0,False
@@ -3888,7 +3873,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.97,5.0,5.0,1.0,0.0,0,False,100.0,5,False,0,1,0,1,0,True
 1.38,5.0,4.7,1.0,0.0,0,False,100.0,5,False,0,1,0,0,1,True
 2.39,5.0,5.0,1.0,0.0,3,True,50.0,2,False,0,1,0,0,1,True
-6.63,,4.601696940726505,1.0,0.0,0,False,0.0,4,False,1,0,1,0,0,False
 4.22,4.8,5.0,1.0,0.0,1,True,100.0,6,True,0,1,1,0,0,True
 10.74,5.0,4.601696940726505,1.5,50.0,1,False,0.0,5,False,1,0,1,0,0,False
 8.5,4.8,5.0,1.05,20.0,0,False,60.0,5,False,0,1,0,0,1,True
@@ -4148,7 +4132,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.19,5.0,5.0,1.0,0.0,1,False,0.0,6,True,0,1,0,1,0,True
 2.3,4.9,4.1,1.1,10.0,4,False,70.0,5,False,0,1,0,0,1,True
 3.81,4.8,5.0,1.0,0.0,0,True,60.0,6,True,0,1,0,0,1,True
-4.67,,5.0,1.0,0.0,0,False,100.0,3,False,0,1,0,0,1,True
 16.12,5.0,5.0,1.0,0.0,0,True,100.0,5,False,0,1,1,0,0,True
 2.47,4.8,5.0,1.0,0.0,1,False,40.0,6,True,0,1,0,1,0,True
 3.7,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,False
@@ -4168,7 +4151,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.26,5.0,5.0,1.0,0.0,0,False,100.0,6,True,1,0,0,1,0,True
 4.75,4.8,4.3,1.02,5.1,7,True,35.9,5,False,0,1,0,0,1,True
 1.88,5.0,4.5,1.0,0.0,1,False,25.0,6,True,0,1,1,0,0,True
-5.19,,4.601696940726505,1.5,100.0,0,False,0.0,5,False,0,1,0,1,0,False
 2.3,5.0,5.0,1.0,0.0,2,False,100.0,1,False,0,1,1,0,0,True
 5.1,4.8,4.7,1.02,10.0,0,True,20.0,6,True,0,1,0,1,0,True
 4.17,5.0,5.0,1.0,0.0,1,True,50.0,5,False,1,0,1,0,0,True
@@ -4402,7 +4384,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.3,5.0,5.0,1.0,0.0,0,False,100.0,5,False,0,1,0,0,1,True
 2.59,4.8,4.4,1.1,20.0,0,False,20.0,4,False,0,1,0,0,1,True
 5.82,5.0,5.0,1.0,0.0,0,True,100.0,3,False,0,1,1,0,0,True
-0.75,,4.601696940726505,1.5,100.0,0,True,0.0,3,False,0,1,0,0,1,False
 6.98,5.0,4.8,1.04,3.7,3,False,51.9,6,True,0,1,0,1,0,True
 10.24,5.0,4.8,1.0,0.0,0,False,20.0,4,False,0,1,0,1,0,True
 5.73,5.0,4.601696940726505,1.0,0.0,0,True,100.0,3,False,0,1,0,0,1,False
@@ -4581,7 +4562,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.29,4.8,4.4,1.21,30.8,8,False,53.8,5,False,0,1,0,0,1,True
 4.44,5.0,4.8,1.0,0.0,2,True,87.5,6,True,0,1,1,0,0,True
 16.34,5.0,4.601696940726505,1.0,0.0,0,True,100.0,6,True,1,0,0,0,1,False
-3.43,,4.601696940726505,1.0,0.0,0,False,100.0,5,False,0,1,0,0,1,False
 7.79,5.0,5.0,1.0,0.0,0,True,100.0,4,False,0,1,1,0,0,True
 7.94,4.7,4.8,1.09,10.5,3,True,73.7,7,False,1,0,0,0,1,True
 2.29,5.0,5.0,1.14,28.6,3,True,71.4,2,False,1,0,0,0,1,True
@@ -4814,7 +4794,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.1,4.0,4.601696940726505,1.0,0.0,1,True,100.0,1,False,0,1,1,0,0,False
 0.02,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,0,1,True
 4.9,4.0,5.0,1.13,7.1,1,True,42.9,5,False,1,0,0,0,1,True
-1.98,,4.601696940726505,1.0,0.0,0,False,0.0,6,True,1,0,0,1,0,False
 3.23,4.9,4.7,1.13,11.8,1,True,41.2,6,True,0,1,1,0,0,True
 1.7,5.0,5.0,1.0,0.0,2,False,100.0,1,False,1,0,0,0,1,True
 2.33,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,False
@@ -5463,7 +5442,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.72,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,1,0,True
 9.92,5.0,5.0,1.58,33.3,2,False,33.3,3,False,1,0,0,1,0,True
 2.7,4.9,5.0,1.1,19.6,7,False,62.5,6,True,0,1,1,0,0,True
-1.58,,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,False
 5.28,5.0,4.601696940726505,1.0,0.0,0,False,100.0,2,False,1,0,1,0,0,False
 3.29,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,1,0,True
 2.81,4.8,4.8,1.0,0.0,15,False,86.2,6,True,0,1,0,0,1,True
@@ -5976,7 +5954,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.52,4.6,3.0,1.0,0.0,3,False,87.5,6,True,0,1,0,0,1,True
 4.51,4.9,4.6,1.06,8.3,0,False,66.7,6,True,0,1,0,1,0,True
 3.85,5.0,3.5,1.38,100.0,2,False,0.0,1,False,0,1,1,0,0,True
-15.6,,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,1,0,False
 15.3,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 1.86,4.8,4.6,1.0,0.0,0,True,66.7,6,True,0,1,1,0,0,True
 14.26,5.0,4.601696940726505,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,False
@@ -6561,7 +6538,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 14.9,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,1,0,False
 3.98,5.0,3.0,1.0,0.0,3,False,0.0,1,False,1,0,0,0,1,True
 2.01,3.7,3.7,1.0,0.0,0,True,100.0,3,False,1,0,0,0,1,True
-1.4,,4.0,2.5,100.0,1,False,100.0,2,False,0,1,0,1,0,True
 4.06,4.0,5.0,1.0,0.0,0,True,0.0,3,False,0,1,0,0,1,True
 9.06,4.3,3.5,1.08,33.3,2,False,100.0,4,False,1,0,1,0,0,True
 10.76,5.0,3.7,1.0,0.0,2,False,33.3,2,False,0,1,1,0,0,True
@@ -6712,7 +6688,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.23,5.0,4.601696940726505,1.0,0.0,1,True,0.0,1,False,1,0,1,0,0,False
 4.75,4.7,3.0,1.25,33.3,1,False,66.7,6,True,0,1,1,0,0,True
 4.13,5.0,5.0,1.14,18.2,2,False,81.8,6,True,0,1,0,1,0,True
-2.79,,5.0,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,True
 6.43,4.7,5.0,1.02,7.1,0,True,92.9,6,True,1,0,0,0,1,True
 1.17,5.0,5.0,1.0,0.0,0,False,50.0,5,False,0,1,1,0,0,True
 39.69,1.0,4.601696940726505,1.0,0.0,0,False,100.0,4,False,0,1,0,0,1,False
@@ -6771,7 +6746,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.98,5.0,5.0,1.0,0.0,0,False,80.0,6,True,0,1,0,0,1,True
 5.72,5.0,4.0,1.5,100.0,1,False,0.0,1,False,1,0,0,0,1,True
 3.7,4.7,4.3,1.0,0.0,2,False,0.0,6,True,0,1,0,0,1,True
-6.0,,5.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
 3.65,5.0,4.8,1.0,0.0,5,True,100.0,1,False,0,1,0,1,0,True
 9.49,5.0,5.0,1.0,0.0,3,False,100.0,2,False,0,1,0,1,0,True
 4.36,5.0,4.601696940726505,1.0,0.0,1,True,0.0,1,False,1,0,0,1,0,False
@@ -6875,7 +6849,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 10.04,4.6,4.8,1.0,0.0,6,False,58.8,6,True,0,1,0,0,1,True
 7.83,4.6,3.9,1.05,9.1,6,False,63.6,5,False,0,1,0,0,1,True
 11.53,5.0,5.0,1.0,0.0,1,True,100.0,3,False,0,0,0,0,1,True
-9.42,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 0.85,5.0,4.601696940726505,1.0,0.0,0,True,100.0,2,False,1,0,1,0,0,False
 5.97,5.0,4.9,1.0,0.0,15,True,81.7,6,True,0,1,0,1,0,True
 2.56,5.0,5.0,1.0,0.0,0,False,0.0,5,False,1,0,1,0,0,True
@@ -7170,7 +7143,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 18.36,5.0,4.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 21.26,4.8,4.4,1.0,0.0,3,True,100.0,4,False,1,0,0,0,1,True
 12.94,5.0,5.0,1.0,0.0,0,True,75.0,4,False,0,1,0,1,0,True
-16.21,,4.601696940726505,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,False
 21.03,4.7,5.0,1.0,0.0,1,False,100.0,6,True,0,1,0,1,0,True
 2.56,5.0,5.0,1.0,0.0,1,True,0.0,1,False,0,1,0,0,1,True
 1.25,5.0,4.0,1.0,0.0,2,True,100.0,1,False,0,1,0,0,1,True
@@ -7190,7 +7162,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 8.82,4.9,4.8,1.0,0.0,5,False,18.8,6,True,0,1,0,0,1,True
 8.87,4.7,3.3,1.0,0.0,2,False,57.1,6,True,0,1,0,0,1,True
 9.14,5.0,4.7,1.33,33.3,1,False,66.7,4,False,1,0,0,1,0,True
-9.44,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 1.74,4.8,4.4,1.0,0.0,19,True,73.9,6,True,0,1,1,0,0,True
 5.04,5.0,4.0,1.17,33.3,1,False,0.0,6,True,1,0,1,0,0,True
 11.85,4.3,4.601696940726505,1.0,0.0,2,False,66.7,3,False,0,1,0,0,1,False
@@ -7475,7 +7446,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 14.93,4.5,5.0,1.0,0.0,0,False,75.0,6,True,0,1,0,1,0,True
 2.67,4.3,4.6,1.03,3.7,8,False,63.0,6,True,1,0,0,0,1,True
 7.45,5.0,5.0,1.0,0.0,2,False,100.0,1,False,0,1,0,0,1,True
-8.35,,3.0,1.0,0.0,0,False,0.0,2,False,0,1,1,0,0,True
 5.01,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,1,0,0,True
 3.0,5.0,5.0,1.0,0.0,2,True,100.0,1,False,1,0,1,0,0,True
 4.01,5.0,4.601696940726505,1.0,0.0,2,False,100.0,2,False,0,1,0,0,1,False
@@ -7957,7 +7927,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.59,5.0,5.0,1.0,0.0,0,False,0.0,4,False,1,0,0,0,1,True
 3.96,4.0,4.5,1.13,50.0,2,False,100.0,2,False,0,1,1,0,0,True
 8.92,4.9,5.0,1.04,7.7,1,True,69.2,6,True,0,1,1,0,0,True
-6.0,,2.0,4.0,100.0,1,False,0.0,2,False,0,1,1,0,0,True
 4.3,5.0,5.0,1.0,0.0,1,False,33.3,6,True,0,1,0,1,0,True
 15.96,4.7,4.3,1.0,0.0,3,False,0.0,2,False,0,1,0,0,1,True
 14.32,4.0,4.601696940726505,1.0,0.0,0,True,100.0,5,False,1,0,0,0,1,False
@@ -7985,7 +7954,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.84,4.9,4.8,1.0,0.0,5,False,60.0,5,False,1,0,0,0,1,True
 11.63,4.8,5.0,1.0,0.0,2,False,40.0,6,True,0,1,0,1,0,True
 4.04,5.0,4.601696940726505,1.0,0.0,1,True,0.0,1,False,1,0,1,0,0,False
-4.94,,5.0,1.0,0.0,0,False,100.0,6,True,1,0,0,1,0,True
 1.38,4.5,4.0,1.5,50.0,0,False,50.0,6,True,0,1,0,1,0,True
 2.35,5.0,5.0,1.0,0.0,0,False,100.0,4,False,0,1,0,0,1,True
 11.98,5.0,4.601696940726505,1.0,0.0,1,True,100.0,1,False,1,0,1,0,0,False
@@ -8323,7 +8291,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.94,5.0,4.1,1.0,0.0,0,True,86.7,5,False,0,1,0,1,0,True
 4.96,5.0,5.0,1.0,0.0,1,False,50.0,3,False,0,1,0,0,1,True
 3.84,5.0,4.0,1.0,0.0,2,False,100.0,1,False,1,0,0,0,1,True
-1.83,,4.601696940726505,1.0,0.0,0,False,0.0,3,False,0,1,0,0,1,False
 18.61,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 1.6,4.5,5.0,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,True
 2.19,5.0,4.0,1.0,0.0,2,True,100.0,1,False,0,1,0,0,1,True
@@ -8664,7 +8631,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 17.92,5.0,5.0,1.0,0.0,0,True,100.0,5,False,0,1,0,0,1,True
 20.7,5.0,5.0,1.0,0.0,0,False,0.0,4,False,1,0,0,0,1,True
 0.56,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,False
-2.15,,1.0,3.0,100.0,1,False,0.0,2,False,1,0,0,0,1,True
 5.79,5.0,4.9,1.0,0.0,4,True,58.3,6,True,0,1,0,1,0,True
 6.26,5.0,4.0,1.0,0.0,1,True,0.0,5,False,0,1,1,0,0,True
 4.68,5.0,4.0,1.0,0.0,0,False,100.0,6,True,1,0,0,0,1,True
@@ -8821,7 +8787,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 7.27,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,1,0,0,False
 3.93,5.0,5.0,1.0,0.0,0,False,100.0,2,False,0,1,1,0,0,True
 2.65,4.4,4.8,1.1,14.6,5,False,64.6,6,True,0,1,0,0,1,True
-8.94,,4.601696940726505,1.0,0.0,0,False,100.0,2,False,1,0,0,0,1,False
 15.6,5.0,5.0,1.0,0.0,1,False,0.0,4,False,0,1,0,1,0,True
 8.55,4.9,5.0,1.04,10.0,6,True,65.0,6,True,0,1,0,0,1,True
 1.22,3.0,3.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
@@ -9173,7 +9138,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.38,4.7,4.2,1.79,83.3,6,False,66.7,1,False,1,0,1,0,0,True
 31.53,5.0,4.601696940726505,1.0,0.0,0,False,100.0,4,False,1,0,1,0,0,False
 4.15,5.0,4.0,1.09,12.5,4,False,50.0,5,False,0,1,0,0,1,True
-2.06,,5.0,1.0,0.0,1,False,0.0,2,False,0,1,1,0,0,True
 16.71,5.0,4.0,1.5,50.0,2,False,100.0,2,False,1,0,0,0,1,True
 24.89,3.5,4.0,1.06,25.0,2,False,75.0,5,False,0,1,0,0,1,True
 1.94,3.0,5.0,1.0,0.0,1,True,100.0,2,False,0,1,1,0,0,True
@@ -9806,7 +9770,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.69,5.0,4.0,1.0,0.0,2,False,40.0,6,True,1,0,0,0,1,True
 4.67,4.6,4.9,1.15,8.3,8,False,100.0,5,False,0,1,0,0,1,True
 3.0,4.5,4.4,1.01,2.3,12,False,68.2,6,True,0,1,0,0,1,True
-1.49,,4.601696940726505,1.0,0.0,0,False,100.0,4,False,0,1,0,0,1,False
 3.26,4.6,5.0,1.04,10.5,1,False,42.1,6,True,0,1,0,1,0,True
 4.17,4.5,4.601696940726505,1.0,0.0,1,True,0.0,3,False,0,1,0,0,1,False
 2.48,4.7,4.3,1.04,8.6,4,True,34.3,6,True,0,1,0,1,0,True
@@ -9868,7 +9831,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.95,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 3.55,4.7,4.7,1.31,25.0,5,True,66.7,6,True,1,0,0,0,1,True
 4.02,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,1,0,True
-2.53,,5.0,1.0,0.0,1,False,0.0,2,False,0,1,1,0,0,True
 3.67,5.0,4.601696940726505,1.0,0.0,0,False,100.0,2,False,0,1,0,0,1,False
 1.81,4.0,4.0,1.13,50.0,2,False,100.0,1,False,1,0,1,0,0,True
 9.79,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,False
@@ -10008,7 +9970,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.53,5.0,5.0,1.0,0.0,1,False,100.0,4,False,0,1,0,1,0,True
 3.03,5.0,4.601696940726505,3.75,100.0,0,False,100.0,3,False,0,1,1,0,0,False
 3.28,4.3,4.0,1.0,0.0,0,False,100.0,4,False,0,1,0,1,0,True
-4.11,,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,1,0,False
 8.14,4.7,4.3,1.33,33.3,3,False,33.3,1,False,0,1,0,1,0,True
 6.32,5.0,5.0,1.0,0.0,3,False,100.0,3,False,0,1,1,0,0,True
 5.81,5.0,4.6,1.0,0.0,1,False,71.4,4,False,1,0,0,0,1,True
@@ -10564,7 +10525,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 10.01,5.0,4.0,1.0,0.0,0,False,100.0,5,False,0,1,0,0,1,True
 3.85,4.8,5.0,1.0,0.0,4,False,20.0,6,True,0,1,0,1,0,True
 15.24,5.0,4.601696940726505,1.0,0.0,0,False,100.0,3,False,1,0,1,0,0,False
-6.28,,5.0,1.0,0.0,1,False,0.0,2,False,0,1,0,0,1,True
 11.89,5.0,5.0,1.0,0.0,2,False,100.0,1,False,1,0,1,0,0,True
 14.32,5.0,5.0,1.0,0.0,1,False,50.0,6,True,0,1,0,1,0,True
 4.27,4.8,5.0,1.0,0.0,0,True,0.0,6,True,0,1,0,1,0,True
@@ -10645,7 +10605,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.68,5.0,4.0,2.25,100.0,1,False,0.0,1,False,0,1,0,0,1,True
 4.63,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 8.26,5.0,5.0,1.0,0.0,0,False,50.0,5,False,0,1,1,0,0,True
-3.16,,5.0,1.0,0.0,1,False,0.0,2,False,0,1,1,0,0,True
 1.28,5.0,4.601696940726505,1.0,0.0,0,False,20.0,6,True,0,1,0,1,0,False
 2.42,4.8,4.6,1.0,0.0,8,False,86.7,6,True,0,1,0,0,1,True
 3.03,4.0,4.5,1.0,0.0,0,False,40.0,6,True,0,1,0,0,1,True
@@ -10992,7 +10951,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.23,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 3.38,5.0,5.0,1.0,0.0,0,False,100.0,4,False,0,1,0,1,0,True
 2.61,4.5,5.0,1.0,0.0,2,False,50.0,2,False,0,1,1,0,0,True
-2.87,,5.0,2.0,100.0,0,False,100.0,4,False,0,1,0,1,0,True
 3.8,3.0,4.601696940726505,1.0,0.0,0,False,100.0,3,False,0,1,0,1,0,False
 2.26,5.0,5.0,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,True
 2.11,5.0,5.0,1.0,0.0,1,False,0.0,3,False,1,0,0,0,1,True
@@ -11015,7 +10973,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.09,4.9,4.4,1.07,7.0,3,True,82.5,6,True,0,1,0,0,1,True
 3.49,4.8,4.8,1.08,12.5,7,True,51.8,6,True,0,1,0,1,0,True
 10.66,5.0,5.0,1.0,0.0,4,True,100.0,2,False,1,0,0,0,1,True
-0.62,,5.0,1.0,0.0,0,False,100.0,2,False,0,1,0,1,0,True
 1.56,4.8,5.0,1.0,0.0,0,True,100.0,6,True,1,0,0,1,0,True
 5.7,4.5,4.8,1.0,0.0,1,True,33.3,4,False,0,1,1,0,0,True
 27.94,5.0,5.0,1.0,0.0,0,False,100.0,5,False,1,0,0,1,0,True
@@ -11063,7 +11020,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.82,4.9,4.2,1.04,2.6,5,True,94.9,6,True,0,1,0,0,1,True
 5.38,4.8,4.6,1.14,18.5,4,True,51.9,6,True,0,1,0,0,1,True
 3.35,4.7,4.7,1.0,0.0,3,False,100.0,1,False,0,1,0,0,1,True
-5.95,,5.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 3.69,5.0,5.0,1.0,0.0,0,True,50.0,5,False,0,1,1,0,0,True
 4.49,4.6,4.9,1.0,0.0,0,True,80.0,6,True,0,1,1,0,0,True
 1.81,5.0,5.0,1.0,0.0,2,False,66.7,5,False,0,1,0,0,1,True
@@ -11230,7 +11186,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.87,4.3,5.0,1.0,0.0,4,True,75.0,2,False,1,0,1,0,0,True
 1.34,3.7,5.0,1.0,0.0,3,True,0.0,1,False,0,1,0,0,1,True
 7.02,5.0,5.0,1.0,0.0,2,False,60.0,6,True,0,1,0,0,1,True
-3.17,,4.601696940726505,1.0,0.0,1,True,0.0,1,False,0,1,0,0,1,False
 3.69,5.0,5.0,1.0,0.0,0,True,100.0,4,False,1,0,1,0,0,True
 1.56,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,1,0,False
 5.45,4.3,4.5,1.0,0.0,3,True,100.0,2,False,0,1,1,0,0,True
@@ -11252,7 +11207,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.91,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,1,0,True
 3.5,5.0,4.601696940726505,1.0,0.0,1,True,100.0,6,True,0,1,0,1,0,False
 6.83,5.0,5.0,1.22,22.2,1,False,77.8,4,False,0,1,1,0,0,True
-2.55,,5.0,1.0,0.0,0,False,100.0,2,False,0,1,0,0,1,True
 4.07,5.0,5.0,1.0,0.0,2,True,0.0,6,True,0,1,1,0,0,True
 5.03,4.8,4.7,1.05,20.0,0,False,60.0,7,False,1,0,0,0,1,True
 2.26,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,False
@@ -11419,7 +11373,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 14.94,5.0,5.0,1.0,0.0,0,False,100.0,3,False,0,1,1,0,0,True
 4.73,5.0,5.0,1.0,0.0,0,True,100.0,7,False,0,1,0,1,0,True
 10.22,5.0,4.0,1.0,0.0,4,False,50.0,4,False,0,1,0,0,1,True
-4.14,,5.0,1.75,100.0,0,False,100.0,2,False,1,0,0,0,1,True
 6.13,5.0,4.0,1.0,0.0,2,False,100.0,6,True,1,0,1,0,0,True
 2.99,5.0,4.1,1.0,0.0,0,False,44.4,4,False,0,1,1,0,0,True
 1.68,5.0,4.0,1.0,0.0,2,True,100.0,1,False,1,0,0,0,1,True
@@ -11516,7 +11469,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.56,5.0,4.601696940726505,1.0,0.0,1,True,100.0,2,False,0,1,1,0,0,False
 7.88,5.0,5.0,1.0,0.0,0,False,33.3,6,True,0,1,0,1,0,True
 3.81,4.9,3.9,1.14,22.2,3,True,33.3,6,True,0,1,1,0,0,True
-2.16,,4.0,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,True
 6.16,4.7,4.8,1.23,23.1,0,True,38.5,6,True,0,1,1,0,0,True
 13.24,5.0,5.0,2.25,100.0,0,False,0.0,2,False,1,0,1,0,0,True
 2.6,5.0,5.0,1.0,0.0,0,False,100.0,5,False,0,1,0,0,1,True
@@ -11571,7 +11523,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.57,5.0,4.3,1.17,16.7,0,False,50.0,6,True,0,1,0,1,0,True
 1.86,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,1,0,0,True
 2.89,4.7,3.9,1.05,6.3,7,False,68.8,4,False,0,1,0,0,1,True
-1.63,,4.601696940726505,1.0,0.0,2,False,100.0,6,True,1,0,0,1,0,False
 3.39,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 11.49,4.8,4.8,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,True
 4.05,5.0,5.0,1.0,0.0,2,True,0.0,1,False,0,1,1,0,0,True
@@ -11640,7 +11591,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.48,5.0,4.3,1.04,8.7,10,False,78.3,6,True,0,1,1,0,0,True
 13.53,5.0,4.601696940726505,1.0,0.0,0,False,0.0,5,False,0,1,0,0,1,False
 2.31,5.0,5.0,1.42,33.3,0,True,0.0,6,True,0,1,1,0,0,True
-8.14,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 8.79,4.5,4.5,1.0,0.0,6,True,86.4,6,True,0,1,0,0,1,True
 1.85,5.0,3.0,1.5,50.0,2,False,100.0,1,False,1,0,1,0,0,True
 28.89,4.0,4.601696940726505,1.0,0.0,0,True,100.0,5,False,1,0,0,0,1,False
@@ -11749,7 +11699,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.3,4.6,4.0,1.0,0.0,1,False,80.0,6,True,0,1,0,0,1,True
 3.59,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,1,0,True
 5.1,4.4,4.0,1.0,0.0,1,False,57.1,5,False,0,1,0,0,1,True
-2.0,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 2.31,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,True
 7.76,5.0,4.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 4.4,4.8,5.0,1.0,0.0,0,True,0.0,6,True,1,0,0,1,0,True
@@ -11892,7 +11841,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.27,4.9,3.5,1.25,28.6,3,True,64.3,6,True,1,0,0,1,0,True
 3.38,5.0,3.0,2.0,50.0,0,False,0.0,3,False,1,0,1,0,0,True
 3.84,5.0,5.0,1.0,0.0,2,False,0.0,1,False,0,1,1,0,0,True
-2.66,,5.0,1.0,0.0,0,False,100.0,4,False,0,1,1,0,0,True
 3.67,4.0,4.601696940726505,1.0,0.0,0,False,100.0,5,False,1,0,0,0,1,False
 16.07,5.0,4.601696940726505,1.0,0.0,0,False,100.0,5,False,0,1,0,0,1,False
 16.47,5.0,5.0,1.0,0.0,2,False,100.0,1,False,1,0,0,0,1,True
@@ -12081,7 +12029,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 0.75,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,1,0,0,True
 12.84,5.0,4.0,1.0,0.0,0,True,100.0,3,False,0,1,0,0,1,True
 4.16,5.0,5.0,1.0,0.0,1,True,0.0,1,False,0,1,0,0,1,True
-4.58,,4.601696940726505,1.0,0.0,0,False,0.0,6,True,0,1,0,1,0,False
 1.56,5.0,5.0,1.0,0.0,0,True,0.0,4,False,0,1,1,0,0,True
 15.65,5.0,4.601696940726505,1.0,0.0,1,True,50.0,6,True,0,0,0,1,0,False
 7.26,4.7,5.0,1.0,0.0,3,False,54.8,7,False,0,1,0,0,1,True
@@ -12184,7 +12131,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.45,5.0,4.0,2.63,100.0,2,False,50.0,1,False,0,1,1,0,0,True
 1.72,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,False
 6.15,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,1,0,0,True
-9.21,,5.0,1.0,0.0,0,False,0.0,4,False,1,0,0,1,0,True
 13.52,5.0,4.7,1.0,0.0,2,False,25.0,5,False,0,1,0,0,1,True
 2.54,4.5,5.0,1.0,0.0,2,False,0.0,1,False,0,1,1,0,0,True
 2.64,4.5,5.0,1.16,21.4,1,True,35.7,6,True,0,1,0,1,0,True
@@ -12307,7 +12253,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.03,4.0,5.0,1.0,0.0,2,False,100.0,1,False,1,0,0,1,0,True
 5.88,5.0,4.0,1.0,0.0,3,True,66.7,6,True,0,1,0,0,1,True
 1.71,4.0,5.0,1.0,0.0,2,True,50.0,1,False,1,0,0,0,1,True
-7.21,,4.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
 3.56,4.8,4.6,1.0,0.0,5,True,100.0,4,False,1,0,1,0,0,True
 2.46,4.6,4.4,1.16,25.0,3,False,37.5,6,True,0,1,0,0,1,True
 4.58,4.8,5.0,1.2,20.0,2,False,60.0,3,False,1,0,0,1,0,True
@@ -12351,7 +12296,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.06,4.6,5.0,1.13,7.1,5,False,64.3,6,True,0,1,0,0,1,True
 3.56,4.6,4.9,1.07,9.1,18,True,87.0,5,False,1,0,1,0,0,True
 17.19,4.5,5.0,1.0,0.0,1,False,50.0,6,True,0,1,1,0,0,True
-6.37,,4.601696940726505,1.0,0.0,1,False,100.0,2,False,0,1,0,1,0,False
 3.64,5.0,4.0,1.5,100.0,0,False,0.0,6,True,0,1,0,1,0,True
 2.27,5.0,4.601696940726505,1.0,0.0,0,True,100.0,4,False,0,1,0,0,1,False
 24.7,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
@@ -13047,7 +12991,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 13.55,4.7,5.0,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,True
 4.7,5.0,2.7,1.08,33.3,3,False,0.0,1,False,1,0,0,0,1,True
 3.36,5.0,4.7,1.25,28.6,2,False,28.6,6,True,0,1,1,0,0,True
-2.85,,4.601696940726505,1.0,0.0,1,False,100.0,6,True,0,1,0,1,0,False
 2.57,5.0,4.6,1.0,0.0,1,False,16.7,6,True,1,0,1,0,0,True
 8.16,4.7,5.0,1.0,0.0,0,True,66.7,6,True,1,0,0,1,0,True
 19.74,5.0,4.601696940726505,1.0,0.0,0,True,100.0,6,True,0,1,0,0,1,False
@@ -13120,7 +13063,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 10.54,4.7,4.4,1.0,0.0,2,False,71.4,6,True,0,1,0,0,1,True
 6.74,4.9,5.0,1.09,7.1,10,True,66.7,6,True,0,1,0,0,1,True
 11.08,5.0,4.601696940726505,1.0,0.0,1,False,0.0,2,False,0,1,1,0,0,False
-2.92,,4.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 3.41,5.0,3.0,2.25,100.0,1,False,0.0,1,False,0,1,1,0,0,True
 22.2,5.0,5.0,1.0,0.0,1,False,0.0,2,False,1,0,0,0,1,True
 7.12,5.0,4.0,1.0,0.0,4,False,100.0,1,False,0,1,1,0,0,True
@@ -13867,7 +13809,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.48,4.8,5.0,1.06,25.0,1,True,75.0,6,True,0,1,0,0,1,True
 7.04,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,1,0,False
 3.92,5.0,4.0,1.0,0.0,0,False,0.0,2,False,0,1,0,0,1,True
-15.79,,4.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 4.51,5.0,5.0,1.0,0.0,1,True,100.0,1,False,1,0,0,0,1,True
 1.07,1.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 2.96,4.5,5.0,1.0,0.0,2,False,50.0,3,False,0,1,1,0,0,True
@@ -14378,7 +14319,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.67,5.0,5.0,2.5,100.0,1,False,0.0,1,False,1,0,0,0,1,True
 2.03,4.8,4.8,1.13,27.0,13,False,57.1,6,True,0,1,0,1,0,True
 1.92,4.9,4.8,1.07,20.0,0,False,53.3,6,True,0,1,0,1,0,True
-1.29,,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,0,1,0,False
 14.75,5.0,4.601696940726505,1.0,0.0,0,True,0.0,6,True,0,1,0,1,0,False
 4.0,5.0,4.601696940726505,1.0,0.0,0,True,0.0,3,False,0,1,0,0,1,False
 4.65,5.0,5.0,1.0,0.0,0,False,0.0,5,False,1,0,1,0,0,True
@@ -14686,7 +14626,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.78,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
 3.64,4.0,4.0,1.44,25.0,3,False,75.0,3,False,0,1,0,0,1,True
 3.84,4.8,4.1,1.1,23.8,4,True,14.3,6,True,0,1,0,0,1,True
-0.97,,3.0,4.0,100.0,0,False,100.0,3,False,1,0,0,0,1,True
 1.88,5.0,5.0,1.0,0.0,0,False,100.0,4,False,0,1,1,0,0,True
 12.07,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,0,1,0,True
 12.61,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,False
@@ -14888,7 +14827,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.93,4.4,4.3,1.14,22.2,0,True,0.0,5,False,0,1,0,0,1,True
 2.89,5.0,4.0,1.0,0.0,0,False,100.0,6,True,0,0,0,1,0,True
 0.92,2.0,4.601696940726505,1.0,0.0,0,True,0.0,6,True,0,1,1,0,0,False
-5.68,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,True
 2.28,4.9,3.9,1.23,35.7,3,False,70.0,6,True,0,1,0,1,0,True
 25.05,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,0,1,0,False
 7.39,4.3,5.0,1.0,0.0,1,True,33.3,5,False,1,0,0,0,1,True
@@ -14931,7 +14869,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.38,3.7,3.0,1.0,0.0,0,True,33.3,4,False,0,1,0,0,1,True
 3.06,4.4,4.8,1.05,6.1,6,False,57.6,6,True,0,1,0,0,1,True
 1.55,4.8,4.8,1.0,0.0,2,True,60.0,6,True,0,1,1,0,0,True
-2.42,,5.0,1.0,0.0,0,True,100.0,6,True,1,0,0,0,1,True
 2.1,5.0,5.0,1.0,0.0,1,True,100.0,1,False,1,0,1,0,0,True
 5.84,5.0,4.601696940726505,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,False
 7.24,5.0,5.0,1.0,0.0,1,False,100.0,5,False,0,1,0,0,1,True
@@ -15264,7 +15201,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 16.1,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,1,0,0,False
 4.47,5.0,4.2,1.08,16.7,1,True,50.0,6,True,0,1,0,1,0,True
 4.41,4.7,3.0,1.1,5.3,2,False,42.1,6,True,0,1,0,0,1,True
-2.22,,1.0,1.0,0.0,0,False,0.0,3,False,1,0,1,0,0,True
 13.2,4.0,5.0,1.0,0.0,0,False,0.0,6,True,1,0,0,0,1,True
 3.8,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,False
 8.44,5.0,2.5,1.0,0.0,1,True,100.0,6,True,0,1,0,0,1,True
@@ -15755,12 +15691,10 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.07,5.0,4.7,1.0,0.0,1,True,100.0,6,True,0,1,1,0,0,True
 15.98,5.0,4.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 11.22,5.0,5.0,1.0,0.0,1,True,100.0,2,False,0,1,0,0,1,True
-2.33,,4.601696940726505,1.75,100.0,0,True,100.0,6,True,0,1,0,1,0,False
 2.89,4.7,4.9,1.11,16.7,1,False,47.2,6,True,0,1,0,1,0,True
 4.07,5.0,4.0,2.5,100.0,0,False,0.0,3,False,0,1,0,0,1,True
 8.31,4.6,5.0,1.0,0.0,2,False,100.0,6,True,0,1,0,0,1,True
 4.44,5.0,4.4,1.0,0.0,4,False,85.7,6,True,0,1,0,1,0,True
-3.16,,4.601696940726505,1.0,0.0,0,True,0.0,3,False,1,0,0,0,1,False
 6.54,5.0,3.5,1.08,33.3,1,False,66.7,5,False,0,1,1,0,0,True
 1.6,4.4,5.0,1.12,23.5,3,False,41.2,5,False,0,1,1,0,0,True
 3.96,4.9,5.0,1.22,25.0,1,False,100.0,6,True,0,1,1,0,0,True
@@ -15800,7 +15734,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.65,4.8,3.9,1.0,0.0,0,False,87.5,4,False,0,1,0,0,1,True
 4.09,5.0,5.0,1.0,0.0,5,True,100.0,1,False,0,1,0,0,1,True
 1.54,5.0,4.601696940726505,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,False
-36.34,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,True
 2.19,5.0,5.0,1.0,0.0,0,False,0.0,6,True,1,0,1,0,0,True
 5.56,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,False
 5.85,4.7,5.0,1.0,0.0,3,True,100.0,6,True,0,1,0,0,1,True
@@ -15883,7 +15816,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.58,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 7.04,5.0,5.0,1.0,0.0,0,True,100.0,4,False,0,1,0,0,1,True
 5.78,4.8,3.6,1.0,0.0,5,True,20.0,1,False,0,1,0,0,1,True
-4.01,,5.0,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,True
 2.45,4.7,4.8,1.01,2.1,6,True,72.3,6,True,0,1,0,0,1,True
 1.81,5.0,5.0,1.21,16.7,4,True,66.7,6,True,0,1,0,0,1,True
 5.51,4.8,4.3,1.0,0.0,2,True,75.0,4,False,0,1,0,0,1,True
@@ -16713,7 +16645,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.6,4.7,4.0,1.0,0.0,0,False,100.0,4,False,1,0,0,1,0,True
 5.59,5.0,5.0,1.0,0.0,3,True,33.3,2,False,0,1,0,0,1,True
 13.71,5.0,5.0,1.0,0.0,1,True,0.0,1,False,1,0,0,0,1,True
-2.21,,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,False
 3.64,4.6,5.0,1.17,15.3,9,True,62.7,6,True,0,1,0,0,1,True
 2.42,5.0,5.0,1.0,0.0,7,True,14.3,1,False,0,1,1,0,0,True
 4.98,4.0,5.0,1.0,0.0,0,False,0.0,5,False,0,1,1,0,0,True
@@ -17012,7 +16943,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 25.08,5.0,4.0,1.0,0.0,0,False,100.0,4,False,0,1,0,0,1,True
 15.68,5.0,5.0,1.0,0.0,0,False,100.0,5,False,0,1,1,0,0,True
 1.05,5.0,5.0,1.0,0.0,1,False,100.0,2,False,0,1,1,0,0,True
-5.51,,5.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
 9.96,5.0,4.8,1.0,0.0,4,False,100.0,1,False,1,0,0,0,1,True
 7.41,5.0,4.2,1.0,0.0,4,True,55.6,6,True,1,0,0,1,0,True
 5.08,5.0,4.5,1.0,0.0,3,True,66.7,2,False,1,0,0,0,1,True
@@ -17069,7 +16999,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.2,5.0,4.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
 2.2,5.0,4.601696940726505,1.25,100.0,1,False,0.0,1,False,1,0,0,0,1,False
 3.01,4.7,4.8,1.17,16.7,1,False,66.7,4,False,1,0,0,0,1,True
-1.66,,5.0,1.58,66.7,0,False,0.0,3,False,0,1,1,0,0,True
 3.02,5.0,5.0,1.0,0.0,1,True,100.0,2,False,0,1,0,0,1,True
 2.34,5.0,5.0,1.0,0.0,1,True,0.0,1,False,0,1,1,0,0,True
 1.41,4.7,4.0,1.0,0.0,0,False,66.7,3,False,0,1,0,0,1,True
@@ -17241,7 +17170,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.83,4.6,4.5,1.0,0.0,3,False,9.1,5,False,1,0,0,0,1,True
 3.41,4.7,4.3,1.0,0.0,1,True,71.4,6,True,0,1,0,0,1,True
 5.73,5.0,5.0,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,True
-2.15,,4.601696940726505,1.0,0.0,0,False,100.0,4,False,0,1,0,0,1,False
 1.96,5.0,4.7,1.0,0.0,1,False,66.7,5,False,0,1,0,0,1,True
 10.27,4.8,5.0,1.0,0.0,0,False,100.0,6,True,0,1,1,0,0,True
 3.85,5.0,5.0,1.0,0.0,1,False,0.0,4,False,0,1,1,0,0,True
@@ -17291,7 +17219,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.0,5.0,5.0,1.25,50.0,0,False,50.0,5,False,0,1,1,0,0,True
 2.76,5.0,3.0,1.33,33.3,1,False,66.7,2,False,0,1,0,0,1,True
 2.08,4.8,4.3,1.01,3.9,14,False,93.4,5,False,0,1,1,0,0,True
-23.16,,5.0,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,True
 2.72,5.0,4.601696940726505,1.0,0.0,0,True,100.0,3,False,1,0,1,0,0,False
 4.08,5.0,4.3,1.0,0.0,0,False,100.0,3,False,0,1,0,0,1,True
 16.33,5.0,4.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
@@ -17342,7 +17269,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 0.0,5.0,4.0,1.0,0.0,1,True,0.0,1,False,1,0,0,0,1,True
 3.48,5.0,4.6,1.0,0.0,1,False,25.0,5,False,0,1,0,0,1,True
 4.85,4.6,5.0,1.0,0.0,2,False,45.5,5,False,0,1,0,0,1,True
-4.85,,4.601696940726505,1.0,0.0,0,False,0.0,6,True,0,1,0,0,1,False
 11.45,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,True
 2.27,5.0,5.0,2.25,50.0,2,True,0.0,2,False,1,0,0,0,1,True
 7.21,5.0,4.601696940726505,1.0,0.0,1,True,100.0,2,False,1,0,1,0,0,False
@@ -17809,7 +17735,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 12.44,4.8,5.0,1.0,0.0,5,True,62.5,6,True,1,0,0,0,1,True
 5.14,4.8,4.8,1.02,3.8,1,True,76.9,6,True,0,0,0,1,0,True
 0.9,5.0,4.0,1.5,100.0,1,False,0.0,1,False,1,0,0,0,1,True
-3.35,,5.0,2.0,100.0,0,False,100.0,6,True,0,1,0,1,0,True
 2.75,5.0,5.0,1.0,0.0,0,False,100.0,5,False,0,1,1,0,0,True
 3.95,5.0,4.601696940726505,2.0,100.0,1,False,0.0,1,False,0,1,1,0,0,False
 6.1,4.8,5.0,1.0,0.0,0,True,100.0,6,True,0,1,0,0,1,True
@@ -18552,7 +18477,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.99,5.0,4.4,1.14,7.1,2,False,78.6,5,False,1,0,0,0,1,True
 1.09,5.0,2.0,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,True
 15.62,4.0,5.0,1.0,0.0,0,False,0.0,3,False,0,1,1,0,0,True
-1.24,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 2.61,4.7,5.0,1.08,9.4,1,False,85.9,7,False,0,1,1,0,0,True
 0.43,5.0,5.0,1.0,0.0,0,False,100.0,3,False,1,0,1,0,0,True
 6.37,5.0,4.601696940726505,1.0,0.0,1,True,0.0,1,False,0,1,1,0,0,False
@@ -18956,7 +18880,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.33,4.7,5.0,1.0,0.0,2,True,66.7,6,True,0,1,0,0,1,True
 2.77,4.8,4.5,1.08,12.5,0,True,75.0,6,True,0,1,1,0,0,True
 1.73,4.5,5.0,1.0,0.0,0,False,100.0,3,False,0,1,0,0,1,True
-2.83,,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,False
 8.99,5.0,4.601696940726505,1.0,0.0,1,False,100.0,7,False,0,1,0,0,1,False
 11.4,4.9,4.7,1.25,28.6,1,False,14.3,6,True,0,1,1,0,0,True
 2.23,5.0,5.0,1.0,0.0,6,True,33.3,2,False,0,1,1,0,0,True
@@ -19698,7 +19621,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.39,5.0,4.0,1.0,0.0,0,True,100.0,4,False,0,1,0,0,1,True
 6.14,5.0,4.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 7.75,4.8,5.0,1.0,0.0,1,True,100.0,5,False,1,0,0,0,1,True
-5.05,,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,False
 1.78,4.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,0,1,0,True
 1.07,4.0,5.0,1.0,0.0,1,True,0.0,1,False,1,0,0,0,1,True
 2.83,5.0,4.5,1.0,0.0,2,False,50.0,6,True,0,1,0,0,1,True
@@ -19974,7 +19896,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.96,5.0,4.7,1.0,0.0,3,False,66.7,1,False,0,1,0,0,1,True
 2.41,5.0,4.9,1.21,25.0,5,False,83.3,4,False,0,1,1,0,0,True
 2.92,4.8,4.9,1.24,28.9,10,False,80.0,6,True,0,1,0,1,0,True
-1.44,,5.0,1.75,100.0,1,False,100.0,1,False,0,1,0,0,1,True
 4.38,5.0,4.601696940726505,1.0,0.0,1,True,100.0,2,False,0,1,1,0,0,False
 6.34,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 6.28,5.0,4.601696940726505,1.0,0.0,1,True,0.0,1,False,0,1,1,0,0,False
@@ -19985,7 +19906,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.11,4.0,5.0,1.0,0.0,2,False,50.0,2,False,1,0,1,0,0,True
 1.26,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,1,0,False
 4.69,4.9,5.0,1.02,7.1,2,True,64.3,6,True,0,1,1,0,0,True
-3.68,,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,False
 0.89,5.0,4.601696940726505,1.0,0.0,1,True,0.0,1,False,1,0,0,0,1,False
 1.5,4.8,3.9,1.04,7.1,4,False,78.6,6,True,0,1,0,1,0,True
 2.35,5.0,5.0,1.0,0.0,3,True,66.7,6,True,0,1,0,1,0,True
@@ -20079,7 +19999,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.8,5.0,3.5,1.0,0.0,1,False,100.0,3,False,0,1,0,0,1,True
 15.02,5.0,5.0,2.0,100.0,1,False,100.0,1,False,0,1,0,1,0,True
 0.64,4.7,5.0,1.07,14.3,3,False,28.6,4,False,0,1,0,0,1,True
-12.05,,4.601696940726505,1.0,0.0,0,False,100.0,2,False,0,1,0,0,1,False
 8.98,4.4,3.0,1.05,10.0,0,False,90.0,6,True,0,1,0,0,1,True
 2.16,4.7,4.5,1.02,5.5,8,False,89.1,6,True,0,1,0,1,0,True
 3.46,4.7,4.6,1.25,16.7,6,False,100.0,1,False,0,1,0,0,1,True
@@ -20208,7 +20127,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 13.08,4.8,4.7,1.02,6.3,0,False,81.3,6,True,0,1,0,1,0,True
 6.21,5.0,4.0,1.0,0.0,1,False,100.0,2,False,1,0,0,1,0,True
 5.95,5.0,4.601696940726505,1.0,0.0,0,False,100.0,5,False,0,1,0,0,1,False
-1.25,,5.0,1.0,0.0,1,False,100.0,2,False,1,0,1,0,0,True
 3.04,4.5,4.0,1.0,0.0,4,False,75.0,1,False,0,1,0,0,1,True
 2.66,4.5,5.0,1.25,50.0,3,False,50.0,3,False,0,1,0,0,1,True
 20.0,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
@@ -20216,7 +20134,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.06,5.0,4.601696940726505,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,False
 15.22,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
 3.15,5.0,5.0,1.0,0.0,1,False,66.7,3,False,0,1,0,0,1,True
-1.26,,5.0,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,True
 1.91,4.6,4.9,1.03,3.7,9,True,84.1,7,False,0,1,1,0,0,True
 1.72,5.0,4.5,1.0,0.0,2,True,0.0,1,False,1,0,1,0,0,True
 3.97,4.4,3.6,1.07,8.3,10,False,64.6,6,True,0,1,0,0,1,True
@@ -20254,7 +20171,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.9,5.0,5.0,1.0,0.0,1,False,100.0,6,True,0,1,1,0,0,True
 6.93,5.0,4.601696940726505,1.25,100.0,1,False,100.0,1,False,0,1,0,0,1,False
 13.78,5.0,5.0,1.0,0.0,0,False,100.0,6,True,0,1,0,0,1,True
-9.12,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 10.58,4.0,4.601696940726505,1.0,0.0,1,False,25.0,5,False,0,1,1,0,0,False
 8.14,5.0,5.0,1.0,0.0,1,True,60.0,7,False,1,0,0,1,0,True
 4.28,5.0,5.0,1.0,0.0,0,True,100.0,4,False,1,0,0,0,1,True
@@ -20402,7 +20318,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.99,4.8,4.6,1.16,24.1,2,True,65.5,6,True,0,1,0,0,1,True
 2.26,4.9,4.8,1.04,11.1,9,True,40.7,6,True,0,1,0,1,0,True
 39.31,5.0,5.0,1.0,0.0,1,True,0.0,1,False,1,0,0,0,1,True
-4.35,,5.0,1.25,100.0,0,False,0.0,3,False,0,1,0,0,1,True
 2.0,5.0,5.0,1.08,33.3,4,False,50.0,6,True,0,1,0,1,0,True
 1.29,5.0,5.0,1.0,0.0,0,False,0.0,4,False,0,1,0,1,0,True
 2.51,4.8,5.0,1.08,11.1,2,False,64.8,6,True,0,1,0,1,0,True
@@ -20419,7 +20334,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.18,4.8,3.9,1.03,4.1,11,False,91.8,6,True,0,1,0,0,1,True
 5.93,5.0,5.0,1.0,0.0,1,False,100.0,7,False,0,1,0,1,0,True
 1.9,3.7,3.7,1.13,16.7,2,True,83.3,6,True,0,1,0,1,0,True
-4.88,,3.0,1.0,0.0,0,False,0.0,2,False,0,1,1,0,0,True
 3.95,4.8,4.5,1.0,0.0,2,False,75.0,3,False,1,0,0,0,1,True
 6.96,5.0,5.0,1.0,0.0,6,False,45.5,6,True,0,1,0,1,0,True
 7.27,4.5,5.0,1.0,0.0,1,True,100.0,3,False,0,1,1,0,0,True
@@ -20609,7 +20523,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.22,5.0,5.0,1.0,0.0,0,False,100.0,5,False,0,1,1,0,0,True
 1.36,4.4,3.3,1.0,0.0,10,False,51.1,6,True,0,1,0,0,1,True
 3.06,4.9,4.3,1.18,28.6,4,False,85.7,5,False,0,1,1,0,0,True
-1.14,,5.0,1.0,0.0,0,False,100.0,5,False,0,1,1,0,0,True
 2.93,4.7,4.7,1.16,21.4,3,True,57.1,6,True,0,1,0,1,0,True
 2.74,5.0,4.8,1.2,31.3,5,True,56.3,6,True,0,1,0,1,0,True
 3.01,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,0,1,True
@@ -20849,12 +20762,10 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.95,5.0,5.0,1.0,0.0,1,False,100.0,2,False,1,0,1,0,0,True
 3.09,5.0,4.5,1.88,75.0,3,False,25.0,5,False,0,1,0,0,1,True
 6.67,5.0,4.9,1.41,45.5,4,True,36.4,6,True,0,1,0,1,0,True
-3.14,,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,0,1,True
 3.84,5.0,5.0,1.0,0.0,0,True,100.0,3,False,0,1,1,0,0,True
 7.55,4.7,5.0,1.0,0.0,1,True,60.0,6,True,0,1,0,0,1,True
 1.77,5.0,4.601696940726505,1.0,0.0,0,False,0.0,5,False,1,0,1,0,0,False
 2.75,3.8,2.0,1.25,25.0,3,False,100.0,6,True,0,1,0,0,1,True
-1.95,,5.0,1.0,0.0,1,True,100.0,1,False,1,0,0,0,1,True
 2.49,4.8,4.9,1.23,21.4,5,False,64.3,6,True,0,1,0,0,1,True
 4.54,4.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,False
 13.97,5.0,5.0,1.0,0.0,0,False,100.0,5,False,0,1,0,1,0,True
@@ -20939,7 +20850,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 23.68,5.0,4.5,1.0,0.0,0,True,100.0,6,True,1,0,0,1,0,True
 1.42,5.0,5.0,1.0,0.0,0,True,50.0,6,True,0,1,0,0,1,True
 15.23,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,False
-5.86,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 0.82,1.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,False
 3.58,4.8,5.0,1.0,0.0,3,False,20.0,5,False,0,1,0,0,1,True
 2.18,5.0,4.601696940726505,1.0,0.0,0,False,100.0,3,False,0,1,1,0,0,False
@@ -21090,7 +21000,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.54,4.7,5.0,1.0,0.0,1,True,33.3,6,True,1,0,0,1,0,True
 1.95,5.0,4.2,1.02,6.7,2,False,46.7,6,True,0,1,0,1,0,True
 26.95,5.0,5.0,1.0,0.0,1,True,0.0,4,False,0,1,0,0,1,True
-5.9,,4.0,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,True
 10.68,5.0,5.0,1.13,50.0,2,False,0.0,1,False,0,1,0,1,0,True
 16.18,5.0,5.0,2.0,100.0,1,False,100.0,1,False,0,1,0,0,1,True
 10.67,5.0,5.0,1.0,0.0,2,False,100.0,2,False,1,0,0,0,1,True
@@ -21260,7 +21169,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.21,5.0,3.0,1.0,0.0,1,False,100.0,4,False,0,1,0,0,1,True
 3.49,5.0,4.0,1.05,10.0,2,True,30.0,6,True,0,1,1,0,0,True
 3.81,5.0,5.0,1.0,0.0,0,False,100.0,3,False,0,1,0,1,0,True
-2.32,,5.0,1.0,0.0,0,False,100.0,4,False,0,1,1,0,0,True
 3.67,3.0,1.0,1.0,0.0,0,False,100.0,5,False,0,1,1,0,0,True
 1.83,5.0,5.0,1.0,0.0,2,False,100.0,1,False,1,0,1,0,0,True
 2.54,4.0,3.0,1.0,0.0,2,False,33.3,3,False,1,0,0,0,1,True
@@ -21755,7 +21663,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 0.62,5.0,4.601696940726505,1.0,0.0,0,False,100.0,3,False,0,1,1,0,0,False
 8.33,5.0,4.0,1.0,0.0,0,False,100.0,6,True,0,1,1,0,0,True
 1.3,5.0,5.0,1.08,33.3,3,False,0.0,2,False,1,0,0,0,1,True
-4.03,,3.0,2.5,100.0,0,False,0.0,3,False,0,1,1,0,0,True
 8.85,5.0,4.5,1.0,0.0,2,True,50.0,1,False,0,1,0,1,0,True
 6.29,4.5,4.7,1.0,0.0,0,True,50.0,5,False,0,1,1,0,0,True
 6.43,5.0,4.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
@@ -22276,7 +22183,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.3,5.0,5.0,1.0,0.0,2,False,100.0,1,False,1,0,0,0,1,True
 3.65,5.0,4.601696940726505,1.0,0.0,1,True,100.0,1,False,0,1,1,0,0,False
 15.57,5.0,5.0,1.63,50.0,0,False,0.0,3,False,0,1,0,1,0,True
-2.24,,5.0,1.0,0.0,1,True,0.0,5,False,0,1,0,0,1,True
 3.39,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,0,1,0,True
 6.12,5.0,4.601696940726505,1.0,0.0,0,False,100.0,5,False,1,0,1,0,0,False
 14.69,5.0,4.601696940726505,1.5,100.0,0,False,0.0,6,True,0,1,0,1,0,False
@@ -22757,7 +22663,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 12.41,5.0,4.5,1.0,0.0,0,False,100.0,6,True,1,0,0,1,0,True
 8.84,5.0,4.0,1.0,0.0,2,False,100.0,1,False,1,0,0,0,1,True
 1.52,5.0,4.601696940726505,1.25,100.0,0,False,0.0,6,True,0,1,0,1,0,False
-2.79,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 6.11,4.0,4.601696940726505,1.0,0.0,1,True,100.0,2,False,1,0,1,0,0,False
 3.57,4.8,4.5,1.1,10.0,1,True,10.0,6,True,0,1,0,1,0,True
 0.96,5.0,5.0,1.88,50.0,2,False,0.0,1,False,0,1,1,0,0,True
@@ -23095,7 +23000,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 9.04,4.5,5.0,1.0,0.0,9,True,75.0,4,False,0,1,1,0,0,True
 4.32,4.5,4.8,1.0,0.0,4,False,57.1,6,True,0,1,0,0,1,True
 6.33,4.8,5.0,1.0,0.0,2,False,25.0,6,True,1,0,1,0,0,True
-14.7,,4.0,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,True
 4.54,5.0,4.8,1.0,0.0,0,False,40.0,6,True,0,1,0,1,0,True
 5.84,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,False
 1.95,5.0,5.0,1.0,0.0,0,False,100.0,3,False,0,1,0,1,0,True
@@ -23309,7 +23213,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.1,5.0,5.0,1.08,33.3,0,True,0.0,3,False,0,1,0,0,1,True
 1.87,5.0,5.0,1.88,50.0,1,False,50.0,3,False,0,1,0,0,1,True
 4.22,4.7,4.7,1.03,11.1,0,False,66.7,6,True,1,0,1,0,0,True
-2.65,,4.601696940726505,1.0,0.0,0,True,0.0,6,True,0,1,0,1,0,False
 2.74,5.0,4.7,1.0,0.0,1,False,0.0,2,False,0,1,0,0,1,True
 3.29,4.7,4.8,1.01,5.6,2,True,83.3,6,True,0,1,0,1,0,True
 5.43,4.8,4.8,1.0,0.0,8,True,65.1,6,True,0,1,0,0,1,True
@@ -23760,7 +23663,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.69,4.7,5.0,1.13,11.1,1,False,38.9,6,True,0,1,0,0,1,True
 4.61,4.0,5.0,1.0,0.0,0,False,66.7,5,False,0,1,1,0,0,True
 4.27,5.0,4.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
-4.39,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 9.4,5.0,5.0,1.0,0.0,0,False,100.0,6,True,0,1,1,0,0,True
 2.45,4.5,5.0,1.0,0.0,4,True,100.0,1,False,1,0,0,0,1,True
 10.27,1.0,5.0,1.0,0.0,0,False,0.0,4,False,1,0,0,0,1,True
@@ -23820,7 +23722,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.47,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 5.72,4.9,4.8,1.1,7.7,3,True,61.5,6,True,1,0,0,0,1,True
 2.3,4.7,5.0,1.13,10.7,6,False,60.7,6,True,1,0,1,0,0,True
-1.34,,4.601696940726505,1.0,0.0,2,False,0.0,6,True,0,1,0,1,0,False
 1.82,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,True
 3.2,1.0,4.0,1.0,0.0,1,False,0.0,2,False,0,1,0,0,1,True
 5.33,5.0,4.601696940726505,1.0,0.0,0,True,0.0,3,False,0,1,1,0,0,False
@@ -23922,7 +23823,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.49,5.0,4.601696940726505,1.0,0.0,0,False,0.0,5,False,0,1,1,0,0,False
 14.0,5.0,5.0,1.0,0.0,2,True,100.0,1,False,1,0,1,0,0,True
 1.85,5.0,5.0,1.0,0.0,0,False,100.0,3,False,0,1,0,0,1,True
-1.3,,4.601696940726505,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,False
 10.32,4.9,4.8,1.18,20.0,5,False,66.7,6,True,0,1,0,1,0,True
 4.53,5.0,5.0,1.0,0.0,0,False,100.0,4,False,1,0,1,0,0,True
 5.89,5.0,3.0,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,True
@@ -23942,7 +23842,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.15,5.0,3.0,1.38,50.0,0,False,50.0,6,True,0,1,0,0,1,True
 5.49,4.7,5.0,1.01,0.8,1,True,89.3,7,False,0,1,0,1,0,True
 1.75,5.0,5.0,1.0,0.0,0,False,100.0,5,False,1,0,1,0,0,True
-10.48,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 2.74,5.0,5.0,1.0,0.0,2,True,100.0,2,False,0,1,0,0,1,True
 2.72,4.9,5.0,1.17,26.8,9,True,31.7,6,True,0,1,0,1,0,True
 5.13,5.0,4.601696940726505,1.0,0.0,1,True,100.0,1,False,1,0,1,0,0,False
@@ -24013,7 +23912,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.64,5.0,4.601696940726505,1.75,100.0,0,False,0.0,6,True,0,1,1,0,0,False
 2.71,5.0,4.0,1.0,0.0,2,False,50.0,2,False,0,1,0,0,1,True
 5.83,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,1,0,0,True
-2.13,,4.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 5.6,5.0,5.0,1.0,0.0,2,True,100.0,1,False,0,1,0,0,1,True
 3.91,5.0,4.0,1.0,0.0,1,False,40.0,4,False,0,1,0,0,1,True
 2.06,4.9,4.3,1.02,8.3,5,True,66.7,6,True,0,1,0,1,0,True
@@ -24091,7 +23989,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.53,4.9,5.0,1.11,18.2,0,False,90.9,5,False,0,1,0,0,1,True
 3.96,4.6,5.0,1.05,4.2,0,False,72.2,5,False,1,0,0,0,1,True
 3.43,5.0,4.6,1.0,0.0,0,True,28.6,4,False,0,1,0,0,1,True
-17.52,,4.601696940726505,1.0,0.0,0,True,100.0,6,True,0,1,0,0,1,False
 8.96,5.0,5.0,1.0,0.0,1,True,50.0,6,True,0,0,0,0,1,True
 1.47,4.6,4.4,1.05,9.1,0,True,81.8,5,False,0,1,0,0,1,True
 3.24,4.6,4.9,1.04,16.7,0,False,33.3,6,True,0,1,0,0,1,True
@@ -24246,7 +24143,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 12.75,5.0,4.601696940726505,1.0,0.0,0,True,33.3,6,True,0,1,1,0,0,False
 2.32,4.9,5.0,1.0,0.0,3,True,14.3,6,True,0,1,0,0,1,True
 3.15,4.8,3.8,1.05,10.0,2,False,70.0,5,False,0,1,0,0,1,True
-2.03,,5.0,1.5,100.0,1,False,0.0,1,False,0,1,0,0,1,True
 12.73,5.0,4.601696940726505,1.0,0.0,1,True,0.0,1,False,0,1,0,0,1,False
 5.13,4.9,5.0,1.05,9.1,1,False,9.1,6,True,0,1,1,0,0,True
 2.49,4.6,4.9,1.05,9.6,38,False,66.0,6,True,0,1,0,0,1,True
@@ -24259,7 +24155,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.09,5.0,5.0,1.0,0.0,0,True,0.0,6,True,0,1,0,1,0,True
 0.08,1.0,1.0,1.0,0.0,0,True,0.0,4,False,1,0,1,0,0,True
 3.77,5.0,5.0,1.0,0.0,1,True,100.0,2,False,1,0,0,1,0,True
-13.72,,4.601696940726505,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,False
 2.91,5.0,4.601696940726505,1.0,0.0,1,True,50.0,5,False,1,0,1,0,0,False
 11.42,5.0,4.7,1.0,0.0,2,False,60.0,6,True,0,1,0,0,1,True
 3.92,4.8,5.0,1.0,0.0,3,False,85.7,6,True,0,1,0,1,0,True
@@ -24773,7 +24668,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.37,5.0,5.0,5.0,100.0,1,False,100.0,1,False,1,0,0,0,1,True
 2.4,4.0,4.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
 5.45,5.0,5.0,1.0,0.0,0,False,100.0,4,False,0,1,1,0,0,True
-3.6,,3.0,1.0,0.0,2,False,100.0,1,False,0,1,0,1,0,True
 3.31,4.9,4.8,1.23,27.3,0,True,63.6,6,True,0,1,0,1,0,True
 4.11,2.0,5.0,3.0,100.0,1,False,0.0,1,False,0,1,0,0,1,True
 9.15,4.5,4.1,1.0,0.0,6,True,90.0,6,True,0,1,0,0,1,True
@@ -26122,7 +26016,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.82,5.0,4.0,1.25,25.0,1,False,25.0,5,False,0,1,1,0,0,True
 12.95,5.0,4.601696940726505,1.0,0.0,0,False,100.0,5,False,1,0,0,1,0,False
 3.46,4.6,4.7,1.02,8.1,3,False,51.4,6,True,0,1,1,0,0,True
-11.78,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 28.76,5.0,4.601696940726505,1.0,0.0,0,True,50.0,4,False,0,1,1,0,0,False
 8.95,5.0,5.0,1.0,0.0,4,True,100.0,5,False,0,1,0,0,1,True
 4.92,5.0,4.3,1.11,22.2,1,True,44.4,6,True,0,1,1,0,0,True
@@ -26177,7 +26070,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.48,4.6,4.4,1.03,5.9,1,True,29.4,5,False,0,1,0,0,1,True
 5.33,4.8,3.9,1.16,5.3,3,False,57.9,5,False,0,1,1,0,0,True
 3.51,5.0,4.601696940726505,1.0,0.0,0,False,100.0,6,True,1,0,1,0,0,False
-1.68,,2.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 2.32,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,1,0,0,True
 2.38,5.0,4.0,1.0,0.0,1,True,100.0,1,False,1,0,0,0,1,True
 1.29,4.8,4.8,1.42,42.9,2,False,23.8,6,True,0,1,1,0,0,True
@@ -26233,7 +26125,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.19,4.0,5.0,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,True
 1.36,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,False
 14.67,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,True
-0.05,,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 14.22,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,0,1,0,0,True
 4.28,5.0,5.0,1.0,0.0,1,False,100.0,2,False,1,0,0,1,0,True
 2.7,5.0,4.601696940726505,1.0,0.0,1,False,100.0,6,True,1,0,1,0,0,False
@@ -26241,7 +26132,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.75,5.0,5.0,1.0,0.0,0,False,100.0,2,False,0,1,1,0,0,True
 8.71,4.0,5.0,1.0,0.0,1,False,100.0,6,True,0,1,0,0,1,True
 6.26,5.0,3.3,1.0,0.0,4,True,100.0,1,False,1,0,1,0,0,True
-1.65,,4.601696940726505,1.75,100.0,0,False,100.0,5,False,0,1,1,0,0,False
 19.35,5.0,5.0,1.0,0.0,8,False,87.5,2,False,1,0,0,0,1,True
 2.85,4.5,4.8,1.0,0.0,3,False,12.5,6,True,0,1,0,0,1,True
 5.04,5.0,4.601696940726505,1.0,0.0,0,False,0.0,5,False,1,0,1,0,0,False
@@ -26271,7 +26161,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.69,5.0,5.0,1.0,0.0,0,True,100.0,6,True,0,1,1,0,0,True
 3.49,5.0,5.0,1.0,0.0,1,True,0.0,1,False,1,0,0,0,1,True
 2.8,5.0,4.601696940726505,1.0,0.0,1,True,100.0,2,False,1,0,1,0,0,False
-3.01,,4.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
 3.23,4.0,4.601696940726505,1.0,0.0,0,True,100.0,4,False,0,1,1,0,0,False
 2.15,4.7,4.4,1.02,4.0,23,False,76.0,6,True,0,1,0,1,0,True
 0.01,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,False
@@ -26354,7 +26243,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.33,4.5,4.1,1.09,14.3,1,True,71.4,6,True,0,1,1,0,0,True
 7.38,4.5,5.0,1.0,0.0,1,False,100.0,5,False,1,0,1,0,0,True
 2.75,5.0,4.3,1.22,22.2,2,False,66.7,6,True,0,1,0,1,0,True
-3.3,,5.0,1.0,0.0,0,True,0.0,3,False,0,1,0,0,1,True
 0.81,4.0,4.601696940726505,1.5,100.0,0,False,100.0,3,False,0,1,1,0,0,False
 3.78,4.8,4.9,1.0,0.0,7,False,71.4,6,True,0,1,0,0,1,True
 2.22,5.0,3.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
@@ -26489,7 +26377,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.03,5.0,4.601696940726505,1.0,0.0,0,False,0.0,4,False,1,0,0,0,1,False
 1.86,4.8,4.6,1.01,3.0,16,False,65.4,6,True,0,1,0,0,1,True
 45.11,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
-0.6,,5.0,1.0,0.0,1,True,0.0,1,False,0,1,0,0,1,True
 2.3,4.8,4.3,1.02,10.0,3,True,20.0,5,False,0,1,1,0,0,True
 10.07,5.0,5.0,1.25,50.0,0,False,0.0,4,False,1,0,1,0,0,True
 5.9,5.0,5.0,1.0,0.0,0,False,50.0,5,False,1,0,1,0,0,True
@@ -27013,7 +26900,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.94,5.0,4.0,1.0,0.0,0,False,66.7,4,False,0,1,0,0,1,True
 7.15,5.0,4.601696940726505,1.0,0.0,1,True,100.0,1,False,1,0,0,0,1,False
 11.57,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,False
-1.53,,4.601696940726505,1.0,0.0,0,True,100.0,6,True,0,1,1,0,0,False
 1.23,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 33.14,4.6,4.8,1.0,0.0,7,False,100.0,3,False,0,1,1,0,0,True
 19.98,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,False
@@ -27391,7 +27277,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.35,4.6,3.4,1.32,30.0,4,False,30.0,6,True,0,1,0,0,1,True
 17.48,5.0,4.3,1.0,0.0,1,True,100.0,6,True,0,1,0,1,0,True
 13.67,5.0,5.0,1.25,100.0,0,False,0.0,2,False,0,1,0,0,1,True
-0.0,,4.601696940726505,1.0,0.0,0,False,0.0,6,True,0,1,0,0,1,False
 1.56,5.0,5.0,1.0,0.0,3,False,75.0,3,False,1,0,1,0,0,True
 14.38,5.0,5.0,1.0,0.0,1,False,75.0,5,False,1,0,1,0,0,True
 2.51,4.7,4.0,1.0,0.0,2,False,100.0,6,True,0,1,0,1,0,True
@@ -27893,7 +27778,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.33,5.0,4.601696940726505,1.0,0.0,0,False,100.0,2,False,1,0,0,0,1,False
 1.31,5.0,5.0,1.0,0.0,0,False,50.0,5,False,0,1,1,0,0,True
 1.89,5.0,5.0,1.0,0.0,2,False,100.0,1,False,0,1,0,0,1,True
-1.44,,4.601696940726505,1.5,100.0,0,False,0.0,6,True,0,1,0,0,1,False
 3.59,4.3,4.0,1.0,0.0,5,False,75.0,5,False,0,1,0,0,1,True
 2.71,4.7,4.5,1.0,0.0,4,True,27.3,6,True,0,1,1,0,0,True
 2.78,4.5,4.4,1.5,20.0,2,True,80.0,6,True,0,1,0,0,1,True
@@ -28206,7 +28090,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.97,5.0,3.0,1.0,0.0,2,True,50.0,1,False,1,0,0,0,1,True
 5.66,4.9,4.9,1.07,5.9,0,False,35.3,6,True,1,0,0,0,1,True
 3.65,5.0,5.0,1.0,0.0,1,False,66.7,5,False,1,0,0,1,0,True
-0.75,,5.0,1.0,0.0,2,False,100.0,1,False,1,0,0,0,1,True
 1.16,4.8,5.0,1.0,0.0,4,True,100.0,6,True,0,1,0,0,1,True
 18.64,5.0,3.5,1.08,11.1,4,True,100.0,5,False,0,1,0,0,1,True
 9.8,4.4,4.5,1.1,12.0,3,False,80.0,4,False,0,1,0,0,1,True
@@ -28345,7 +28228,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.31,4.6,4.0,1.0,0.0,9,False,63.2,6,True,0,1,0,0,1,True
 4.37,4.7,3.5,1.0,0.0,7,True,52.9,6,True,1,0,0,0,1,True
 2.6,5.0,5.0,1.06,25.0,4,False,75.0,2,False,1,0,0,0,1,True
-4.69,,5.0,3.0,100.0,1,False,0.0,1,False,0,1,1,0,0,True
 3.87,5.0,4.601696940726505,1.0,0.0,0,False,50.0,6,True,0,1,1,0,0,False
 5.21,4.7,4.7,1.07,11.5,8,True,50.0,6,True,0,1,0,0,1,True
 30.6,5.0,4.601696940726505,1.0,0.0,0,False,100.0,4,False,0,1,0,0,1,False
@@ -28608,7 +28490,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 0.91,5.0,4.5,1.0,0.0,2,True,0.0,6,True,0,1,0,1,0,True
 2.38,4.2,4.9,1.1,30.0,0,True,60.0,6,True,0,1,0,1,0,True
 3.68,5.0,5.0,1.03,12.5,5,False,75.0,6,True,1,0,0,0,1,True
-12.7,,4.601696940726505,1.0,0.0,0,False,0.0,3,False,1,0,0,0,1,False
 2.98,4.3,4.3,1.0,0.0,0,False,100.0,4,False,1,0,1,0,0,True
 6.78,4.6,5.0,1.0,0.0,1,True,12.5,5,False,1,0,0,1,0,True
 16.6,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,False
@@ -28814,7 +28695,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 13.81,5.0,3.0,2.5,100.0,1,False,0.0,1,False,0,1,0,1,0,True
 4.29,4.6,4.0,1.1,25.0,1,False,66.7,6,True,0,1,1,0,0,True
 2.23,5.0,5.0,1.07,6.8,2,True,29.5,6,True,0,1,0,1,0,True
-3.7,,4.601696940726505,2.0,100.0,0,False,0.0,6,True,0,1,0,1,0,False
 13.36,5.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
 7.65,5.0,5.0,2.25,100.0,1,False,0.0,1,False,1,0,0,0,1,True
 20.57,5.0,4.601696940726505,1.0,0.0,1,False,50.0,3,False,1,0,0,0,1,False
@@ -29383,7 +29263,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.92,4.7,3.5,1.0,0.0,1,True,65.5,6,True,0,1,0,0,1,True
 6.43,5.0,5.0,1.27,10.0,1,True,80.0,6,True,1,0,0,0,1,True
 3.68,5.0,4.601696940726505,1.0,0.0,1,False,100.0,6,True,0,1,0,1,0,False
-1.81,,5.0,1.0,0.0,1,False,0.0,2,False,0,1,1,0,0,True
 3.25,5.0,4.601696940726505,1.0,0.0,0,False,100.0,3,False,0,1,0,0,1,False
 1.64,5.0,4.601696940726505,1.0,0.0,1,False,100.0,6,True,0,1,0,1,0,False
 2.54,4.3,4.5,1.0,0.0,1,False,0.0,6,True,0,1,0,0,1,True
@@ -29393,7 +29272,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 0.52,5.0,5.0,1.0,0.0,1,True,100.0,2,False,1,0,0,0,1,True
 12.0,5.0,5.0,1.0,0.0,0,True,100.0,5,False,1,0,0,1,0,True
 2.23,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,False
-2.55,,5.0,1.0,0.0,0,True,100.0,5,False,0,1,1,0,0,True
 1.99,5.0,4.0,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,True
 5.66,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,0,1,0,0,True
 4.43,5.0,1.0,1.0,0.0,0,True,100.0,6,True,1,0,1,0,0,True
@@ -29673,7 +29551,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.07,4.8,4.8,1.02,3.7,5,True,48.1,6,True,0,1,0,0,1,True
 2.15,5.0,4.8,1.25,33.3,5,False,16.7,3,False,1,0,0,0,1,True
 1.94,4.7,4.9,1.1,11.9,18,True,63.4,5,False,0,1,1,0,0,True
-1.79,,5.0,1.0,0.0,1,False,100.0,2,False,0,1,1,0,0,True
 6.79,3.0,5.0,1.0,0.0,0,False,0.0,6,True,1,0,0,0,1,True
 4.57,5.0,4.0,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,True
 3.52,4.9,4.7,1.0,0.0,3,True,54.5,6,True,0,1,1,0,0,True
@@ -29899,7 +29776,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.04,4.9,4.8,1.3,36.4,2,True,63.6,6,True,0,1,0,1,0,True
 4.15,5.0,5.0,1.0,0.0,2,False,0.0,6,True,0,1,0,0,1,True
 10.72,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,False
-2.43,,4.601696940726505,1.75,100.0,1,False,0.0,1,False,0,1,0,0,1,False
 4.28,4.5,5.0,1.13,25.0,0,False,100.0,6,True,0,1,0,1,0,True
 19.77,5.0,4.0,1.0,0.0,0,True,100.0,3,False,0,1,1,0,0,True
 3.1,4.8,4.4,1.02,10.0,1,True,70.0,6,True,0,1,0,0,1,True
@@ -29996,7 +29872,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 16.47,5.0,4.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
 5.71,5.0,5.0,1.0,0.0,3,True,66.7,1,False,1,0,1,0,0,True
 4.32,4.7,5.0,1.0,0.0,2,False,28.6,5,False,0,1,1,0,0,True
-160.96,,4.601696940726505,1.0,0.0,0,False,100.0,6,True,1,0,1,0,0,False
 4.69,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,0,0,1,False
 13.26,5.0,5.0,1.0,0.0,0,False,100.0,3,False,0,1,0,0,1,True
 10.2,5.0,5.0,1.0,0.0,2,True,50.0,6,True,0,1,0,1,0,True
@@ -30505,7 +30380,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.78,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,1,0,0,True
 3.95,4.9,4.7,1.11,3.7,5,False,63.0,6,True,0,1,0,0,1,True
 10.99,5.0,3.0,1.0,0.0,1,False,100.0,6,True,0,1,0,0,1,True
-9.42,,4.601696940726505,1.0,0.0,0,False,0.0,3,False,1,0,0,0,1,False
 6.26,5.0,4.601696940726505,1.0,0.0,1,False,66.7,5,False,1,0,0,0,1,False
 5.64,5.0,5.0,1.0,0.0,1,True,100.0,4,False,0,0,1,0,0,True
 3.9,5.0,3.0,1.0,0.0,2,False,0.0,2,False,1,0,1,0,0,True
@@ -30622,7 +30496,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.71,4.8,4.0,1.0,0.0,4,False,75.0,1,False,1,0,0,0,1,True
 5.24,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,True
 13.03,5.0,5.0,1.0,0.0,0,True,0.0,2,False,0,1,0,0,1,True
-3.44,,5.0,1.0,0.0,0,False,0.0,3,False,1,0,1,0,0,True
 2.58,4.7,4.8,1.38,50.0,0,False,25.0,5,False,0,1,0,0,1,True
 2.22,2.0,4.0,1.0,0.0,1,False,100.0,2,False,1,0,0,0,1,True
 1.12,4.6,4.3,1.32,36.4,4,True,90.9,5,False,0,1,1,0,0,True
@@ -30703,7 +30576,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.45,4.7,5.0,1.0,0.0,0,True,16.7,6,True,0,1,0,0,1,True
 2.73,5.0,5.0,1.0,0.0,2,False,100.0,2,False,0,1,0,0,1,True
 6.28,4.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
-7.81,,2.0,1.0,0.0,0,False,100.0,5,False,1,0,0,0,1,True
 6.07,5.0,5.0,1.0,0.0,0,False,0.0,3,False,0,1,0,0,1,True
 3.78,4.3,5.0,1.0,0.0,2,True,25.0,6,True,0,1,0,0,1,True
 3.9,5.0,4.601696940726505,1.25,100.0,0,False,100.0,4,False,0,1,1,0,0,False
@@ -31309,7 +31181,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.0,5.0,4.8,1.11,24.0,0,True,80.0,6,True,0,1,0,1,0,True
 2.47,5.0,5.0,1.0,0.0,2,True,75.0,6,True,0,1,1,0,0,True
 9.13,4.0,4.601696940726505,1.0,0.0,1,False,0.0,2,False,1,0,0,0,1,False
-4.6,,5.0,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,True
 2.74,4.7,5.0,1.0,0.0,0,True,100.0,4,False,0,1,1,0,0,True
 8.4,5.0,4.601696940726505,1.0,0.0,1,False,0.0,6,True,0,1,0,0,1,False
 1.11,5.0,4.601696940726505,1.0,0.0,0,False,100.0,7,False,0,1,0,1,0,False
@@ -31594,7 +31465,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.35,4.7,5.0,1.0,0.0,2,False,85.7,3,False,0,1,0,0,1,True
 0.39,5.0,5.0,1.0,0.0,0,False,100.0,6,True,0,1,0,1,0,True
 2.92,5.0,5.0,1.0,0.0,2,False,0.0,2,False,1,0,1,0,0,True
-23.07,,4.0,1.0,0.0,0,False,0.0,6,True,0,1,0,0,1,True
 3.88,4.8,4.0,1.12,7.1,2,True,82.1,6,True,0,1,1,0,0,True
 2.57,4.7,4.6,1.04,6.6,1,False,67.2,5,False,1,0,1,0,0,True
 6.23,4.8,5.0,1.0,0.0,0,True,50.0,5,False,0,1,0,1,0,True
@@ -31869,7 +31739,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 15.16,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,1,0,True
 3.22,5.0,4.601696940726505,1.0,0.0,0,False,0.0,6,True,0,1,0,0,1,False
 1.77,4.8,5.0,1.75,83.3,5,False,16.7,6,True,1,0,0,0,1,True
-0.92,,4.601696940726505,2.0,100.0,1,False,0.0,6,True,0,1,0,1,0,False
 4.77,5.0,5.0,1.0,0.0,1,True,100.0,1,False,1,0,1,0,0,True
 3.0,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,False
 3.98,4.9,4.0,1.02,7.7,3,True,46.2,6,True,1,0,0,0,1,True
@@ -32055,7 +31924,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 19.05,4.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,False
 1.93,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,1,0,False
 3.05,4.9,4.8,1.27,27.3,0,True,81.8,6,True,0,1,0,1,0,True
-3.18,,4.601696940726505,1.0,0.0,1,False,100.0,2,False,1,0,1,0,0,False
 1.38,5.0,5.0,1.0,0.0,0,True,100.0,2,False,0,1,1,0,0,True
 1.69,5.0,4.601696940726505,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,False
 11.4,5.0,4.601696940726505,1.0,0.0,2,True,100.0,2,False,0,1,0,0,1,False
@@ -32085,7 +31953,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.73,5.0,5.0,1.0,0.0,0,False,100.0,3,False,1,0,1,0,0,True
 2.98,4.6,3.8,1.06,12.5,1,False,87.5,6,True,0,1,0,0,1,True
 4.88,4.4,4.3,1.09,10.0,4,True,95.0,6,True,0,1,1,0,0,True
-3.36,,5.0,1.0,0.0,0,True,100.0,5,False,0,1,1,0,0,True
 3.05,5.0,4.5,1.69,50.0,2,False,25.0,6,True,1,0,0,0,1,True
 2.79,5.0,5.0,1.0,0.0,3,False,0.0,4,False,0,1,0,0,1,True
 1.68,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,True
@@ -32206,7 +32073,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.38,4.6,4.6,1.49,42.1,5,True,21.1,5,False,1,0,1,0,0,True
 5.81,5.0,5.0,1.0,0.0,1,True,50.0,3,False,1,0,0,0,1,True
 5.72,2.5,5.0,1.0,0.0,2,True,0.0,1,False,0,1,0,0,1,True
-1.19,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 5.51,4.7,5.0,1.2,10.0,2,True,80.0,6,True,0,1,0,0,1,True
 12.09,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,False
 12.13,5.0,5.0,1.0,0.0,1,False,0.0,2,False,1,0,0,1,0,True
@@ -33092,7 +32958,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.56,4.9,5.0,1.04,7.7,4,True,30.8,6,True,1,0,0,0,1,True
 6.75,5.0,5.0,1.0,0.0,1,False,100.0,2,False,0,1,0,0,1,True
 2.93,4.5,4.5,1.0,0.0,3,False,50.0,5,False,1,0,0,0,1,True
-1.82,,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,False
 3.13,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,1,0,False
 8.33,5.0,5.0,1.0,0.0,3,False,50.0,6,True,0,1,0,1,0,True
 2.93,4.7,4.2,1.09,9.1,2,False,72.7,5,False,0,1,0,0,1,True
@@ -33126,7 +32991,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.69,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
 12.49,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,True
 11.75,5.0,5.0,1.0,0.0,0,False,83.3,5,False,0,1,0,0,1,True
-11.32,,4.601696940726505,1.0,0.0,1,False,0.0,2,False,1,0,0,0,1,False
 2.22,4.4,5.0,1.05,20.0,1,False,60.0,6,True,0,1,0,0,1,True
 6.92,5.0,4.601696940726505,1.0,0.0,0,False,0.0,6,True,1,0,0,0,1,False
 3.13,4.7,5.0,1.0,0.0,5,True,66.7,6,True,0,1,1,0,0,True
@@ -33601,7 +33465,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 9.04,4.8,4.8,1.07,6.3,0,False,71.9,4,False,0,1,1,0,0,True
 17.46,5.0,4.601696940726505,1.0,0.0,1,True,100.0,2,False,0,1,1,0,0,False
 7.76,5.0,5.0,1.0,0.0,2,False,100.0,1,False,0,1,0,1,0,True
-0.94,,4.0,1.0,0.0,1,True,0.0,1,False,0,1,1,0,0,True
 3.33,4.4,4.9,1.11,12.7,26,True,79.1,6,True,0,1,0,1,0,True
 3.1,5.0,4.8,1.16,27.3,2,False,27.3,5,False,0,1,1,0,0,True
 2.35,5.0,4.6,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,True
@@ -33802,7 +33665,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 10.6,5.0,4.8,1.02,9.1,2,True,54.5,6,True,0,1,0,1,0,True
 1.65,5.0,5.0,1.25,28.6,2,False,100.0,5,False,0,1,0,0,1,True
 1.73,5.0,5.0,1.0,0.0,0,True,100.0,3,False,1,0,1,0,0,True
-0.85,,4.601696940726505,1.0,0.0,0,True,0.0,6,True,0,1,0,1,0,False
 2.65,4.7,4.5,1.21,14.3,6,True,0.0,5,False,1,0,0,0,1,True
 3.37,5.0,4.5,1.0,0.0,2,False,50.0,1,False,0,1,0,0,1,True
 6.21,5.0,5.0,1.0,0.0,0,True,80.0,6,True,1,0,0,1,0,True
@@ -34280,7 +34142,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 7.46,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,False
 1.53,5.0,5.0,1.0,0.0,0,True,100.0,4,False,1,0,1,0,0,True
 6.81,4.5,4.601696940726505,1.0,0.0,2,True,100.0,1,False,0,0,0,0,1,False
-1.97,,4.601696940726505,1.0,0.0,0,True,100.0,6,True,1,0,0,1,0,False
 2.86,4.6,4.9,1.03,11.1,4,False,11.1,4,False,0,1,1,0,0,True
 3.13,5.0,5.0,1.0,0.0,2,False,100.0,1,False,0,1,0,0,1,True
 3.59,5.0,5.0,1.0,0.0,1,False,100.0,5,False,1,0,0,0,1,True
@@ -34530,7 +34391,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 7.09,5.0,4.601696940726505,1.0,0.0,1,False,0.0,2,False,0,1,0,0,1,False
 5.74,4.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 1.91,4.7,5.0,1.0,0.0,12,True,91.7,1,False,0,1,0,1,0,True
-1.13,,5.0,2.5,100.0,0,False,100.0,3,False,0,1,0,0,1,True
 4.02,5.0,4.5,1.0,0.0,0,True,100.0,6,True,0,1,1,0,0,True
 2.19,3.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,False
 6.32,5.0,5.0,1.0,0.0,0,False,100.0,3,False,0,1,1,0,0,True
@@ -34787,7 +34647,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.02,5.0,4.8,1.15,15.4,6,True,69.2,3,False,0,1,1,0,0,True
 4.56,4.8,5.0,1.0,0.0,1,False,75.0,5,False,0,1,0,0,1,True
 7.24,4.4,5.0,1.0,0.0,4,True,71.4,6,True,0,1,1,0,0,True
-3.15,,1.0,1.75,100.0,0,False,0.0,3,False,0,1,1,0,0,True
 4.7,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
 14.37,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,1,0,0,True
 3.3,5.0,4.0,1.0,0.0,2,False,50.0,2,False,0,1,0,0,1,True
@@ -34896,7 +34755,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.81,4.8,4.7,1.0,0.0,1,False,20.0,5,False,1,0,0,0,1,True
 2.46,4.5,4.8,1.0,0.0,14,True,49.1,6,True,0,1,0,0,1,True
 4.45,5.0,4.8,1.0,0.0,10,True,55.2,5,False,0,1,0,1,0,True
-24.91,,3.0,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,True
 12.93,5.0,5.0,1.0,0.0,2,False,0.0,1,False,0,1,0,1,0,True
 5.75,5.0,5.0,1.0,0.0,0,False,66.7,6,True,0,1,0,1,0,True
 3.12,4.0,4.5,1.0,0.0,0,True,0.0,6,True,0,1,0,1,0,True
@@ -34945,7 +34803,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.8,4.3,5.0,1.0,0.0,1,False,50.0,6,True,0,1,0,1,0,True
 2.27,4.5,4.0,1.0,0.0,0,False,75.0,4,False,0,1,1,0,0,True
 5.03,5.0,5.0,1.0,0.0,2,True,0.0,2,False,0,1,0,0,1,True
-2.48,,5.0,1.0,0.0,1,False,100.0,2,False,0,1,0,1,0,True
 2.91,5.0,4.9,1.15,30.8,13,False,69.2,1,False,0,1,0,0,1,True
 14.14,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,1,0,True
 7.17,5.0,4.601696940726505,1.0,0.0,1,False,0.0,2,False,1,0,1,0,0,False
@@ -35185,7 +35042,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 5.35,5.0,4.5,1.0,0.0,2,False,50.0,1,False,0,1,1,0,0,True
 2.27,5.0,5.0,1.0,0.0,0,True,100.0,4,False,1,0,1,0,0,True
 5.84,5.0,5.0,1.2,40.0,0,False,20.0,4,False,0,1,0,0,1,True
-5.37,,5.0,2.0,100.0,0,True,100.0,6,True,0,1,1,0,0,True
 10.76,5.0,4.601696940726505,1.0,0.0,1,False,100.0,1,False,0,1,1,0,0,False
 2.6,3.0,3.0,1.0,0.0,2,False,0.0,1,False,1,0,0,0,1,True
 0.93,5.0,3.0,1.0,0.0,2,False,50.0,1,False,1,0,0,0,1,True
@@ -35431,7 +35287,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 19.75,5.0,4.601696940726505,1.0,0.0,0,True,0.0,5,False,0,1,1,0,0,False
 7.67,5.0,5.0,1.0,0.0,0,True,0.0,6,True,0,1,1,0,0,True
 4.01,4.5,3.6,1.0,0.0,5,False,53.8,6,True,0,1,0,0,1,True
-1.45,,4.601696940726505,1.0,0.0,0,False,0.0,6,True,1,0,0,0,1,False
 0.83,1.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,1,0,0,True
 8.44,5.0,4.601696940726505,1.0,0.0,1,False,50.0,3,False,0,1,0,0,1,False
 1.63,5.0,5.0,1.0,0.0,0,True,100.0,5,False,1,0,1,0,0,True
@@ -35730,7 +35585,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.77,4.6,4.8,1.0,0.0,1,True,85.0,6,True,0,1,0,0,1,True
 3.14,5.0,4.601696940726505,1.0,0.0,1,False,0.0,1,False,1,0,0,0,1,False
 2.91,5.0,5.0,1.0,0.0,0,False,100.0,3,False,1,0,1,0,0,True
-15.02,,5.0,1.0,0.0,0,False,100.0,3,False,1,0,0,0,1,True
 8.01,5.0,4.601696940726505,1.0,0.0,0,False,100.0,6,True,0,1,0,0,1,False
 12.22,5.0,5.0,1.67,33.3,1,True,0.0,3,False,0,1,0,0,1,True
 3.27,4.8,5.0,1.2,20.0,1,False,100.0,4,False,0,1,1,0,0,True
@@ -35989,7 +35843,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 12.65,5.0,4.601696940726505,1.0,0.0,0,False,100.0,5,False,0,1,0,0,1,False
 2.85,4.8,5.0,1.19,22.6,23,True,60.7,6,True,0,1,0,1,0,True
 1.77,5.0,4.601696940726505,1.75,100.0,1,False,100.0,1,False,1,0,1,0,0,False
-1.27,,5.0,1.0,0.0,0,True,0.0,3,False,0,1,0,0,1,True
 1.4,5.0,4.0,1.0,0.0,2,False,33.3,2,False,1,0,1,0,0,True
 3.67,5.0,4.7,1.0,0.0,8,False,47.4,5,False,1,0,0,1,0,True
 7.81,5.0,4.3,1.0,0.0,0,False,75.0,6,True,0,1,0,0,1,True
@@ -36124,7 +35977,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 1.93,4.0,5.0,1.0,0.0,1,True,100.0,1,False,0,1,1,0,0,True
 9.59,4.5,4.3,1.11,14.3,4,False,35.7,5,False,0,1,1,0,0,True
 4.79,4.3,2.3,1.0,0.0,1,False,54.8,5,False,1,0,0,0,1,True
-7.88,,4.601696940726505,1.75,100.0,0,False,0.0,5,False,1,0,1,0,0,False
 2.16,4.9,5.0,1.03,3.0,2,False,75.8,6,True,0,1,0,1,0,True
 28.02,5.0,5.0,1.0,0.0,0,True,0.0,6,True,0,1,0,1,0,True
 4.48,4.8,5.0,1.0,0.0,1,False,75.0,6,True,1,0,0,0,1,True
@@ -36171,7 +36023,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 8.0,5.0,4.601696940726505,1.0,0.0,0,False,100.0,6,True,1,0,1,0,0,False
 14.69,5.0,5.0,1.0,0.0,1,False,100.0,2,False,0,1,0,1,0,True
 9.75,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
-19.52,,4.601696940726505,1.0,0.0,0,False,100.0,3,False,1,0,0,0,1,False
 1.82,5.0,4.601696940726505,1.0,0.0,0,True,100.0,6,True,0,1,0,1,0,False
 32.26,5.0,5.0,1.0,0.0,1,False,0.0,2,False,0,1,0,1,0,True
 13.01,5.0,4.601696940726505,1.0,0.0,0,False,100.0,3,False,0,1,0,0,1,False
@@ -36299,7 +36150,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 14.42,5.0,4.601696940726505,1.0,0.0,0,False,100.0,5,False,1,0,0,0,1,False
 2.85,4.5,5.0,1.0,0.0,2,True,0.0,2,False,0,1,1,0,0,True
 7.13,4.8,4.8,1.02,3.0,30,True,89.0,6,True,0,1,0,1,0,True
-5.71,,4.601696940726505,1.0,0.0,1,False,0.0,1,False,0,0,0,1,0,False
 7.71,4.5,5.0,1.0,0.0,4,True,87.5,6,True,0,1,0,0,1,True
 9.1,4.5,5.0,1.13,50.0,1,True,0.0,6,True,0,1,1,0,0,True
 2.76,5.0,5.0,1.0,0.0,3,False,50.0,3,False,1,0,0,1,0,True
@@ -36566,7 +36416,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 7.78,5.0,4.7,1.0,0.0,1,True,77.8,6,True,1,0,0,1,0,True
 5.46,4.7,3.0,1.0,0.0,2,False,58.3,5,False,1,0,0,0,1,True
 3.23,5.0,5.0,1.0,0.0,0,True,100.0,6,True,0,1,1,0,0,True
-13.91,,4.601696940726505,1.0,0.0,0,False,0.0,5,False,0,0,0,0,1,False
 5.53,5.0,4.601696940726505,1.0,0.0,2,False,25.0,3,False,0,1,0,0,1,False
 2.09,5.0,5.0,1.18,22.1,26,True,94.8,6,True,0,1,0,1,0,True
 2.97,4.8,4.4,1.3,20.0,0,True,0.0,3,False,1,0,1,0,0,True
@@ -36575,7 +36424,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 7.35,5.0,5.0,1.0,0.0,3,True,0.0,1,False,0,1,0,1,0,True
 2.5,4.7,4.8,1.11,23.1,10,True,44.0,6,True,0,1,0,1,0,True
 17.44,4.5,4.0,1.0,0.0,0,False,50.0,3,False,1,0,0,0,1,True
-4.76,,5.0,2.0,100.0,1,False,0.0,2,False,0,1,0,1,0,True
 5.65,4.8,4.9,1.07,11.8,6,True,70.6,6,True,0,1,0,0,1,True
 2.76,4.4,5.0,1.04,2.4,15,False,92.9,6,True,0,1,0,0,1,True
 2.01,5.0,5.0,1.0,0.0,6,False,61.5,6,True,0,1,0,1,0,True
@@ -37133,7 +36981,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.66,5.0,5.0,1.08,33.3,2,False,66.7,5,False,1,0,1,0,0,True
 2.8,5.0,4.2,1.07,14.3,3,False,42.9,4,False,0,1,0,0,1,True
 4.7,5.0,5.0,1.0,0.0,1,False,0.0,1,False,0,1,1,0,0,True
-21.31,,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 3.05,4.3,5.0,1.31,11.1,4,True,55.6,6,True,0,1,1,0,0,True
 5.08,5.0,5.0,1.0,0.0,1,True,0.0,6,True,1,0,0,1,0,True
 13.72,5.0,5.0,1.0,0.0,0,True,0.0,4,False,0,1,0,0,1,True
@@ -37268,7 +37115,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 16.71,5.0,4.601696940726505,1.0,0.0,0,True,100.0,6,True,0,1,1,0,0,False
 8.06,4.8,5.0,1.0,0.0,4,False,100.0,1,False,0,1,0,1,0,True
 3.38,5.0,3.0,3.5,100.0,0,False,0.0,3,False,0,1,1,0,0,True
-8.58,,5.0,1.0,0.0,1,False,0.0,2,False,1,0,0,0,1,True
 3.59,5.0,5.0,1.0,0.0,1,False,0.0,3,False,1,0,0,0,1,True
 14.73,5.0,5.0,1.0,0.0,2,True,0.0,1,False,1,0,0,0,1,True
 1.11,5.0,5.0,1.0,0.0,0,False,0.0,6,True,0,1,0,1,0,True
@@ -37986,7 +37832,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.62,5.0,5.0,1.0,0.0,2,False,0.0,2,False,0,1,0,0,1,True
 2.56,4.0,4.601696940726505,1.0,0.0,1,True,50.0,6,True,0,1,0,1,0,False
 1.75,4.6,5.0,1.09,12.5,8,True,12.5,1,False,1,0,0,0,1,True
-1.81,,4.0,1.0,0.0,1,True,0.0,1,False,0,1,1,0,0,True
 6.44,4.6,5.0,1.09,12.5,0,False,100.0,3,False,0,1,1,0,0,True
 1.92,4.7,3.9,1.05,12.7,3,True,79.7,6,True,0,1,0,1,0,True
 3.72,5.0,5.0,1.08,6.9,8,True,58.6,7,False,0,1,0,1,0,True
@@ -38080,7 +37925,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.35,4.7,4.7,1.0,0.0,1,True,85.7,6,True,0,1,1,0,0,True
 17.02,5.0,5.0,1.0,0.0,2,False,100.0,1,False,0,0,0,0,1,True
 3.26,4.6,4.8,1.11,11.8,22,True,84.3,6,True,0,1,0,0,1,True
-1.99,,5.0,1.0,0.0,1,True,0.0,1,False,1,0,0,0,1,True
 3.85,4.9,4.4,1.13,6.3,3,False,68.8,6,True,0,1,0,0,1,True
 5.0,4.2,5.0,1.0,0.0,2,True,100.0,6,True,0,1,0,1,0,True
 7.4,5.0,5.0,1.0,0.0,0,False,100.0,2,False,0,1,0,0,1,True
@@ -38135,7 +37979,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 4.7,5.0,5.0,1.0,0.0,1,False,100.0,1,False,0,1,0,1,0,True
 14.26,4.6,4.9,1.0,0.0,2,True,87.5,6,True,0,1,0,0,1,True
 7.67,5.0,3.0,1.17,33.3,3,True,0.0,2,False,0,1,1,0,0,True
-2.11,,4.0,1.0,0.0,1,False,0.0,1,False,0,1,0,0,1,True
 1.29,5.0,4.601696940726505,1.0,0.0,0,False,100.0,5,False,0,1,1,0,0,False
 3.75,4.6,4.7,1.06,18.2,1,True,86.4,6,True,0,1,1,0,0,True
 14.69,5.0,5.0,1.0,0.0,0,True,100.0,4,False,0,1,1,0,0,True
@@ -39379,7 +39222,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.85,4.9,3.4,1.14,44.4,0,False,44.4,5,False,0,1,0,1,0,True
 1.38,5.0,4.601696940726505,1.0,0.0,1,True,100.0,1,False,1,0,0,0,1,False
 2.68,4.9,4.5,1.0,0.0,3,True,60.0,6,True,0,1,0,0,1,True
-1.95,,5.0,1.0,0.0,0,False,0.0,3,False,0,1,0,0,1,True
 2.72,4.7,4.8,1.08,10.7,5,False,79.6,6,True,0,1,0,0,1,True
 19.8,5.0,5.0,1.0,0.0,0,False,100.0,4,False,1,0,0,0,1,True
 1.24,5.0,4.601696940726505,1.5,100.0,0,False,0.0,6,True,1,0,0,0,1,False
@@ -39661,7 +39503,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 2.21,5.0,5.0,1.0,0.0,1,True,100.0,1,False,1,0,0,0,1,True
 1.87,5.0,5.0,1.13,16.7,6,False,100.0,1,False,0,1,0,0,1,True
 3.65,5.0,4.0,1.0,0.0,1,True,0.0,1,False,0,1,1,0,0,True
-3.83,,5.0,1.0,0.0,1,True,0.0,2,False,0,1,1,0,0,True
 1.52,5.0,5.0,1.0,0.0,3,False,100.0,1,False,0,1,1,0,0,True
 10.49,4.5,5.0,1.5,50.0,0,True,100.0,3,False,0,1,0,0,1,True
 1.65,5.0,5.0,1.0,0.0,2,False,0.0,1,False,0,1,0,1,0,True
@@ -39800,7 +39641,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 10.94,4.7,4.5,1.0,0.0,1,True,100.0,6,True,1,0,0,1,0,True
 2.53,5.0,5.0,1.0,0.0,4,False,25.0,1,False,0,1,0,0,1,True
 10.12,5.0,3.5,1.06,25.0,2,False,75.0,3,False,0,1,0,0,1,True
-15.76,,4.0,1.0,0.0,1,True,100.0,1,False,0,1,0,0,1,True
 2.65,4.6,4.6,1.0,0.0,3,True,75.0,6,True,0,1,1,0,0,True
 2.14,4.6,4.9,1.04,10.5,1,True,52.6,6,True,0,1,1,0,0,True
 2.78,5.0,4.5,1.5,40.0,4,False,80.0,3,False,1,0,0,0,1,True
@@ -39845,7 +39685,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 6.63,4.5,4.5,1.0,0.0,0,True,0.0,6,True,0,1,0,0,1,True
 3.13,4.8,4.5,1.0,0.0,9,False,67.9,6,True,0,1,0,0,1,True
 5.61,4.6,4.7,1.0,0.0,2,True,40.0,6,True,0,1,0,1,0,True
-3.13,,5.0,1.25,100.0,1,False,0.0,2,False,1,0,0,0,1,True
 3.58,4.3,4.5,1.02,8.3,5,False,58.3,4,False,0,1,0,0,1,True
 4.27,5.0,5.0,1.0,0.0,1,False,100.0,1,False,1,0,0,0,1,True
 8.78,5.0,5.0,1.0,0.0,1,False,0.0,1,False,1,0,1,0,0,True
@@ -39932,7 +39771,6 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_surge,surge_pct,trips_in_
 3.3,5.0,4.3,1.0,0.0,1,False,50.0,3,False,1,0,0,0,1,True
 3.32,5.0,3.0,1.0,0.0,4,False,100.0,2,False,0,1,0,0,1,True
 8.12,4.4,3.9,1.0,0.0,0,True,100.0,5,False,0,1,0,0,1,True
-0.31,,4.601696940726505,1.0,0.0,0,False,0.0,6,True,0,1,0,1,0,False
 2.65,5.0,4.7,1.0,0.0,0,True,40.0,6,True,0,1,0,1,0,True
 3.76,4.8,4.9,1.07,6.5,17,True,88.7,6,True,1,0,1,0,0,True
 3.27,4.5,4.5,1.0,0.0,2,False,100.0,1,False,1,0,0,0,1,True
