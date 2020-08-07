@@ -93,7 +93,7 @@ Fitting 5 folds for each of 16 candidates, totalling 80 fits
 * 'random_state': 1}
 
 
-#### Random Forest Classifier SCORE with best parameters: 
+#### Random Forest Classifier SCORE with best parameters: 0.721987951807229
 
 ### Decision Tree Classifier
 
@@ -113,7 +113,7 @@ Fitting 5 folds for each of 32 candidates, totalling 160 fits
 * 'splitter': 'best'
 
 
-#### Decision Tree Classifier SCORE with best parameters:
+#### Decision Tree Classifier SCORE with best parameters: (still running)
 
 ![Banner](images/decisiontree.png)
 
