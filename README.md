@@ -1,7 +1,35 @@
-## Case Study
+# Churn case Study
 
-Today we are going to use all the skills we have learned to tackle a real
-problem in industry. The problem is churn prediction with a ride-sharing
-company in San Francisco.  Since the data is sourced from a real company, we
-ask you not to share the dataset. See more about the problem in
-[group.md](group.md). 
+# Table of contents
+
+* [EDA](#EDA)
+* [Modeling](#Modeling)
+* [Results](#Results)
+* [Conclusion](#Conclusion)
+* [Caveats](#Caveats)
+* [Next Steps](#Next-Steps)
+
+# md tips
+![outlier](forecast_HIV_infections/images/scatter_outliers.png)
+
+# Plan
+
+* what is my y variable
+* what is "active"
+* think about process..
+* a pipeline..
+* try diff models and try diff things..
+* grid search
+
+# EDA
+
+# Modeling
+
+# Results
+
+# Conclusion
+
+# Caveats
+
+# Next Steps
+
