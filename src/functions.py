@@ -11,6 +11,7 @@ pd.set_option("display.precision", 3)
 np.set_printoptions(precision=3, suppress=True)
 
 # sklearn stuff
+from sklearn import tree
 from sklearn.model_selection import train_test_split, KFold, GridSearchCV, RandomizedSearchCV, cross_validate, cross_val_score
 from sklearn.linear_model import LinearRegression, LassoLarsIC, Ridge, RidgeCV, Lasso, LassoCV, ElasticNetCV
 from sklearn import metrics, datasets
@@ -19,7 +20,7 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.feature_selection import RFECV, SelectFromModel
 from sklearn.ensemble import GradientBoostingClassifier 
-
+from sklearn.metrics import roc_curve
 
 def standardize(X, method):
     # this Fit to data, then transform it.
@@ -104,7 +105,7 @@ def grad_boost(X_train, X_test, y_train, y_test):
                              min_weight_fraction_leaf=0.0)
     model.fit(X_train, y_train.values.ravel()) # needs a label not y_train???
     yhat = model.predict_proba(X_test)
-    score = gbmodel.score(X_test, y_test)
+    score = model.score(X_test, y_test)
     #gbmodel.predict_proba(X_test)
     return model, yhat, score
 
@@ -118,31 +119,28 @@ def decision_tree(X_train, X_test, y_train):
     score = model.score(X_test, y_test)
     return y_pred, score
 
-def plot_decision_tree():
-    '''
-    Creates plot for decision tree boundaries
-    '''
-    # def plot_classification_tree(ax, X, y, model=None, fit = True):
-    # ax.plot(X[y==0, 0], X[y==0, 1], 'r.', label='versicolor')
-    # ax.plot(X[y==1, 0], X[y==1, 1], 'b.', label='virginica')
-    # ax.set_title("Classifying Iris with Decision Trees")
-    # ax.set_xlabel("")
-    # ax.set_ylabel("")
-    # ax.legend(loc='upper left')
-    
-    # if model is None:
-    #     model = tree.DecisionTreeClassifier()
-    # if fit:
-    #     model.fit(X, y)
-    
-    # xlim = ax.get_xlim()
-    # ylim = ax.get_ylim()
-    # plot_classification_thresholds(ax, X, y, 0, model.tree_, xlim, ylim)
-    
-    # ax.set_xlim(xlim)
-    # ax.set_ylim(ylim)
+# def plot_decision_tree(X_train, y_train):
+#     '''
+#     Creates plot for decision tree boundaries
+#     '''
+#     clf = tree.DecisionTreeClassifier()
+#     clf = clf.fit(X_train, y_train)
+#     tree.plot_tree(clf) 
 
-    pass
+def plot_classification_tree(ax, X, y, model=None, fit = True):
+    ax.plot(X[y==0, 0], X[y==0, 1], 'r.', label='')
+    ax.plot(X[y==1, 0], X[y==1, 1], 'b.', label='')
+    ax.set_title("Classifying Active Status With Decision Trees")
+    ax.set_xlabel("")
+    ax.set_ylabel("")
+    ax.legend(loc='upper left')
+    
+    xlim = ax.get_xlim()
+    ylim = ax.get_ylim()
+    plot_classification_thresholds(ax, X, y, 0, model.tree_, xlim, ylim)
+    
+    ax.set_xlim(xlim)
+    ax.set_ylim(ylim)
 
 def Random_Forest(X_train, X_test, y_train):
     '''
@@ -156,22 +154,34 @@ def Random_Forest(X_train, X_test, y_train):
 
 def feature_importance():
     feature_importances = 100*model_opt.feature_importances_ / np.sum(model.feature_importances_)
-    pass
+    feature_importances, feature_names, feature_idxs = \
+    zip(*sorted(zip(feature_importances, names, range(len(names)))))
+
+    width = 0.8
+
+    idx = np.arange(len(names))
+    plt.barh(idx, feature_importances, align='center')
+    plt.yticks(idx, feature_names)
+
+    plt.title("Feature Importances")
+    plt.xlabel('Relative Importance of Feature', fontsize=14)
+    plt.ylabel('Feature Name', fontsize=14)
+    
 
 def GridSearch_(X_train, y_train):
-    grad_boost_grid = {'learning_rate': [0.001, 0.01, 0.1, 0.2, 0.5],
-                   'loss': ['deviance', 'exponential'],
+    grad_boost_grid = {'learning_rate': [0.1],
+                   'loss': ['deviance'],
                    'subsample': [0.3, 0.5, 0.7],
-                      'n_estimators': [10, 20, 40, 80, 100, 300, 1000, 2000],
-                   'max_depth': [1,2,3],
+                      'n_estimators': [10, 20, 40, 80, 100, 300],
+                   'max_depth': [2,3],
                    #'min_samples_leaf': [7, 9, 13],
-                   'max_features': [100, 150, 250],
+                   'max_features': [3, 5, 10, 15],
                       'random_state': [1]}
     gdb_gridsearch = GridSearchCV(GradientBoostingClassifier(),
                                 grad_boost_grid,
                                 n_jobs=-1,
-                                verbose=True,
-                                scoring='neg_mean_squared_error')
+                                verbose=True)
+                                #scoring='neg_mean_squared_error')
     gdb_gridsearch.fit(X_train, y_train)
     print(f'"best parameters:", {gdb_gridsearch.best_params_}')
     best_gdb_model = gdb_gridsearch.best_estimator_
@@ -206,3 +216,6 @@ if __name__ == '__main__':
     # 1. random forest
     # 2. gradient boosted
     gbmodel, yhat, gbscore = grad_boost(X_train_std, X_test_std, y_train, y_test)
+    # fix y train
+    #y_train_ravel = y_train.values.ravel()
+    #GridSearch_(X_train_std, y_train_ravel)

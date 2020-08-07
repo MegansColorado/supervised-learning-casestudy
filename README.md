@@ -7,7 +7,6 @@
 * [Modeling](#Modeling)
 * [Results](#Results)
 * [Conclusion](#Conclusion)
-* [Caveats](#Caveats)
 * [Next Steps](#Next-Steps)
 
 
@@ -22,24 +21,6 @@ A presentation including the following points:
 * What performance metric did you use to evaluate the model? Why?
 * Based on insights from the model, what plans do you propose to reduce churn?
 * What are the potential impacts of implementing these plans or decisions? What performance metrics did you use to evaluate these decisions, why?
-
-# Plan
-
-* what is my y variable
-* what is "active"
-* think about process..
-* a pipeline..
-* try diff models and try diff things..
-* grid search
-* keep an eye out for leakage - if cols are na when you are trying to predict
-
-1. Perform any cleaning, exploratory analysis, and/or visualizations to use the provided data for this analysis.
-2. Build a predictive model to help determine the probability that a rider will be retained.
-3. Evaluate the model. Focus on metrics that are important for your statistical model.
-4. Identify / interpret features that are the most influential in affecting your predictions.
-4. Discuss the validity of your model. Issues such as leakage. For more on leakage, see this essay on Kaggle, and this paper: Leakage in Data Mining: Formulation, Detection, and Avoidance.
-4. Repeat 2 - 5 until you have a satisfactory model.
-4. Consider business decisions that your model may indicate are appropriate. Evaluate possible decisions with metrics 4. that are appropriate for decision rules.
 
 hypotheses we had:
 1. if rating goes down, maybe will churn
@@ -66,9 +47,7 @@ hypotheses we had:
     * 'rating_stated' - Boolean; True indicates user has avg rating of driver, False indicates user has NaN for avg rating of driver
 
 
-![Scatter_Matrix](images/)
 ![correlation_matrix](images/correlationmatrix.png)
-![heat_map](images/)
 
 
 # Modeling
@@ -80,13 +59,36 @@ hypotheses we had:
     * Random Forest (Classification)
 ![placeholder](images/)
 
+## Gradient boost on its own result
+GradientBoostingClassifier(loss='deviance',
+                             n_estimators=1000,
+                             learning_rate=0.1,
+                             max_depth=3,
+                             subsample=0.5,
+                             min_samples_split=2,
+                             min_samples_leaf=1,
+                             min_weight_fraction_leaf=0.0)
+
+result: 
+
+
+## Grid Search Round 1 Results
+Fitting 5 folds for each of 144 candidates, totalling 720 fits
+
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:    3.2s
+[Parallel(n_jobs=-1)]: Done 184 tasks      | elapsed:   38.7s
+[Parallel(n_jobs=-1)]: Done 434 tasks      | elapsed:  1.8min
+[Parallel(n_jobs=-1)]: Done 720 out of 720 | elapsed:  3.6min finished
+"best parameters:", {'learning_rate': 0.1, 'loss': 'deviance', 'max_depth': 2, 'max_features': 3, 'n_estimators': 100, 'random_state': 1, 'subsample': 0.3}
+
 Feature Importances:
 
+![placeholder](images/)
 # Results
+* 
 
 # Conclusion
-
-# Caveats
 
 # Next Steps
 
