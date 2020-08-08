@@ -113,7 +113,14 @@ Fitting 5 folds for each of 32 candidates, totalling 160 fits
 * 'splitter': 'best'
 
 
-#### Decision Tree Classifier SCORE with best parameters: (still running)
+#### Decision Tree Classifier SCORE with best parameters:  0.7076305220883534
+
+
+
+
+
+5:57
+image.png 
 
 ![Banner](images/decisiontree.png)
 
