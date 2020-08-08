@@ -1,9 +1,8 @@
 active
-False
 True
 False
-True
 False
+<<<<<<< HEAD
 False
 False
 False
@@ -22,23 +21,29 @@ True
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 True
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
 True
 False
 True
 True
 False
+True
 False
 True
 False
@@ -48,35 +53,39 @@ True
 True
 False
 True
-False
 False
 True
-False
-False
 False
+True
 False
+True
+True
+True
 True
 False
 False
-True
 False
 False
 False
+True
 True
 False
 True
 True
-False
 True
 True
 True
 False
 False
-True
 False
+False
 True
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -88,23 +97,34 @@ False
 True
 False
 False
+True
 False
 False
 True
+<<<<<<< HEAD
 True
 False
 False
 False
 True
+False
+=======
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 True
 True
+<<<<<<< HEAD
 False
 True
 False
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -118,8 +138,12 @@ True
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 True
 False
 False
@@ -139,9 +163,16 @@ False
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 False
+=======
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -149,69 +180,86 @@ True
 False
 False
 True
-True
 False
 False
 True
 True
 True
 False
+True
 False
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 False
+True
 False
 False
 True
 False
+True
 False
 True
 False
 False
 False
+<<<<<<< HEAD
 True
 True
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
-True
 False
 False
-True
 True
 False
+<<<<<<< HEAD
 True
 False
 True
 True
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+False
 True
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
+False
+False
 True
 False
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -226,24 +274,31 @@ True
 True
 False
 False
+True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
+False
 False
 False
 False
 False
+True
 False
+True
 False
 True
 False
@@ -251,57 +306,85 @@ False
 False
 False
 True
+<<<<<<< HEAD
 True
 False
-True
+False
 True
 False
 False
-True
+=======
 False
 False
 False
-True
 False
 False
 False
 False
 False
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
+<<<<<<< HEAD
+=======
 False
 True
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+<<<<<<< HEAD
+=======
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 False
 False
+True
 False
 False
 False
+True
+True
+<<<<<<< HEAD
+=======
 False
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
+True
 False
 False
 False
 False
-True
 False
+False
 True
 True
+False
 False
+False
+True
 False
 False
+True
 False
+True
 True
 False
 False
@@ -309,75 +392,116 @@ False
 False
 False
 True
+False
+False
+<<<<<<< HEAD
 False
+False
+True
+=======
 True
 False
 False
+True
 False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
+<<<<<<< HEAD
+=======
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
-True
 False
+False
 True
+False
 True
 True
 True
 True
 True
 False
-False
 True
 False
 False
 True
+<<<<<<< HEAD
+=======
 False
+True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
+<<<<<<< HEAD
+True
+=======
+False
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
+True
 False
 False
+True
 False
 False
 True
 False
 False
+False
+False
+<<<<<<< HEAD
 True
 True
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
+True
 False
 False
 True
+True
+True
+False
+False
 False
 False
 False
+False
 True
 True
-False
 True
 False
+True
+True
 False
 True
 False
+True
 False
 False
 False
 True
 False
+True
 False
 False
 True
@@ -388,40 +512,43 @@ False
 True
 True
 False
+True
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 True
 False
 False
 False
+=======
 True
-False
 True
 False
-True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 True
+False
 True
 False
 True
 True
 True
+False
 False
 False
 True
 False
 False
 False
-True
 False
 False
 True
 False
-True
 True
 False
 False
@@ -429,35 +556,58 @@ False
 False
 False
 False
+True
 False
+<<<<<<< HEAD
 True
 True
+=======
+False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
+False
 True
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+True
 False
 False
 False
+True
 False
+True
+True
 False
 True
+True
 False
+<<<<<<< HEAD
 True
 True
 False
 False
 True
 True
+=======
+False
+False
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -467,23 +617,42 @@ True
 False
 True
 False
+True
+False
 False
 False
 False
+True
 False
+True
+True
+True
 False
 False
 True
 True
+False
+<<<<<<< HEAD
+False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
+True
 True
 False
+True
+True
 False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -491,11 +660,20 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 True
+False
+<<<<<<< HEAD
+=======
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -510,42 +688,72 @@ False
 True
 True
 True
+<<<<<<< HEAD
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 True
 True
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
 False
 True
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
+False
 True
 False
 False
 True
 False
 True
+False
 True
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
+False
+False
 True
+False
+False
+False
 True
+False
 True
 False
 False
 True
 False
 False
+False
+<<<<<<< HEAD
+True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
+True
 False
 False
 False
@@ -555,17 +763,28 @@ True
 False
 False
 True
+False
+<<<<<<< HEAD
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+False
 True
 False
 False
 True
+False
 True
 False
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -573,9 +792,12 @@ False
 False
 False
 False
-True
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -584,13 +806,22 @@ False
 False
 True
 True
+True
+True
 False
+True
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
 False
 False
 True
@@ -599,15 +830,20 @@ False
 False
 True
 True
+<<<<<<< HEAD
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
 True
 True
 False
 False
 True
+False
 True
 True
 False
@@ -617,24 +853,29 @@ False
 False
 False
 False
-True
 False
 True
 False
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 False
 True
 False
+True
 True
 True
 True
 True
+False
+=======
 True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -643,14 +884,23 @@ False
 False
 False
 False
-True
+False
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+True
 False
 False
 False
 True
 True
+True
+True
+True
+False
 False
 True
 False
@@ -660,9 +910,12 @@ True
 False
 True
 False
+<<<<<<< HEAD
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
@@ -672,10 +925,17 @@ False
 True
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
 True
+<<<<<<< HEAD
 False
 False
 True
@@ -686,22 +946,34 @@ False
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 True
 False
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
+False
 True
 False
+True
+True
 True
 False
 False
+True
 False
 False
+True
 False
 True
 False
@@ -718,10 +990,16 @@ False
 False
 False
 True
+False
+False
+False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -730,31 +1008,49 @@ False
 True
 False
 False
+True
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 True
+=======
+False
+False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 True
 False
+<<<<<<< HEAD
 True
 False
 True
 False
 True
 True
+=======
+False
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -762,50 +1058,73 @@ False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
+False
 True
 False
 True
+<<<<<<< HEAD
+=======
 False
 True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+True
 True
 False
+False
+<<<<<<< HEAD
 True
+=======
+False
 False
 False
 True
 True
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
 False
 False
+True
 False
 False
 True
-False
 False
 False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-False
 True
+False
 True
 False
 True
 False
 True
 False
+<<<<<<< HEAD
 False
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -814,16 +1133,20 @@ False
 False
 False
 True
-True
+False
 False
 True
 False
 False
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
+True
 False
 True
 False
@@ -831,7 +1154,9 @@ False
 True
 False
 False
+True
 False
+True
 False
 False
 False
@@ -842,6 +1167,10 @@ False
 True
 True
 True
+<<<<<<< HEAD
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -849,7 +1178,11 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -858,11 +1191,14 @@ False
 False
 True
 False
+<<<<<<< HEAD
 True
 False
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
@@ -870,9 +1206,12 @@ True
 True
 True
 True
-False
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -881,11 +1220,14 @@ False
 True
 True
 True
+False
 False
 False
 False
 False
 True
+True
+False
 True
 False
 False
@@ -893,18 +1235,21 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 False
 True
+=======
 False
-False
-False
+True
+True
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
-True
 True
 False
 False
@@ -912,25 +1257,45 @@ False
 False
 True
 True
+False
+False
+<<<<<<< HEAD
 False
 False
 True
 True
+=======
+True
+True
+False
+False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+False
+False
+False
 True
+<<<<<<< HEAD
 False
 True
 False
 False
 False
 False
+=======
+True
 True
 False
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
 False
 False
 False
@@ -941,13 +1306,19 @@ True
 True
 False
 True
+<<<<<<< HEAD
 False
 True
 False
 False
 False
 True
+=======
+True
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 True
 True
@@ -957,14 +1328,21 @@ False
 True
 True
 True
+<<<<<<< HEAD
 False
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -976,20 +1354,23 @@ True
 False
 False
 True
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
 True
-False
 False
 False
 True
-True
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 False
@@ -997,6 +1378,8 @@ True
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -1004,6 +1387,8 @@ False
 False
 False
 False
+False
+True
 False
 False
 True
@@ -1013,23 +1398,35 @@ False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 True
 False
 True
+=======
+True
+False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 True
 False
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
 False
 True
 False
@@ -1037,55 +1434,73 @@ False
 False
 False
 True
+False
 True
 False
 False
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
+True
 True
+True
 False
 True
 False
 False
 False
+<<<<<<< HEAD
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
-False
+True
+True
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 False
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
 True
-False
 True
 False
+True
 False
 False
+True
 False
+True
+True
 False
 True
 False
@@ -1094,38 +1509,71 @@ False
 True
 False
 False
+True
+True
+True
+True
+True
 False
+True
+True
 False
 False
 True
 False
+<<<<<<< HEAD
 False
-True
 False
 False
+=======
+True
+True
+True
 False
 False
 False
+True
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
+<<<<<<< HEAD
+=======
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+True
 True
 False
+False
+True
 False
 False
+<<<<<<< HEAD
+=======
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
 True
+False
+<<<<<<< HEAD
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
+False
 True
 False
 False
@@ -1137,10 +1585,14 @@ False
 True
 True
 False
+<<<<<<< HEAD
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 True
 False
@@ -1149,29 +1601,39 @@ True
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+False
+False
 False
+True
 False
 False
+=======
 True
 False
 False
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
 True
 True
-False
+True
 False
 False
+True
 False
 False
 True
 False
 True
+True
 False
 False
 False
@@ -1180,34 +1642,41 @@ True
 False
 True
 False
+<<<<<<< HEAD
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
-True
 False
 True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 False
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
@@ -1215,15 +1684,16 @@ True
 False
 False
 False
+True
 False
 False
 False
 False
 False
-True
 False
 False
 False
+True
 False
 True
 False
@@ -1234,8 +1704,10 @@ True
 False
 True
 False
-False
+True
 False
+True
+True
 False
 True
 False
@@ -1248,7 +1720,11 @@ False
 False
 True
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -1257,43 +1733,70 @@ False
 True
 False
 True
+<<<<<<< HEAD
+False
 False
+True
 False
 True
 False
+=======
+True
 True
+True
 False
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
+False
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
+True
+True
 False
 True
 True
 False
 True
+True
 False
 False
 True
+False
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
 False
 False
-True
 False
 True
 False
@@ -1303,21 +1806,26 @@ True
 True
 True
 True
-True
 False
 True
+False
 False
+True
 False
+True
+True
 False
+True
+True
 False
 False
 False
 False
 False
+True
 False
 False
 False
-True
 False
 False
 True
@@ -1325,36 +1833,52 @@ False
 True
 False
 True
-False
 False
 False
 True
+False
 True
 False
+True
 True
+False
 True
 False
+<<<<<<< HEAD
 True
 False
+True
 True
+=======
 False
 True
 True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+False
 False
 False
 False
 False
 False
+False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 True
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -1362,8 +1886,15 @@ False
 False
 False
 False
+False
+True
+<<<<<<< HEAD
+=======
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 True
 True
@@ -1371,7 +1902,11 @@ False
 True
 False
 False
+True
+True
+True
 False
+True
 False
 False
 False
@@ -1379,33 +1914,57 @@ True
 True
 False
 False
-False
+True
+<<<<<<< HEAD
+=======
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+False
 False
+True
 False
 False
 False
+True
 False
 True
 False
 False
 False
 False
+True
+True
 True
 True
 True
+False
+False
 True
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+True
 False
 False
 False
 False
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
+True
+True
+True
 True
 False
 False
@@ -1413,16 +1972,30 @@ False
 False
 False
 False
+<<<<<<< HEAD
+=======
 True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 False
+True
+False
 False
 True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+False
 True
 True
 True
@@ -1434,10 +2007,15 @@ False
 False
 False
 True
+<<<<<<< HEAD
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 True
+False
 False
 False
 True
@@ -1447,13 +2025,20 @@ False
 False
 False
 True
+True
 False
+<<<<<<< HEAD
+=======
+True
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
 False
 True
+False
 False
 False
 False
@@ -1462,40 +2047,67 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
 False
 True
+False
 True
 False
+False
+False
+False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
-True
+False
+<<<<<<< HEAD
+=======
+False
 True
 False
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
+True
 False
 True
+False
+False
 True
 False
 False
 False
+<<<<<<< HEAD
+=======
 True
+False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+False
 False
+True
 False
 False
 False
@@ -1505,28 +2117,43 @@ False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
+True
+True
+True
+False
 False
 True
 False
+<<<<<<< HEAD
 True
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
 True
 True
 True
+False
 True
 False
+True
 False
 False
+True
 True
 False
 False
@@ -1534,11 +2161,21 @@ False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
+False
+True
+<<<<<<< HEAD
+=======
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -1551,55 +2188,81 @@ False
 False
 False
 False
+True
 False
 False
 True
+<<<<<<< HEAD
+=======
 False
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+False
 False
 False
+<<<<<<< HEAD
 True
+False
+=======
+False
+False
+False
+False
+False
+False
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
 True
 False
-True
 False
 False
 True
 True
 False
 False
-True
 True
 False
+False
+True
 True
 False
 False
 False
+False
 True
 False
 False
 False
+True
 False
 False
 False
 False
+True
+True
+<<<<<<< HEAD
 False
 True
+=======
 True
 False
 True
 False
+False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -1608,7 +2271,14 @@ False
 True
 False
 False
+True
+<<<<<<< HEAD
+=======
+True
+True
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -1623,109 +2293,187 @@ False
 True
 True
 False
+True
 False
 True
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
 False
+True
 False
+True
+True
 False
 False
 False
 False
+True
+True
+True
+True
 False
 False
 True
 True
+False
 False
 False
+False
+<<<<<<< HEAD
+True
+True
+=======
+False
 True
+True
 False
+True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 True
+False
+False
+<<<<<<< HEAD
 True
+False
+False
+False
+=======
 False
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 False
 False
 False
 False
 False
+True
 True
+True
+False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
+False
+<<<<<<< HEAD
+=======
 True
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 True
 False
+True
 False
+<<<<<<< HEAD
 False
 False
 False
 True
 False
+=======
+True
 True
+True
+True
 False
 False
+True
+True
 False
 False
 True
 False
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
 False
+True
 False
 True
 True
 False
 False
 False
+True
+True
 False
 True
 False
 True
+False
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
 True
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+<<<<<<< HEAD
 True
 True
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
-True
 False
 False
 False
@@ -1742,34 +2490,46 @@ False
 False
 False
 False
-True
-True
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 True
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 True
+<<<<<<< HEAD
 True
 True
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 False
+<<<<<<< HEAD
 True
 True
 True
 True
 True
+=======
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+False
 True
 True
 True
@@ -1781,9 +2541,11 @@ False
 False
 False
 False
+True
 False
 False
 False
+False
 True
 False
 False
@@ -1791,30 +2553,57 @@ True
 False
 False
 False
+True
 False
 False
+<<<<<<< HEAD
+=======
 True
+False
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+True
 False
 False
 False
+True
 True
+<<<<<<< HEAD
+=======
+False
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 True
+<<<<<<< HEAD
 True
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+False
+True
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
+True
 False
 True
 False
@@ -1839,39 +2628,73 @@ True
 False
 False
 True
+<<<<<<< HEAD
+True
+False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+False
 True
 False
 False
+True
+True
+True
 True
 False
 True
+<<<<<<< HEAD
+=======
 True
+False
 True
+False
 True
 False
 True
 True
 True
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+True
+False
+<<<<<<< HEAD
+=======
 False
+True
 False
+True
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
+False
 False
+False
 True
 True
+False
 True
 False
 True
+True
+True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -1880,24 +2703,36 @@ False
 False
 True
 False
+<<<<<<< HEAD
 True
 True
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
-True
+False
+False
 True
 False
 True
 True
 False
+False
+False
+False
 True
+False
+False
+False
 True
 False
+<<<<<<< HEAD
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -1907,6 +2742,7 @@ False
 True
 False
 True
+False
 True
 True
 False
@@ -1915,23 +2751,35 @@ False
 False
 True
 False
+<<<<<<< HEAD
 False
+True
+=======
 True
 True
+True
+True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 True
 True
 False
 False
+True
 False
 False
 True
 True
 True
+<<<<<<< HEAD
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -1940,6 +2788,7 @@ False
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 False
@@ -1947,8 +2796,12 @@ False
 False
 False
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 True
 False
@@ -1958,28 +2811,44 @@ True
 True
 True
 True
-False
 False
 True
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
 False
+True
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 True
 False
 False
 False
+False
+True
 True
+False
 True
 False
+True
 False
+True
 False
 True
 False
@@ -1991,30 +2860,46 @@ False
 False
 False
 True
-False
 False
 False
 False
 True
 False
 True
+False
 True
 False
 False
-True
+False
+False
+<<<<<<< HEAD
+=======
 False
 False
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 True
 False
 False
+<<<<<<< HEAD
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
 True
 True
+<<<<<<< HEAD
 True
+=======
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -2024,22 +2909,36 @@ False
 True
 True
 False
+False
 True
 False
 False
 True
+<<<<<<< HEAD
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
 True
 False
 True
 True
+False
 False
 False
+True
+<<<<<<< HEAD
+=======
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
+True
 False
 False
 False
@@ -2048,70 +2947,119 @@ True
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 True
 True
+=======
 False
-True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
 False
+False
+False
+<<<<<<< HEAD
+False
+True
+False
+True
 True
+True
+=======
 False
+True
 True
+False
 True
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
 False
 True
+<<<<<<< HEAD
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+True
 True
 False
 False
 False
 False
+False
 True
 False
 False
-True
+False
+False
+False
+False
 True
 False
+True
 False
 False
 False
 True
 False
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
+False
+<<<<<<< HEAD
+=======
+False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 False
+False
+<<<<<<< HEAD
+False
+False
+=======
 True
+False
 False
 False
 False
+True
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
+True
 False
 False
 False
@@ -2121,29 +3069,49 @@ False
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+<<<<<<< HEAD
 True
 True
 True
+=======
 False
 False
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
+False
 True
 False
 True
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -2153,29 +3121,41 @@ False
 False
 True
 True
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
 True
-False
 False
 False
 False
-False
 True
 True
+False
 False
+<<<<<<< HEAD
 False
+=======
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+False
 True
 False
 False
@@ -2185,21 +3165,29 @@ False
 True
 True
 True
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+True
 False
 False
 False
 False
 False
-True
 False
+True
 False
 False
 False
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -2212,6 +3200,7 @@ True
 True
 False
 True
+<<<<<<< HEAD
 False
 False
 False
@@ -2221,25 +3210,37 @@ True
 True
 True
 True
+=======
 True
-False
-False
 True
 False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
+True
 False
+True
+<<<<<<< HEAD
 False
 False
 False
 False
+=======
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -2247,14 +3248,21 @@ True
 True
 False
 False
+<<<<<<< HEAD
 False
 False
 False
 False
 True
 False
+True
+=======
 True
 False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 True
 True
@@ -2266,21 +3274,21 @@ False
 False
 False
 False
-True
 False
 False
 True
 False
-True
 False
-True
 False
 False
 True
 False
+<<<<<<< HEAD
 True
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -2295,11 +3303,9 @@ True
 False
 False
 True
-False
-False
-False
 True
 False
+<<<<<<< HEAD
 False
 False
 True
@@ -2313,7 +3319,11 @@ False
 True
 False
 False
+=======
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
@@ -2324,11 +3334,15 @@ False
 True
 False
 False
-True
+<<<<<<< HEAD
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
+True
 False
 False
 False
@@ -2339,50 +3353,89 @@ True
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 True
 False
 False
 False
+False
+=======
+True
+True
+True
 False
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+<<<<<<< HEAD
 True
 True
 True
 True
+=======
 True
 True
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
+True
+False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
+True
 True
+True
 False
+True
 True
 False
 False
-True
+False
 True
+<<<<<<< HEAD
+False
+False
+=======
 False
+True
 False
 False
 True
+False
 False
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
+<<<<<<< HEAD
 True
 False
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -2394,13 +3447,17 @@ False
 False
 True
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 False
@@ -2408,29 +3465,37 @@ True
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
 False
 True
-False
 False
 False
 False
+<<<<<<< HEAD
+=======
 True
-False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 True
+True
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
-False
 False
-True
 False
 False
 True
@@ -2443,58 +3508,80 @@ True
 False
 False
 False
+True
+True
 False
 False
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
 False
 True
 False
-True
-True
-True
 False
 False
 False
 False
 True
+True
+False
 False
 False
+True
+<<<<<<< HEAD
+=======
 False
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+True
 False
 False
 False
 True
-False
 False
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -2502,37 +3589,59 @@ False
 True
 False
 True
+<<<<<<< HEAD
 True
+=======
 False
+False
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
 True
+<<<<<<< HEAD
+=======
 True
 False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
-True
-True
 False
 True
 False
 False
-True
 False
+True
 False
 False
 False
 True
 True
+<<<<<<< HEAD
+=======
+False
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
+False
 False
 True
 False
@@ -2540,15 +3649,30 @@ True
 True
 True
 False
+True
+False
 False
 False
+False
+True
+True
+<<<<<<< HEAD
+=======
+True
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
+<<<<<<< HEAD
+=======
 True
 False
 True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -2556,36 +3680,47 @@ True
 False
 True
 True
+False
 True
 True
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 False
+=======
+True
+True
 False
+True
 False
 False
-True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
+False
+False
+False
 True
 True
 False
-False
 True
 False
 False
+True
 False
+<<<<<<< HEAD
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
+True
 True
 False
 True
@@ -2594,14 +3729,17 @@ False
 True
 False
 False
-True
 False
 False
 False
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -2611,21 +3749,24 @@ False
 False
 False
 False
+True
 False
 False
 True
 False
 True
+<<<<<<< HEAD
 False
 False
 True
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
 False
 False
 True
@@ -2634,43 +3775,60 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 True
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
 False
-True
 False
 False
 False
 False
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 False
 True
+=======
+True
+True
 False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
+False
 True
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -2684,6 +3842,11 @@ False
 True
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -2695,59 +3858,86 @@ False
 False
 False
 True
+False
+False
+False
 True
 False
 False
 True
+<<<<<<< HEAD
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
-False
+True
 False
 False
+True
 True
+True
 False
 False
 False
+True
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 True
 True
 False
 True
+False
 False
 True
 True
 True
+True
 False
+True
 False
 True
+<<<<<<< HEAD
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
 False
 True
+<<<<<<< HEAD
 False
 True
 False
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
@@ -2757,22 +3947,37 @@ False
 True
 False
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 True
 True
 True
 False
 True
 False
+True
 False
 False
 True
+False
+False
+False
+False
+False
 True
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -2784,13 +3989,16 @@ False
 False
 False
 True
+<<<<<<< HEAD
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
-True
 True
+False
 True
 False
 True
@@ -2799,14 +4007,21 @@ False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
 True
-False
-False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
+True
+True
+True
+True
 False
+True
 False
 False
 False
@@ -2816,14 +4031,19 @@ False
 False
 False
 False
+True
 False
 True
+True
 False
 True
 False
 True
 False
+True
+True
 False
+True
 True
 True
 False
@@ -2836,13 +4056,17 @@ False
 False
 True
 False
+<<<<<<< HEAD
 False
-False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 True
+False
 True
 False
 False
@@ -2853,53 +4077,95 @@ False
 True
 True
 True
+<<<<<<< HEAD
 False
 False
 False
 True
 False
 False
+=======
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 True
 False
 True
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+True
+True
+False
+True
+False
+True
+<<<<<<< HEAD
+False
+False
+=======
+True
 False
+True
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 True
+<<<<<<< HEAD
+=======
+True
+False
 False
 False
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
 False
+True
 False
 False
+True
 False
 False
 True
 False
 False
+True
+<<<<<<< HEAD
+=======
+True
 True
 False
 True
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+True
 True
 False
 False
+False
+True
 False
 False
 False
@@ -2910,6 +4176,7 @@ True
 False
 False
 True
+<<<<<<< HEAD
 True
 True
 True
@@ -2918,9 +4185,10 @@ True
 False
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
-False
-False
+True
 False
 True
 True
@@ -2932,10 +4200,13 @@ False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -2947,171 +4218,237 @@ False
 False
 True
 False
-True
 True
-True
 False
 True
 False
-True
-True
-True
 True
 False
+<<<<<<< HEAD
 True
 False
 True
 True
+True
+True
+=======
 False
 False
 True
 False
-True
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
-False
 True
 False
 True
-False
 True
 False
 False
+True
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
+True
+True
 False
+True
 False
+True
 False
+True
+<<<<<<< HEAD
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 False
 False
-True
 False
 False
 True
 True
-True
-True
-False
-False
 False
-False
 True
 False
 False
+True
+True
 False
 True
 False
+True
 False
+True
+True
 False
+True
 False
 False
 True
-False
+<<<<<<< HEAD
 False
 False
 True
+=======
 False
+True
 False
 False
 False
-True
 False
 True
 True
 False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 True
 True
 False
 False
+True
+False
 False
 True
 False
 True
+False
 True
 True
-False
 False
+True
+<<<<<<< HEAD
+=======
+True
 False
 False
 True
+True
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+False
 False
 True
+True
+True
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
 False
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
+True
 False
+True
 False
+True
+True
 False
 True
+True
+<<<<<<< HEAD
 False
 False
+=======
 True
-False
 True
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+False
 True
 True
 True
 False
 False
+<<<<<<< HEAD
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
+True
 False
 True
 False
 False
-True
 False
 True
 False
 False
 False
+False
 True
+False
+False
+False
 False
 False
 False
+False
+False
+<<<<<<< HEAD
+=======
+False
 True
 True
-False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+True
+False
 False
 True
+False
+False
 True
 True
 False
 True
 True
 False
+True
+True
+True
+<<<<<<< HEAD
+=======
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 True
@@ -3121,48 +4458,72 @@ True
 True
 False
 False
-True
 False
 False
 False
 False
-True
 False
 False
+True
 False
+<<<<<<< HEAD
 False
+True
 False
+=======
 False
 False
+True
+True
 False
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
+False
 True
 False
 False
+True
+True
 False
 True
+True
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
 True
 False
 False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+True
 False
+True
 False
+True
 True
 False
 True
 False
+True
 False
+<<<<<<< HEAD
+=======
 False
 True
+False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -3178,72 +4539,90 @@ True
 True
 True
 True
-True
 False
 True
 True
-False
 False
 False
+True
 False
 True
 False
 False
-True
-True
 False
 False
+<<<<<<< HEAD
 False
+=======
 True
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
 True
 True
+<<<<<<< HEAD
+=======
+False
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
 False
-False
+True
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 False
-True
-True
+False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
-True
 False
 True
+False
 True
 False
 False
+<<<<<<< HEAD
 False
 True
-False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
+True
 False
+True
 False
 False
 False
-True
 False
 False
+True
 False
 False
+True
+True
+True
 True
+True
 False
+True
 True
 False
 False
@@ -3251,29 +4630,42 @@ False
 False
 False
 False
+False
+True
+True
 False
 False
 False
+<<<<<<< HEAD
+True
 True
+True
+=======
+False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
 True
 True
 False
-True
 True
 True
+<<<<<<< HEAD
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
-True
+False
 False
 False
+True
 False
 True
 True
@@ -3281,171 +4673,275 @@ True
 True
 False
 True
-False
-False
-False
 False
-False
-False
 True
-False
 True
-False
 False
 True
 False
 False
 False
 True
+False
 True
 False
 False
-True
-True
 False
 True
 False
+<<<<<<< HEAD
+=======
 True
 True
 True
 True
-False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
+True
 False
 True
 False
 False
 False
-True
 False
+<<<<<<< HEAD
 False
+=======
 True
-True
+False
 False
 False
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
 True
-False
 True
-False
+True
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+<<<<<<< HEAD
+=======
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
+True
+True
+True
 False
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 True
-False
-False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
+True
 False
 False
-True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
+True
 False
 False
 False
+True
+True
+<<<<<<< HEAD
+True
 True
+=======
+True
 False
+True
 False
 False
 False
-True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 False
 False
+True
 False
 False
-True
-True
 False
 False
+<<<<<<< HEAD
+=======
 True
-False
 True
 False
-False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
 True
+False
+True
+False
+False
+True
 True
+False
+True
+False
 True
+True
 False
 True
 True
+False
 False
+True
+True
 False
 True
 False
+<<<<<<< HEAD
+True
+True
+True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
+False
+False
 True
 True
+True
+False
 False
 False
 False
 True
+<<<<<<< HEAD
+=======
+True
+True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
+False
+False
 True
+False
 False
+False
+<<<<<<< HEAD
+False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 True
 False
+True
 True
 False
 False
+<<<<<<< HEAD
+=======
 True
+True
+False
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
+False
+<<<<<<< HEAD
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
+False
+False
 True
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
 False
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+False
 False
 False
 True
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
 False
+True
+True
+True
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -3453,104 +4949,205 @@ False
 False
 False
 True
+False
 False
+False
 True
+False
+False
 False
+False
 True
+False
 True
+False
 True
 False
 False
-True
+False
 False
 False
+<<<<<<< HEAD
+True
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 False
 False
 False
 False
+<<<<<<< HEAD
+True
+True
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
+True
 False
 True
 True
+<<<<<<< HEAD
+False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 True
+False
 False
 False
+True
 False
 False
+False
+<<<<<<< HEAD
+=======
+True
+True
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
+False
 True
+False
 False
+False
 True
+False
 True
+False
+False
+False
+False
 True
+False
 False
+False
 True
 False
+False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
 False
 False
 False
+False
+<<<<<<< HEAD
+False
+False
+False
 True
 False
 True
 False
+True
+True
+=======
 False
 False
 True
+False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
+False
 True
+False
 False
+False
+False
+False
+<<<<<<< HEAD
+=======
 True
 True
 False
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
+False
+False
+False
 False
+True
 False
 False
+True
 False
+True
 False
 True
 False
 False
 False
 True
+False
+False
 False
 False
+False
 True
 False
+True
 False
+True
+True
 False
 False
 False
+True
 False
 False
+True
 True
+False
 True
+False
+False
+False
+False
+<<<<<<< HEAD
 False
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 False
+<<<<<<< HEAD
 True
+False
 False
+False
 True
 False
 True
 True
+=======
 False
 False
 False
@@ -3558,102 +5155,208 @@ True
 False
 True
 True
+False
+False
 False
 False
+True
+True
+True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+False
 False
 False
 False
+True
+False
+True
 False
 False
 False
+True
 False
 False
 False
+True
 False
+<<<<<<< HEAD
+=======
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+True
+True
 False
 True
 True
+False
+False
+False
+False
 True
 True
+<<<<<<< HEAD
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 True
 False
 False
 False
 True
 False
+True
 False
 True
+True
+<<<<<<< HEAD
+False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
+False
+True
+True
 False
 False
 False
 False
+True
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
+False
 True
+False
+False
 False
 False
+False
+False
+False
+False
+False
 True
+True
+<<<<<<< HEAD
+True
+True
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
+<<<<<<< HEAD
 True
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 False
 True
+False
+False
+False
+False
 False
+False
+False
+False
+False
 True
 True
+False
+<<<<<<< HEAD
+False
 True
+False
+False
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
 True
+<<<<<<< HEAD
+False
+False
+False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 True
 True
 False
 False
+True
 True
 True
+<<<<<<< HEAD
 False
+False
+False
+True
+True
 False
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
+True
 True
+False
+False
 True
 False
 False
 False
 True
 False
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
 False
+True
 True
 True
 False
@@ -3667,7 +5370,10 @@ True
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -3677,13 +5383,17 @@ False
 False
 False
 False
+<<<<<<< HEAD
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
-True
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 True
@@ -3692,10 +5402,20 @@ False
 False
 False
 True
+False
+False
+False
+=======
 False
+True
 False
+True
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 True
 False
@@ -3704,14 +5424,21 @@ False
 True
 False
 False
+<<<<<<< HEAD
 True
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+True
 True
+True
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 True
@@ -3719,10 +5446,17 @@ True
 False
 False
 False
+True
+=======
+True
 True
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
 True
 True
 True
@@ -3731,10 +5465,15 @@ False
 True
 False
 False
+True
 False
 False
+False
+<<<<<<< HEAD
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -3744,11 +5483,13 @@ False
 True
 False
 True
-False
 True
 False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -3756,11 +5497,15 @@ False
 True
 True
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+False
 True
 False
 False
@@ -3768,42 +5513,65 @@ False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
 True
 True
+<<<<<<< HEAD
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
-False
-False
 True
+<<<<<<< HEAD
 False
 True
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -3817,30 +5585,47 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 False
 True
 True
 True
+=======
 False
+False
+False
+False
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
 False
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 True
@@ -3848,9 +5633,10 @@ False
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
-False
 False
 False
 True
@@ -3861,31 +5647,44 @@ True
 False
 True
 False
+<<<<<<< HEAD
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 True
 False
+False
+False
+True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 True
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -3899,15 +5698,15 @@ False
 False
 True
 False
-True
 True
 False
-False
 True
 False
 False
 False
 False
+True
+True
 False
 True
 False
@@ -3920,6 +5719,7 @@ False
 False
 True
 False
+<<<<<<< HEAD
 True
 True
 False
@@ -3932,69 +5732,108 @@ False
 True
 False
 False
+=======
+True
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
 True
 False
 False
 False
 True
+False
 False
+True
 False
+True
+True
+True
 False
 False
 False
+True
+<<<<<<< HEAD
+=======
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
 False
 False
 True
 False
+True
 False
 False
 False
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
-False
+True
 False
 False
 True
+True
 False
 True
 False
+True
 False
 False
 True
 True
 True
 False
+True
+False
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
 False
+<<<<<<< HEAD
 False
 False
 False
+True
+False
 False
+False
 True
 False
 False
 False
+=======
 True
 False
 False
+True
+True
 False
 True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 True
@@ -4004,34 +5843,48 @@ True
 False
 False
 False
+True
+True
+True
 False
+True
+True
 False
+True
+True
 False
 False
 False
+True
 True
 True
 True
+True
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
-True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
+False
+False
 False
+<<<<<<< HEAD
+True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
 False
 True
-False
 False
 False
 False
-False
-False
+True
 False
 False
 False
@@ -4045,38 +5898,50 @@ True
 True
 False
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
+True
 False
 True
 False
 False
+True
+True
 False
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
-False
 True
 False
 False
 False
-True
 False
 True
 False
+<<<<<<< HEAD
+False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -4084,11 +5949,15 @@ False
 False
 False
 True
+True
+False
 False
+False
 True
 False
 True
 False
+True
 False
 False
 False
@@ -4101,11 +5970,15 @@ False
 True
 False
 False
+<<<<<<< HEAD
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
 False
+<<<<<<< HEAD
 True
 False
 True
@@ -4115,37 +5988,60 @@ False
 True
 True
 True
+=======
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 False
+=======
+True
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
 True
+False
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
 False
+False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
+<<<<<<< HEAD
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
 False
 False
 False
 True
 True
+False
+False
 True
 True
 False
@@ -4156,24 +6052,43 @@ False
 False
 True
 False
+False
+<<<<<<< HEAD
+False
+=======
+True
 False
 False
 False
 False
 True
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
+<<<<<<< HEAD
+=======
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 True
+False
+False
+False
 True
 True
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -4184,18 +6099,26 @@ True
 False
 True
 False
+<<<<<<< HEAD
 False
 False
+True
 True
 True
 True
+False
+True
+=======
 True
 False
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+True
 False
 True
 True
@@ -4205,9 +6128,9 @@ True
 True
 True
 False
-True
 False
 False
+True
 True
 False
 True
@@ -4217,11 +6140,11 @@ True
 False
 False
 False
-False
 True
 True
 True
 True
+<<<<<<< HEAD
 True
 False
 True
@@ -4230,12 +6153,22 @@ False
 True
 False
 True
+False
+=======
 False
+False
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+True
 False
 True
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -4249,12 +6182,16 @@ False
 True
 False
 False
+False
+False
 True
 True
 True
 False
 False
 False
+False
+True
 True
 False
 True
@@ -4262,14 +6199,24 @@ False
 False
 True
 False
+True
+True
 False
+True
 False
 False
+True
+<<<<<<< HEAD
+=======
 True
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
+False
+True
 False
 True
 True
@@ -4284,75 +6231,115 @@ False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 True
 False
 False
+True
 True
 True
+=======
 True
+True
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
+False
 True
 False
 False
+<<<<<<< HEAD
 True
 False
 False
+=======
 False
 False
+True
+True
 False
 False
 False
-True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 False
+False
+False
 True
+True
 False
 True
+False
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
 True
+False
 True
 False
 False
-True
+<<<<<<< HEAD
+=======
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
+False
+<<<<<<< HEAD
+=======
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
 False
+False
+True
 True
 False
 False
 False
 False
+True
+True
 False
+False
 True
 True
 False
 False
 False
 True
+<<<<<<< HEAD
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -4367,15 +6354,20 @@ True
 False
 False
 False
-True
 False
 False
+True
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
+False
 True
 False
 False
@@ -4384,13 +6376,23 @@ False
 False
 True
 True
+False
+False
+False
 False
 False
 True
 False
+<<<<<<< HEAD
 True
+=======
 False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+False
+False
 True
 True
 False
@@ -4399,16 +6401,12 @@ True
 False
 False
 False
-False
 True
-False
 True
 False
 True
 False
 False
-True
-True
 True
 False
 True
@@ -4418,25 +6416,35 @@ False
 True
 False
 False
+True
+False
 False
 True
 True
 False
 True
+<<<<<<< HEAD
 False
 False
 False
 False
+True
+True
 True
 True
+=======
 True
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
+False
 True
 False
 False
+True
+True
+True
 False
 False
 True
@@ -4445,6 +6453,9 @@ False
 False
 False
 False
+True
+True
+True
 False
 False
 False
@@ -4453,21 +6464,24 @@ False
 False
 True
 True
+<<<<<<< HEAD
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
 False
 False
-True
+False
 True
 False
 False
 False
 False
+True
 False
 False
 True
@@ -4477,25 +6491,34 @@ False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 True
+<<<<<<< HEAD
 False
 True
 False
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -4505,18 +6528,24 @@ False
 False
 True
 False
+<<<<<<< HEAD
 True
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 True
 False
 False
 False
 False
 False
+True
 False
 False
+<<<<<<< HEAD
 False
 False
 False
@@ -4526,16 +6555,18 @@ False
 True
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
-True
-False
 False
 True
 False
 True
 False
+True
+True
 False
 False
 True
@@ -4547,12 +6578,20 @@ False
 False
 False
 False
+True
 False
+True
 False
 False
 True
+False
+<<<<<<< HEAD
+False
 False
 False
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -4560,20 +6599,36 @@ False
 False
 True
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
+False
 False
+<<<<<<< HEAD
+=======
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
+True
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
 False
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -4583,33 +6638,46 @@ True
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 False
 False
+=======
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 True
-True
+False
 False
+<<<<<<< HEAD
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
 True
 True
 False
 False
+True
+<<<<<<< HEAD
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 True
 False
 False
 False
-True
 False
 False
 False
@@ -4622,23 +6690,46 @@ False
 True
 True
 False
+False
+False
 True
+False
+False
 True
 True
 False
 False
+<<<<<<< HEAD
 False
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+False
+True
+True
+True
+True
+False
+True
 True
 False
+<<<<<<< HEAD
+=======
 True
 True
+True
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
+False
 False
+True
 False
 False
 False
@@ -4649,14 +6740,25 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 True
+False
+False
+False
 False
 False
+=======
 False
+True
 False
 False
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -4665,18 +6767,26 @@ True
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
+True
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -4684,9 +6794,14 @@ False
 True
 False
 True
+False
 False
 False
 False
+False
+True
+False
+True
 True
 True
 False
@@ -4699,19 +6814,18 @@ True
 True
 True
 True
+False
 True
 False
+True
 False
 True
 False
 False
 True
 False
-True
-True
-True
-True
 False
+<<<<<<< HEAD
 True
 True
 True
@@ -4719,17 +6833,24 @@ True
 True
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 True
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 True
+True
+True
 False
 True
 False
@@ -4738,8 +6859,11 @@ False
 True
 False
 False
+<<<<<<< HEAD
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -4748,34 +6872,58 @@ False
 False
 False
 True
+<<<<<<< HEAD
+=======
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
 False
+True
 True
 False
 False
 False
+True
+True
 False
+True
 False
 False
 True
+False
 False
+True
+<<<<<<< HEAD
 False
+=======
 True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 False
+<<<<<<< HEAD
+=======
 True
 True
+True
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
 True
@@ -4783,18 +6931,30 @@ False
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+False
 False
 False
 False
+False
 True
 True
+<<<<<<< HEAD
+=======
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+False
+True
 True
 True
 True
@@ -4807,10 +6967,18 @@ False
 False
 True
 False
+False
+True
+True
 False
 False
+True
+True
+True
+True
 False
 False
+True
 False
 False
 False
@@ -4821,12 +6989,20 @@ False
 True
 True
 True
+False
+False
 False
+<<<<<<< HEAD
+=======
+True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 False
 True
+True
 False
 False
 True
@@ -4837,24 +7013,55 @@ False
 True
 False
 True
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+<<<<<<< HEAD
 True
 True
+=======
 True
+False
+False
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+False
 True
 False
 True
 True
+<<<<<<< HEAD
 True
 False
 False
 True
 True
+=======
+False
 False
 False
 False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+True
+False
 True
 True
 True
@@ -4869,6 +7076,7 @@ False
 True
 True
 False
+True
 False
 True
 True
@@ -4876,36 +7084,52 @@ True
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
-True
+<<<<<<< HEAD
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
 True
+False
+<<<<<<< HEAD
 False
 False
 False
 False
 False
+=======
+True
 False
 False
+True
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -4917,45 +7141,66 @@ False
 True
 False
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
-False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
+False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
 True
 True
+<<<<<<< HEAD
 True
 False
 False
 True
 True
 True
+False
+False
 False
+=======
 False
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+True
 True
 True
 False
 False
-True
+False
 False
 False
 False
 True
+<<<<<<< HEAD
+=======
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
 False
@@ -4968,34 +7213,47 @@ True
 True
 True
 True
-False
+True
+True
 False
 True
 False
 False
+True
 False
 False
 False
 True
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 False
+<<<<<<< HEAD
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 False
 False
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -5006,12 +7264,16 @@ True
 False
 False
 False
+True
 False
+True
+True
 False
 True
 False
 True
 True
+False
 True
 False
 False
@@ -5029,35 +7291,50 @@ False
 True
 False
 False
+<<<<<<< HEAD
+False
+False
+True
+True
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
+False
 True
+<<<<<<< HEAD
 False
+True
+True
 True
+False
+False
+False
 True
+=======
+False
+False
 False
-True
-True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
-True
-True
-True
 False
 False
 False
+<<<<<<< HEAD
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
 False
-True
-True
 False
 False
 False
@@ -5066,12 +7343,12 @@ False
 False
 False
 False
-True
 False
-True
+False
 False
 True
 True
+False
 True
 False
 True
@@ -5084,6 +7361,7 @@ True
 True
 False
 False
+<<<<<<< HEAD
 False
 True
 False
@@ -5093,22 +7371,32 @@ True
 True
 True
 True
+=======
+False
 False
 True
+True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 True
 True
 True
 True
 False
 False
-True
 False
+False
 True
 False
 False
 True
+<<<<<<< HEAD
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -5118,13 +7406,19 @@ True
 False
 False
 True
+True
 False
 False
 False
+True
 True
+True
 False
+True
 True
+True
 False
+True
 False
 False
 False
@@ -5136,6 +7430,7 @@ False
 False
 True
 False
+<<<<<<< HEAD
 True
 False
 False
@@ -5147,18 +7442,32 @@ True
 True
 True
 False
+=======
 True
 True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
 False
 False
+<<<<<<< HEAD
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
+<<<<<<< HEAD
 True
 True
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -5167,6 +7476,7 @@ False
 True
 False
 False
+<<<<<<< HEAD
 True
 False
 True
@@ -5174,47 +7484,54 @@ False
 False
 True
 True
+=======
 True
-True
+False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 True
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
 False
 False
+False
 True
 True
 True
-False
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
 True
 False
-False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
 False
 True
-True
 False
 True
 False
+True
 True
 False
+True
 False
 False
 False
@@ -5232,22 +7549,22 @@ False
 False
 False
 True
-False
-False
+True
 False
 False
 True
 True
-False
-False
-False
 True
+False
 True
 False
 True
 False
 True
 False
+False
+False
+False
 True
 False
 False
@@ -5255,14 +7572,20 @@ False
 True
 False
 True
+<<<<<<< HEAD
+False
 False
 False
+=======
 False
 True
+False
 True
 False
 False
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -5271,25 +7594,33 @@ False
 False
 False
 False
+True
 False
 False
 True
 True
+<<<<<<< HEAD
 True
+=======
+False
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 True
 False
 False
 False
 True
-False
+True
 False
 False
 False
 False
 False
 False
-True
 False
 True
 False
@@ -5297,12 +7628,16 @@ False
 False
 True
 False
+True
 True
 True
 False
 True
+<<<<<<< HEAD
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -5314,6 +7649,7 @@ False
 False
 False
 True
+<<<<<<< HEAD
 True
 True
 False
@@ -5326,6 +7662,10 @@ True
 True
 True
 True
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -5333,27 +7673,38 @@ False
 False
 True
 False
+<<<<<<< HEAD
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
-False
+True
+True
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 True
 False
+True
 False
+True
+True
 False
+True
 False
 False
 False
@@ -5366,6 +7717,7 @@ True
 True
 False
 False
+True
 True
 False
 False
@@ -5380,7 +7732,6 @@ True
 False
 True
 True
-False
 True
 False
 True
@@ -5390,6 +7741,8 @@ False
 False
 False
 False
+True
+True
 False
 True
 False
@@ -5397,12 +7750,12 @@ False
 False
 False
 True
-False
 False
 True
 False
 True
 False
+False
 True
 True
 True
@@ -5411,7 +7764,6 @@ True
 True
 False
 False
-True
 False
 False
 False
@@ -5423,25 +7775,32 @@ True
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 True
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
 False
 False
+<<<<<<< HEAD
 False
 False
 False
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 True
 False
@@ -5449,17 +7808,25 @@ False
 True
 True
 False
+True
+True
 False
 True
+<<<<<<< HEAD
 True
 True
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
+True
+True
 False
+True
 True
 False
 True
@@ -5469,30 +7836,36 @@ False
 True
 True
 False
+False
 True
 False
 True
 True
 False
+True
 False
 True
 False
 True
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 False
 False
 True
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 True
 True
+<<<<<<< HEAD
 True
 False
 True
@@ -5502,85 +7875,143 @@ False
 False
 False
 False
+=======
+False
+True
+True
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 True
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
-True
+False
 False
+<<<<<<< HEAD
+=======
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
 False
+True
 True
 False
 False
+True
 False
+True
 True
 False
 False
 False
-True
 False
 False
 True
 True
 False
 True
+False
 False
+True
+True
 False
+True
+<<<<<<< HEAD
+=======
+True
 False
+True
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
+True
+False
+True
+False
+<<<<<<< HEAD
+=======
+True
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
+True
 False
 True
 False
 False
+True
 False
 True
+<<<<<<< HEAD
 False
 True
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 True
 True
+=======
+True
+True
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -5591,32 +8022,46 @@ False
 False
 False
 True
-False
+True
 False
 True
 True
 False
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
 False
 True
 False
 False
 True
 False
+True
+<<<<<<< HEAD
+=======
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
 False
+True
 False
 False
 True
 False
+True
+True
 False
 False
 True
@@ -5625,29 +8070,37 @@ False
 True
 False
 True
-False
 True
+False
+<<<<<<< HEAD
 True
 False
 True
+=======
 False
 True
+False
 True
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
+True
+True
 False
 False
 False
-True
 False
 False
+True
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 False
@@ -5661,8 +8114,13 @@ False
 True
 True
 True
+=======
+True
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
 True
 True
 True
@@ -5670,14 +8128,17 @@ False
 False
 True
 False
-True
 False
 True
 True
 False
 True
 False
+True
+True
 True
+True
+True
 False
 False
 False
@@ -5693,53 +8154,87 @@ False
 False
 True
 False
+True
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
-False
 False
 False
+True
+True
 False
 False
 True
+False
+False
 False
 False
 False
 False
+True
+False
+False
+False
 False
+<<<<<<< HEAD
 False
+=======
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
+False
+True
 False
 False
+True
 False
 False
+True
 False
 False
+True
 True
+False
+False
 False
+False
 True
 False
 False
 True
+False
+False
+False
 True
 False
 False
 True
 True
+True
 False
 False
 False
+True
 False
 True
 False
 False
+True
+True
 True
+True
 False
 True
+False
+False
+False
 False
 False
 True
@@ -5748,92 +8243,196 @@ False
 False
 False
 False
+True
 False
+True
 False
+<<<<<<< HEAD
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 False
+False
 True
+False
 False
+True
 False
 True
+False
 False
 True
+False
+False
+<<<<<<< HEAD
 True
 False
 True
 True
+True
+=======
+False
 False
 False
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
+<<<<<<< HEAD
 True
 False
+False
+True
+True
 False
+=======
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
+True
+<<<<<<< HEAD
+True
+True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
+True
 False
 False
-True
 False
+<<<<<<< HEAD
 False
+=======
+True
 True
+True
 False
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 True
 True
+False
 True
+False
+False
+False
+False
+False
 True
 False
 False
 True
 False
+False
+False
+False
+False
+False
+False
 True
+<<<<<<< HEAD
+=======
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
+<<<<<<< HEAD
+=======
 False
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 True
+False
+False
 False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+False
 False
 False
+False
+True
 False
 True
 False
+False
+<<<<<<< HEAD
+False
 True
+False
+False
+False
+False
+=======
+False
+False
 True
+False
 True
+False
+False
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
 True
+<<<<<<< HEAD
 False
 False
 False
+=======
+True
+True
+True
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 True
+False
+False
+<<<<<<< HEAD
 False
+True
+True
 False
+True
+=======
+True
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -5844,51 +8443,79 @@ False
 False
 False
 False
+<<<<<<< HEAD
+False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
+False
 True
 False
 False
 True
 False
+True
 False
 False
+True
+True
 False
+True
+True
+True
+True
+True
 False
 False
-True
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
 True
-False
 True
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
+False
+<<<<<<< HEAD
 False
 False
 False
+True
 False
+=======
+True
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
 True
 True
 False
-True
 True
 False
 False
@@ -5896,101 +8523,137 @@ False
 False
 False
 False
+False
+<<<<<<< HEAD
+=======
+True
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
 True
-True
 False
-True
 False
 False
 True
 True
 False
+<<<<<<< HEAD
 True
-True
-False
-False
-False
 False
-False
-False
-False
+True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
+True
 False
+True
 False
+True
+True
 False
 False
 False
 False
+True
 False
+True
 True
+True
 False
 False
 False
+True
 False
 False
 True
 False
 False
-False
+<<<<<<< HEAD
+=======
 True
-False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 True
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
 False
 False
-True
 False
 False
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
 False
 False
+<<<<<<< HEAD
+True
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
 True
 True
 False
+<<<<<<< HEAD
 True
-False
 True
 False
-True
 True
 True
 False
-True
+False
+=======
 False
+False
+False
+False
+True
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+True
 False
 True
 False
 False
 False
 False
+True
 False
+True
+True
+True
 False
 False
 False
 True
+False
 False
 False
 False
+True
 False
+True
 True
 True
 False
@@ -5998,139 +8661,184 @@ False
 True
 True
 False
-True
+False
 True
 False
 False
+False
+<<<<<<< HEAD
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
 True
+False
+<<<<<<< HEAD
+=======
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 True
+False
 False
 False
 False
 False
 True
 False
+True
+<<<<<<< HEAD
+False
+True
 False
 False
 False
+=======
 True
 True
 True
 True
-False
-False
-False
 True
 False
 False
 False
-False
-True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
-True
+False
 False
+<<<<<<< HEAD
 False
 False
 True
 True
 False
-False
+=======
 True
 False
+True
 False
 False
 False
+True
 False
 True
 True
-False
 True
 False
 False
 False
-True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
+<<<<<<< HEAD
 True
 True
-False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
 False
+<<<<<<< HEAD
+=======
+True
 False
+True
 False
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
-True
-True
 False
 False
-True
 False
 False
 False
-True
-True
 True
 False
 True
 True
 False
 False
-True
+False
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
 True
 True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
+True
+<<<<<<< HEAD
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
-False
 True
 True
+False
 True
 False
+<<<<<<< HEAD
+=======
 True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
+True
+False
 False
+False
 True
+False
 False
 False
 False
+<<<<<<< HEAD
+=======
+False
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
+False
 False
+False
 True
 False
 False
@@ -6139,19 +8847,24 @@ True
 True
 True
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
 False
 True
+False
 True
 False
 False
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 False
@@ -6161,8 +8874,11 @@ True
 True
 False
 True
+=======
 False
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -6170,69 +8886,124 @@ False
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
 False
-True
 False
 False
 False
 True
 False
 True
+False
+False
+False
 False
+False
+True
+True
+True
+<<<<<<< HEAD
+=======
 True
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
 True
+False
+False
 True
+<<<<<<< HEAD
+=======
 False
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
 True
 False
 False
+True
 True
 False
 True
+True
+False
 False
 False
 False
 False
+True
 False
 False
 True
+False
 False
+True
+True
 False
+<<<<<<< HEAD
+=======
 True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+True
+True
+False
+True
 False
+False
+<<<<<<< HEAD
 True
+=======
 False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
 False
+True
 False
+True
+True
 True
 False
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
 False
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -6259,9 +9030,12 @@ True
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
@@ -6269,32 +9043,50 @@ False
 False
 False
 False
-True
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
 False
-False
+True
 True
+False
+<<<<<<< HEAD
 True
+False
 False
+=======
 True
 False
+False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
+True
+False
+False
+True
 False
+True
 False
 False
 True
@@ -6305,6 +9097,7 @@ True
 False
 False
 True
+True
 False
 False
 True
@@ -6316,12 +9109,25 @@ False
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
+True
 False
 True
 False
@@ -6331,7 +9137,6 @@ False
 True
 True
 False
-True
 False
 False
 False
@@ -6342,7 +9147,6 @@ False
 False
 True
 True
-False
 False
 False
 True
@@ -6352,13 +9156,13 @@ False
 True
 True
 False
-True
 False
 False
 False
 False
 True
 False
+True
 True
 False
 True
@@ -6375,15 +9179,23 @@ False
 True
 False
 False
+True
+True
 False
 True
 False
 True
+True
 False
+True
 False
 False
+True
 False
 False
+True
+True
+True
 False
 False
 False
@@ -6392,6 +9204,7 @@ True
 True
 False
 False
+True
 False
 False
 False
@@ -6409,8 +9222,11 @@ False
 False
 False
 False
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -6420,15 +9236,27 @@ True
 False
 True
 False
+True
+True
 False
 True
+False
+False
+False
 False
+<<<<<<< HEAD
+=======
+True
 False
 False
 False
 False
 False
+True
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
 False
@@ -6436,71 +9264,127 @@ False
 True
 False
 False
-True
+False
 False
 False
 False
 True
+True
+<<<<<<< HEAD
+=======
+False
+False
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
 False
 False
+False
+False
+True
+True
+True
 False
 False
 False
+<<<<<<< HEAD
 True
+False
+=======
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
+False
+<<<<<<< HEAD
+=======
+False
 False
 True
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
+False
+False
 True
 True
 False
+True
 False
 False
+True
 False
+True
 False
 True
 True
+<<<<<<< HEAD
 True
+=======
 False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
 False
 True
+<<<<<<< HEAD
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 True
 False
+True
+True
+<<<<<<< HEAD
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
+True
+True
 False
 False
 False
+<<<<<<< HEAD
 False
 False
+=======
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
+False
 True
 False
 True
@@ -6513,29 +9397,56 @@ True
 True
 True
 True
+<<<<<<< HEAD
+=======
+False
+False
+False
+False
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 True
+True
 False
 True
 False
 False
 False
 False
+True
 True
+False
 True
+False
 False
 False
+False
+<<<<<<< HEAD
 True
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 True
+False
 False
 False
+False
+<<<<<<< HEAD
+=======
+False
+True
 False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -6544,30 +9455,36 @@ False
 True
 False
 False
-True
 True
 True
 False
 False
-False
+True
+True
 False
 False
+True
 True
 False
 False
 True
 True
 False
+True
 False
 True
 True
 False
 True
 True
+<<<<<<< HEAD
 False
 True
 True
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -6576,9 +9493,11 @@ False
 True
 True
 False
+True
 False
 False
 False
+True
 False
 True
 False
@@ -6586,15 +9505,21 @@ True
 False
 False
 False
+False
+<<<<<<< HEAD
 True
+=======
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
-False
+True
 True
 True
 False
 False
+<<<<<<< HEAD
 True
 True
 True
@@ -6602,54 +9527,73 @@ False
 True
 True
 True
+=======
 False
-True
-True
 False
 False
 True
 False
-True
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+False
+<<<<<<< HEAD
 False
 True
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 False
 False
 False
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
+False
 True
 False
 False
 True
 False
 True
-False
+True
 False
 False
 False
 False
 False
 True
-False
 True
 False
+True
 False
 False
 True
-False
 True
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
 True
 False
 False
@@ -6657,7 +9601,12 @@ False
 True
 False
 False
+True
+True
+True
+True
 False
+True
 False
 False
 False
@@ -6668,31 +9617,40 @@ False
 False
 False
 False
-True
-True
 False
 False
 False
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 True
 False
 True
+<<<<<<< HEAD
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
+True
+True
 False
 False
 False
 True
 False
-True
 False
+True
+True
 False
 True
 True
@@ -6708,23 +9666,33 @@ False
 False
 True
 False
+True
 False
+True
 False
 False
+<<<<<<< HEAD
 True
 True
 False
 True
+False
+False
 False
 False
+=======
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+True
 False
+True
 True
 False
 False
+True
 False
 False
 True
@@ -6734,20 +9702,21 @@ True
 True
 False
 True
-False
-False
-False
 True
+True
 False
 True
 False
+True
 False
+True
 False
 True
 True
-False
 True
 True
+<<<<<<< HEAD
+True
 False
 True
 True
@@ -6755,6 +9724,10 @@ True
 False
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -6767,15 +9740,17 @@ False
 True
 False
 False
+True
+True
 False
 False
 False
 False
 True
-False
 True
 True
 False
+<<<<<<< HEAD
 True
 False
 False
@@ -6783,9 +9758,16 @@ False
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
+False
+False
+False
+False
+False
 True
 True
 False
@@ -6793,16 +9775,23 @@ True
 False
 False
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
-True
 False
 False
 True
 False
+<<<<<<< HEAD
+=======
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -6812,27 +9801,35 @@ False
 True
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
-False
 False
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
 False
 True
 False
 False
+False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -6843,14 +9840,19 @@ False
 False
 False
 True
+<<<<<<< HEAD
 True
 True
 True
 False
 False
 False
+=======
 False
-True
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
 True
@@ -6860,6 +9862,7 @@ False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
 False
@@ -6872,33 +9875,43 @@ False
 True
 False
 True
+=======
 False
 True
 False
 False
-True
-True
+False
 False
+False
+False
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
+False
 True
 True
 False
+True
 False
 False
 True
-True
+False
 False
 False
+False
+False
 True
+<<<<<<< HEAD
 True
 False
 False
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
-True
 False
 False
 False
@@ -6908,17 +9921,23 @@ True
 False
 True
 False
-False
 True
 False
 True
+False
 False
 False
+<<<<<<< HEAD
 False
 False
 True
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
 False
 True
 False
@@ -6928,9 +9947,9 @@ True
 False
 True
 True
-False
 False
 True
+True
 False
 True
 False
@@ -6947,10 +9966,13 @@ True
 True
 False
 False
+<<<<<<< HEAD
 False
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -6961,6 +9983,7 @@ False
 False
 False
 False
+True
 False
 False
 True
@@ -6968,6 +9991,11 @@ True
 False
 False
 False
+True
+False
+True
+True
+True
 False
 False
 False
@@ -6978,20 +10006,32 @@ False
 True
 False
 True
+<<<<<<< HEAD
 False
 False
 False
+=======
 False
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
+False
+False
 True
+<<<<<<< HEAD
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
 True
+<<<<<<< HEAD
 True
 False
 False
@@ -7000,22 +10040,42 @@ True
 True
 False
 False
+=======
+True
+True
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+<<<<<<< HEAD
 True
 True
+=======
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 False
 False
 False
 False
+True
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 True
 False
 False
@@ -7024,30 +10084,36 @@ False
 False
 False
 False
-True
-True
-True
 False
 False
 False
 False
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
 True
 True
 True
 False
-True
 False
 False
 False
@@ -7055,10 +10121,12 @@ False
 True
 True
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
 True
 False
@@ -7073,23 +10141,36 @@ False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 False
 False
 True
 True
+<<<<<<< HEAD
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
+False
 True
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -7097,48 +10178,64 @@ False
 False
 False
 True
+<<<<<<< HEAD
 True
 True
 True
 False
 False
-True
 True
 True
 True
+=======
 False
 False
+False
+True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
+False
+False
 True
 True
 False
-False
 True
 True
 False
 False
-True
 False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
-True
 False
+<<<<<<< HEAD
 True
 False
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
+True
 False
 False
 False
@@ -7148,6 +10245,7 @@ False
 True
 True
 True
+<<<<<<< HEAD
 True
 True
 True
@@ -7160,46 +10258,85 @@ True
 False
 False
 True
-True
+=======
+False
 False
+True
+True
 False
 False
 True
+True
 False
 True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 False
 False
 True
+False
 True
+False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
+False
+<<<<<<< HEAD
 True
 True
 True
+=======
 False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 True
 True
+False
+False
+False
+<<<<<<< HEAD
 True
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 True
 False
+False
 True
+False
 False
 False
 True
 False
+True
+True
 False
 False
 False
 False
 False
+False
 True
+False
 False
 False
 False
@@ -7207,12 +10344,22 @@ False
 False
 False
 True
+False
+True
+False
+False
 True
 False
+<<<<<<< HEAD
+=======
 False
+False
+False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
 True
 True
 True
@@ -7227,33 +10374,55 @@ True
 True
 False
 False
+True
 False
 False
 True
-True
 False
 True
 False
 False
 False
+<<<<<<< HEAD
 True
+False
+False
+False
 False
 False
 False
 False
 False
+False
+False
+True
+True
+True
+True
 False
 False
 False
+=======
 False
+True
 False
+True
 True
 True
+False
 True
+False
+False
+False
+False
 True
 False
 False
+True
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -7268,96 +10437,144 @@ False
 False
 False
 True
+False
+True
 True
 True
+False
+False
 True
 False
+<<<<<<< HEAD
+=======
 False
+False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
 False
 False
 False
+True
 False
+True
 False
 False
 True
 False
+<<<<<<< HEAD
 True
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
+False
 True
 False
 False
+True
 True
+False
 True
 False
 True
+False
 False
+True
 False
+<<<<<<< HEAD
+=======
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
+True
+<<<<<<< HEAD
+=======
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
+True
 False
 True
 False
 False
+False
+False
+False
+True
+True
 False
 False
 False
+True
 False
+True
 False
+True
 False
+<<<<<<< HEAD
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 False
 True
 False
+True
 False
 False
+True
 True
 False
 False
+<<<<<<< HEAD
+True
+True
 True
 True
 False
 False
 True
 True
+False
+True
+False
+False
+False
+False
 True
+=======
+False
 True
+True
 False
+True
 False
 True
 True
-False
 True
-False
-False
-False
-False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
 False
-True
 False
 False
 False
@@ -7368,16 +10585,16 @@ False
 False
 False
 False
-True
+False
 True
 False
 False
 False
-True
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 True
@@ -7387,18 +10604,29 @@ True
 True
 False
 True
-True
+=======
+False
 False
+True
 False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
 False
+True
 False
 False
 False
 True
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -7413,9 +10641,13 @@ True
 False
 False
 True
+True
 False
 True
 False
+True
+True
+True
 False
 False
 False
@@ -7427,68 +10659,98 @@ True
 False
 False
 False
-False
 True
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
 False
 True
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
+True
+True
 False
 False
 False
 True
 False
-True
 True
-True
-True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
+True
 False
+<<<<<<< HEAD
+True
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 True
 True
 False
+<<<<<<< HEAD
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
-False
 True
 False
 False
 True
 True
+False
+True
 True
+True
 False
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
+<<<<<<< HEAD
 False
 True
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 True
+False
 False
+True
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -7497,16 +10759,24 @@ True
 False
 True
 False
+<<<<<<< HEAD
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
+False
+False
 False
 False
 False
 True
 True
 False
+True
+False
 False
 True
 False
@@ -7514,21 +10784,41 @@ False
 False
 False
 False
+False
+<<<<<<< HEAD
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
+<<<<<<< HEAD
+True
 False
 True
+=======
+False
 False
 True
 False
+False
+True
 True
+True
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 False
 True
 False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 True
@@ -7540,10 +10830,13 @@ False
 True
 False
 False
-True
 True
+<<<<<<< HEAD
 True
+=======
 False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -7557,15 +10850,18 @@ True
 False
 False
 False
-True
 False
 False
+True
+True
+True
 False
 False
 False
 False
 True
 False
+<<<<<<< HEAD
 False
 True
 False
@@ -7573,6 +10869,9 @@ False
 True
 True
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -7583,12 +10882,14 @@ True
 False
 False
 False
+<<<<<<< HEAD
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
-True
 False
+True
 False
 True
 False
@@ -7596,41 +10897,68 @@ True
 False
 True
 False
+True
 False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
+True
 True
 False
 True
 False
+<<<<<<< HEAD
 False
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
-False
+True
 True
 True
+<<<<<<< HEAD
 False
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
 False
 False
 True
+<<<<<<< HEAD
+False
 False
 False
 False
+True
+True
 False
 True
+=======
 True
 False
+False
+False
+True
+True
 True
 True
 False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+False
 True
 False
 False
@@ -7638,6 +10966,8 @@ False
 True
 True
 False
+True
+False
 False
 False
 True
@@ -7652,28 +10982,42 @@ False
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
-False
 True
 False
 True
 False
 True
 True
+False
 False
 False
+False
 True
 False
 False
 False
 False
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
+False
 True
+False
+False
 False
 False
 False
@@ -7681,40 +11025,78 @@ False
 False
 True
 True
+<<<<<<< HEAD
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+False
+True
+False
 True
 True
+False
+False
+False
+False
+False
 False
+True
 False
 False
+<<<<<<< HEAD
+True
+=======
 True
+True
 False
 False
+True
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
 False
 False
 False
 False
 True
+False
+False
 False
+True
+True
 False
 False
+<<<<<<< HEAD
+=======
 True
 False
+True
+True
 True
 False
 False
+False
+False
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 True
+False
+False
 True
+False
+False
 True
 False
 True
@@ -7725,17 +11107,21 @@ False
 False
 False
 False
+True
 False
 False
 True
 False
 True
 False
+<<<<<<< HEAD
 True
 True
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -7756,24 +11142,30 @@ False
 False
 True
 True
-True
-False
 True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
+<<<<<<< HEAD
 False
 True
 False
 True
 True
 False
+=======
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
@@ -7782,24 +11174,29 @@ True
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
-True
 False
 False
 True
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
 True
 True
-False
 True
 False
 True
@@ -7810,29 +11207,36 @@ False
 False
 True
 False
-True
 True
 True
-True
+False
 True
+False
 True
 True
+False
 False
 False
 True
 False
 False
+False
+False
 True
 True
 False
 True
 False
+True
 False
 True
 False
 True
 False
+True
 False
+True
+True
 False
 True
 True
@@ -7840,16 +11244,23 @@ False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 True
 True
 True
+=======
 False
-False
 True
+False
 False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 True
+False
 False
 True
 True
@@ -7861,24 +11272,32 @@ True
 True
 False
 False
+False
 True
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
-False
 False
 False
+<<<<<<< HEAD
+=======
 True
-True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
 False
 False
+False
+False
 True
 False
 False
@@ -7886,14 +11305,27 @@ True
 False
 False
 False
-True
+False
 True
 False
+False
+False
+False
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
+<<<<<<< HEAD
+=======
+False
+True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
@@ -7902,66 +11334,95 @@ False
 False
 True
 False
-True
-True
 False
+<<<<<<< HEAD
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
+False
 True
 False
+<<<<<<< HEAD
 True
 False
+True
 True
+=======
+False
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
+False
+False
 False
 True
 True
 False
+False
+False
+False
 True
 True
 True
 False
 False
 False
+True
+True
 False
 True
 False
 False
 False
+True
 True
 False
 False
+<<<<<<< HEAD
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+True
+True
 False
 False
+False
 True
 False
+True
 True
 True
+True
 False
 True
 True
 False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -7976,21 +11437,29 @@ False
 False
 False
 False
-True
 False
 False
 True
 False
+False
 True
 False
 True
+False
 False
 False
+<<<<<<< HEAD
+=======
 False
 False
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
+False
+False
 False
 False
 False
@@ -8002,16 +11471,23 @@ True
 True
 True
 True
-False
 True
 True
+False
+False
+False
 False
 False
 True
 False
+<<<<<<< HEAD
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
+True
 False
 True
 True
@@ -8022,30 +11498,45 @@ False
 True
 True
 False
+<<<<<<< HEAD
 True
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
+False
+True
 True
+False
 True
 True
 False
 False
 False
+True
 False
+True
 False
+True
 True
 False
+False
 True
+False
+False
+False
 False
+<<<<<<< HEAD
 False
+=======
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-False
 True
 False
 False
@@ -8053,26 +11544,42 @@ False
 False
 False
 False
-True
 False
 False
 False
 False
+<<<<<<< HEAD
+False
+True
 False
 False
+=======
 True
+True
+True
+True
+False
 False
+True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 True
+False
 False
+False
+True
 False
 True
+True
+False
 False
+False
 True
+False
 False
 False
 False
@@ -8082,27 +11589,41 @@ True
 False
 False
 False
+False
 True
 True
 True
-False
+<<<<<<< HEAD
+=======
 False
 False
 True
+True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
+True
+True
 False
+True
 False
 True
 False
 True
 True
 False
+True
+True
+True
 False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -8111,12 +11632,14 @@ True
 True
 False
 False
+False
+True
 False
+True
 False
 False
 False
 False
-True
 False
 True
 False
@@ -8126,41 +11649,60 @@ False
 True
 False
 False
-True
-True
 False
 False
 False
 False
+False
 True
 False
+True
+True
+True
 True
 False
+False
+False
+False
+<<<<<<< HEAD
 True
+=======
+False
 True
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
 False
 False
+<<<<<<< HEAD
+=======
 False
 False
 True
 False
 True
 True
-True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 False
 False
 True
-False
-False
 True
 True
+False
+<<<<<<< HEAD
+=======
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -8172,16 +11714,21 @@ True
 False
 True
 True
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
 True
 False
 False
-True
 False
+True
 False
 False
 False
@@ -8189,11 +11736,15 @@ False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 True
 False
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -8202,14 +11753,15 @@ False
 True
 False
 False
-True
-True
 True
 False
 False
 False
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -8224,41 +11776,61 @@ True
 False
 False
 False
+False
+True
+False
 True
 True
 True
 False
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
+True
+True
+True
 True
 True
 False
 False
+<<<<<<< HEAD
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
+True
 False
 False
+False
 True
 True
+False
 True
 False
 False
 True
-True
 False
+True
 False
+True
 False
 False
 False
 False
 False
+True
 False
 False
 False
@@ -8267,20 +11839,41 @@ False
 True
 False
 False
+<<<<<<< HEAD
 True
 True
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
+False
 False
+<<<<<<< HEAD
+False
+True
+=======
 False
 False
 True
+True
+True
+False
+False
 False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
 True
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
@@ -8291,34 +11884,47 @@ True
 True
 False
 False
+<<<<<<< HEAD
 False
 True
 True
 True
 True
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
+True
 True
 False
 True
 True
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
+False
+False
 True
 True
 False
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 True
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -8329,14 +11935,18 @@ True
 False
 True
 True
-False
+True
 False
+True
 False
 False
 True
 True
+False
 False
 True
+True
+True
 False
 False
 True
@@ -8347,18 +11957,34 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+True
 False
 False
 False
 False
+True
 False
+<<<<<<< HEAD
+=======
+True
+True
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
+True
 False
+True
+True
 False
+True
 False
 True
 False
@@ -8366,25 +11992,34 @@ False
 False
 True
 False
-True
 False
 False
 False
 False
 True
+<<<<<<< HEAD
+False
 False
+False
+True
 False
 False
 True
+=======
 False
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -8394,24 +12029,38 @@ False
 False
 False
 False
+True
 True
+<<<<<<< HEAD
+False
 True
 False
 True
 False
+True
+=======
 True
 False
+False
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+False
 True
 False
 True
+<<<<<<< HEAD
 True
 True
 True
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -8419,6 +12068,7 @@ True
 True
 True
 False
+True
 False
 False
 False
@@ -8429,28 +12079,35 @@ False
 True
 False
 False
-False
-True
 False
 False
 True
 False
 True
 False
+True
 False
 False
+<<<<<<< HEAD
+=======
 False
-True
 False
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
 False
+<<<<<<< HEAD
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
+True
 False
 True
 False
@@ -8458,53 +12115,75 @@ False
 True
 False
 True
+False
 True
 False
 True
 False
 True
 False
+<<<<<<< HEAD
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
 False
 False
+False
 True
 True
+False
 False
 False
+True
 False
 False
 True
 True
 True
+False
 False
 False
 True
 True
+True
+False
+True
 False
 False
 False
+<<<<<<< HEAD
+=======
 True
-False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 False
 False
 False
 False
 True
-False
 True
 False
+True
+True
 False
 True
 False
+True
 False
+True
+True
 False
 True
+False
 False
 False
 True
+True
 False
 True
 True
@@ -8518,37 +12197,60 @@ True
 False
 False
 False
+True
+True
+True
 False
 False
 True
-False
 True
 True
 False
 False
+<<<<<<< HEAD
 True
 True
 True
 True
+=======
+False
+False
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
 True
 False
 False
+True
 True
 False
+False
+<<<<<<< HEAD
+=======
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -8557,46 +12259,64 @@ False
 True
 False
 False
+True
 False
 False
+<<<<<<< HEAD
+True
+=======
 False
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
-True
 False
 False
-True
+False
 True
 False
 False
 True
+False
 True
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+True
 False
 True
 True
 False
 True
+False
 False
 False
+<<<<<<< HEAD
+=======
+False
 True
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
 True
+True
 False
 False
 False
@@ -8605,11 +12325,16 @@ False
 True
 False
 True
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
+True
 False
 True
 False
@@ -8622,22 +12347,30 @@ False
 False
 True
 False
+True
 False
 False
 True
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 False
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
 True
 False
+True
 False
 False
 False
@@ -8645,22 +12378,34 @@ True
 False
 True
 False
+True
+<<<<<<< HEAD
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
 False
 False
 True
+False
 False
+True
 False
 True
 False
+True
 False
+True
+True
+True
 False
 False
 False
 False
 False
+True
 True
 False
 False
@@ -8672,6 +12417,9 @@ True
 True
 True
 False
+True
+True
+True
 False
 True
 False
@@ -8683,9 +12431,8 @@ False
 False
 True
 True
-False
 True
-False
+True
 True
 True
 True
@@ -8695,10 +12442,13 @@ False
 False
 False
 False
+False
+True
 False
 True
 True
 False
+True
 False
 False
 False
@@ -8708,11 +12458,16 @@ False
 True
 False
 True
+False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
+False
+False
 True
 True
-False
 True
 True
 False
@@ -8726,21 +12481,35 @@ False
 False
 True
 True
+False
 False
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
 False
 False
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+False
+False
 False
+<<<<<<< HEAD
 False
+=======
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
 False
@@ -8750,11 +12519,18 @@ False
 False
 False
 False
-True
+False
+False
+False
 True
+False
 False
 False
+False
 True
+False
+False
+False
 True
 False
 False
@@ -8765,7 +12541,12 @@ False
 False
 True
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+True
 False
 True
 False
@@ -8778,17 +12559,26 @@ True
 True
 False
 False
+<<<<<<< HEAD
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
+True
+<<<<<<< HEAD
 False
 False
 False
+=======
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
 False
 True
 False
@@ -8798,6 +12588,7 @@ True
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 False
@@ -8806,58 +12597,86 @@ False
 True
 False
 True
+False
 False
 False
 False
+=======
+True
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 True
+False
 True
 False
 False
 False
 True
+<<<<<<< HEAD
 True
 True
 True
+=======
 False
-True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+<<<<<<< HEAD
+False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
-True
+False
+False
 False
 False
 True
 False
 True
 False
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
 False
-True
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
-False
+True
 False
+True
 False
+True
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+True
 True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -8865,88 +12684,136 @@ False
 False
 True
 False
+<<<<<<< HEAD
+False
+=======
 True
 True
-False
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
+True
+<<<<<<< HEAD
 False
+=======
+True
 False
+True
 False
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 False
+False
 True
 False
 False
 True
 False
+<<<<<<< HEAD
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 True
 False
 False
+True
+<<<<<<< HEAD
+=======
 False
 True
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
+False
 True
+False
 True
 False
 False
+<<<<<<< HEAD
 False
 False
 False
 False
 False
+=======
 True
-False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
 False
 False
 False
 False
-True
 False
 False
+<<<<<<< HEAD
 False
 False
 False
 False
 False
 False
+=======
+True
 True
 False
 True
+True
 False
 True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
+True
 False
 True
 True
-False
+True
 False
 True
+False
 False
+True
 False
 True
 True
+<<<<<<< HEAD
 False
 False
 True
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
 True
-False
 False
 False
 False
-True
 False
 False
 False
@@ -8955,10 +12822,13 @@ False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
 True
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -8986,11 +12856,11 @@ False
 False
 False
 True
-False
 True
 True
 True
 False
+<<<<<<< HEAD
 True
 True
 True
@@ -8999,10 +12869,15 @@ False
 False
 True
 True
+=======
 False
-True
-True
 False
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 True
 False
 False
@@ -9012,16 +12887,19 @@ False
 False
 False
 False
-True
 False
-True
 False
 False
 False
 False
+<<<<<<< HEAD
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
 False
 True
 False
@@ -9032,7 +12910,6 @@ True
 False
 False
 True
-False
 False
 False
 False
@@ -9046,9 +12923,13 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
+True
 False
 False
 True
@@ -9060,6 +12941,7 @@ True
 True
 False
 False
+<<<<<<< HEAD
 False
 True
 True
@@ -9068,15 +12950,21 @@ False
 True
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
 False
 False
+<<<<<<< HEAD
 True
+=======
 False
-True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
+False
 True
 False
 False
@@ -9085,17 +12973,23 @@ False
 True
 True
 True
+<<<<<<< HEAD
 True
 False
 False
 True
 False
 True
+True
+False
+False
 True
 False
+=======
 False
-True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -9103,6 +12997,7 @@ False
 True
 True
 False
+<<<<<<< HEAD
 False
 False
 True
@@ -9110,13 +13005,18 @@ True
 False
 False
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -9126,19 +13026,18 @@ True
 False
 False
 True
-False
-False
 False
-False
 True
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 False
 True
 True
+False
 False
 False
 False
@@ -9147,7 +13046,11 @@ False
 False
 False
 False
+=======
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -9156,19 +13059,25 @@ False
 True
 False
 True
+<<<<<<< HEAD
 True
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 False
 True
+<<<<<<< HEAD
 False
 False
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
@@ -9177,8 +13086,6 @@ False
 True
 False
 False
-True
-False
 False
 False
 False
@@ -9186,13 +13093,19 @@ False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
+=======
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 True
+<<<<<<< HEAD
 False
 False
 False
@@ -9201,8 +13114,15 @@ False
 False
 True
 False
+True
+False
+=======
+False
+True
 True
 False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
@@ -9211,6 +13131,7 @@ False
 False
 True
 False
+<<<<<<< HEAD
 False
 True
 False
@@ -9219,6 +13140,12 @@ False
 True
 True
 False
+=======
+True
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
@@ -9229,6 +13156,7 @@ True
 False
 False
 False
+True
 False
 False
 False
@@ -9241,17 +13169,23 @@ True
 False
 True
 False
+False
+True
 False
 True
+False
 True
 False
 False
 False
 True
+False
 False
+True
 False
 False
 False
+True
 False
 False
 False
@@ -9263,33 +13197,51 @@ False
 False
 True
 False
+False
+False
+False
 True
 True
 True
 False
-True
 False
 False
 False
 True
 False
+<<<<<<< HEAD
 False
 True
 False
+=======
 False
+False
+True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 True
 False
 False
 False
 False
 True
-False
 True
+True
 False
 False
+<<<<<<< HEAD
 False
+=======
+True
+True
+True
+True
 False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 True
 False
@@ -9297,18 +13249,22 @@ False
 False
 False
 False
+False
 True
 True
+<<<<<<< HEAD
 True
 False
 False
 False
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
-False
 True
 False
 False
@@ -9317,14 +13273,28 @@ False
 True
 False
 False
+<<<<<<< HEAD
 False
 False
 False
+True
 True
+False
+False
+False
+=======
 True
+False
 False
 False
+True
+True
+True
+True
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -9349,10 +13319,14 @@ True
 False
 False
 True
+<<<<<<< HEAD
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+True
 False
 False
 False
@@ -9360,7 +13334,6 @@ False
 False
 False
 False
-True
 True
 True
 True
@@ -9370,12 +13343,14 @@ True
 True
 False
 False
-True
 False
+<<<<<<< HEAD
 False
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -9386,18 +13361,20 @@ True
 False
 False
 False
-True
 True
+<<<<<<< HEAD
 True
-False
-False
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 True
-False
+True
+True
 False
+True
 True
 False
 False
@@ -9405,7 +13382,10 @@ True
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -9418,10 +13398,16 @@ False
 True
 False
 True
+<<<<<<< HEAD
+=======
 False
+True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+False
 True
 False
 True
@@ -9430,8 +13416,12 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
 False
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
@@ -9440,25 +13430,36 @@ False
 False
 True
 False
+<<<<<<< HEAD
 False
 False
 True
 False
 False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+False
 True
 False
 False
 True
+False
+False
+False
 False
 False
 True
+True
 False
 True
 False
@@ -9471,6 +13472,9 @@ True
 True
 False
 True
+False
+False
+False
 False
 False
 False
@@ -9485,10 +13489,14 @@ False
 False
 False
 False
+<<<<<<< HEAD
 False
+=======
 False
 False
+True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -9498,11 +13506,16 @@ True
 False
 False
 True
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 True
+<<<<<<< HEAD
 True
 False
 True
@@ -9512,13 +13525,18 @@ False
 True
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
 False
+<<<<<<< HEAD
 False
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
@@ -9527,41 +13545,66 @@ True
 True
 False
 True
+<<<<<<< HEAD
 True
+=======
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
+True
 True
 True
+False
 True
 False
 False
 False
+<<<<<<< HEAD
 True
 True
 True
+False
 False
+=======
 False
 False
+True
 False
+True
 False
 False
+True
+True
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
+True
 False
 False
 False
 False
-True
-True
+False
+False
+False
+False
+False
+<<<<<<< HEAD
 True
+=======
+False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 False
 True
 False
+<<<<<<< HEAD
 True
 False
 False
@@ -9570,6 +13613,15 @@ True
 True
 True
 True
+=======
+False
+False
+False
+False
+False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -9579,31 +13631,59 @@ False
 False
 False
 False
+False
+True
 False
 False
 False
+True
 False
 True
+False
+<<<<<<< HEAD
 False
 True
+=======
 True
+True
 False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 False
+False
+<<<<<<< HEAD
+=======
+False
+True
+True
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
 False
 False
+True
+<<<<<<< HEAD
 False
 False
+=======
+True
 True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
+False
+False
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 False
@@ -9614,14 +13694,24 @@ False
 False
 False
 False
+=======
+True
+True
 False
 False
 False
 True
+True
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 False
+True
 False
+True
 False
 False
 True
@@ -9629,34 +13719,62 @@ True
 False
 False
 False
+<<<<<<< HEAD
 True
 True
+True
+True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
+True
 False
 True
+False
+False
 True
+False
+<<<<<<< HEAD
 True
+False
+=======
 True
 False
+True
+True
 False
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
 True
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
+True
 False
 False
+True
 False
 True
 False
 False
 True
 False
+<<<<<<< HEAD
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 True
@@ -9669,28 +13787,43 @@ True
 False
 True
 True
+False
+False
+<<<<<<< HEAD
+False
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
+<<<<<<< HEAD
 False
 True
+=======
 True
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
-False
 True
 True
 False
 False
 True
+False
 True
+<<<<<<< HEAD
+=======
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 False
 False
+<<<<<<< HEAD
 True
 True
 True
@@ -9699,17 +13832,37 @@ False
 True
 False
 True
+=======
+False
 False
 False
 False
 False
 False
+False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
+False
+False
+False
 True
 True
+False
+False
 True
+<<<<<<< HEAD
+=======
+False
 True
+False
+False
 False
+False
 True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
 True
@@ -9720,18 +13873,26 @@ True
 False
 True
 True
+<<<<<<< HEAD
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
-False
 True
-False
 False
 False
 True
 False
+False
 True
+False
 True
+<<<<<<< HEAD
+=======
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
 False
 True
 True
@@ -9740,7 +13901,6 @@ False
 False
 True
 True
-True
 False
 False
 True
@@ -9749,29 +13909,30 @@ False
 True
 True
 True
+False
 False
 False
 False
 False
+True
+True
 False
 False
 False
 False
+<<<<<<< HEAD
 True
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
-True
 False
 True
-False
-False
-False
 False
 False
-False
-False
+True
 False
 True
 True
@@ -9781,27 +13942,35 @@ False
 False
 False
 False
+True
 False
 False
 True
 False
 True
 False
+<<<<<<< HEAD
 True
 True
+=======
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
 False
-True
 False
 True
+<<<<<<< HEAD
 True
 True
 True
 False
+True
 True
+=======
+False
 True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 False
@@ -9811,6 +13980,7 @@ False
 False
 False
 False
+<<<<<<< HEAD
 True
 False
 False
@@ -9824,33 +13994,53 @@ True
 True
 True
 True
+=======
 False
 False
-True
 False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+False
+False
 True
+False
 False
 False
+True
 False
 False
+True
 False
+True
 False
+True
 False
 True
 False
 False
 True
+False
+True
+False
+False
 False
 True
+<<<<<<< HEAD
 False
 False
 True
+True
 False
 False
+=======
 True
+False
 True
 False
 False
+False
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 True
 True
@@ -9861,25 +14051,36 @@ False
 False
 False
 True
+<<<<<<< HEAD
 False
 False
+True
+False
+=======
+True
+True
 True
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 True
 False
 False
 False
+<<<<<<< HEAD
 False
 False
 True
 True
 True
+=======
+True
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 False
 True
 True
 False
-True
 False
 False
 False
@@ -9889,11 +14090,11 @@ False
 False
 True
 False
-True
-True
+False
 True
 False
 False
+True
 False
 False
 False
@@ -9902,6 +14103,7 @@ True
 False
 False
 True
+False
 True
 True
 False
@@ -9909,53 +14111,101 @@ False
 True
 False
 True
+True
 False
 False
+<<<<<<< HEAD
 False
 False
+=======
+True
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+True
 True
 False
 True
 True
 True
+<<<<<<< HEAD
 True
+=======
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
+False
 True
 False
 False
+<<<<<<< HEAD
 False
 False
 True
+=======
 True
+False
 False
+True
+True
 True
+True
+False
 False
+False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
 True
+False
 True
 False
 True
+<<<<<<< HEAD
 True
+False
 True
+=======
 False
 False
+False
+True
 True
 False
 True
+True
+False
 False
 False
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
+True
+True
 False
 False
+True
 False
 True
 False
+True
+True
 False
+True
 False
 True
 False
 False
 False
 False
+<<<<<<< HEAD
+=======
+True
+>>>>>>> 851000e12ac33929518738e292c755a62e7a90db
 False
 True
+False
+False
+False
+False
+False
+False
+False
+False
