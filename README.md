@@ -77,7 +77,7 @@ Fitting 5 folds for each of 54 candidates, totalling 270 fits
 * 'random_state': 1 
 * 'subsample': 0.3
 
-#### Gradient Boosting Classifier SCORE with best parameters:  0.989558232931727
+#### Gradient Boosting Classifier SCORE with best parameters:  0.7286144578313253
 
 ### Random Forest Classifier
 
@@ -115,12 +115,9 @@ Fitting 5 folds for each of 32 candidates, totalling 160 fits
 
 #### Decision Tree Classifier SCORE with best parameters:  0.7076305220883534
 
-
-
-
-
-5:57
-image.png 
+### ROC Curve:
+![ROC image_RF](images/ROC_RF.png)
+ 
 
 ![Banner](images/decisiontree.png)
 
