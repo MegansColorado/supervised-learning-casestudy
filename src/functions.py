@@ -154,7 +154,8 @@ def Random_Forest(X_train, X_test, y_train):
     return y_pred, score
 
 def feature_importance(model, names):
-    feature_importances = 100*model_opt.feature_importances_ / np.sum(model.feature_importances_)
+
+    feature_importances = 100*model.feature_importances_ / np.sum(model.feature_importances_)
     feature_importances, feature_names, feature_idxs = \
     zip(*sorted(zip(feature_importances, names, range(len(names)))))
 
@@ -237,6 +238,7 @@ if __name__ == '__main__':
     X_test = pd.read_csv('../data/Cleaned_X_test.csv')
     y_train = pd.read_csv('../data/Cleaned_y_train.csv')
     y_test = pd.read_csv('../data/Cleaned_y_test.csv')
+    #X_train = X_train
     # create features list
     cols = list(X_train.columns)
     # standardize
@@ -296,7 +298,37 @@ if __name__ == '__main__':
     
     # for model, param in zip(models, paramslst):
     #     print(model, param)
-    #lst_models = loopallgridsearch(models, paramslst, X_train, y_train_ravel)
+    lst_models = loopallgridsearch(models, paramslst, X_train, y_train_ravel)
+    # lst_models[0].score(X_test, y_test) 
+    # lst_models[1].score(X_test, y_test) 
+    # lst_models[2].score(X_test, y_test) 
+    # gdb = GradientBoostingClassifier(
+    #                          n_estimators=1000,
+    #                          learning_rate=0.001,
+    #                          max_depth=2,
+    #                          subsample=0.3,
+    #                          min_samples_split=2,
+    #                          min_samples_leaf=1,
+    #                          min_weight_fraction_leaf=0.0)
+    # gdb.fit(X_train, y_train_ravel)
+    # print(gdb.score(X_test, y_test))
 
-    feature_importance(lst_models[1], cols)
+    # rf = RandomForestClassifier(
+    #                 criterion='gini',
+    #                 n_estimators=100,
+    #                 max_depth=2,
+    #                 n_jobs=-1)
+    # rf.fit(X_train, y_train_ravel)
+    # print(rf.score(X_test, y_test))
+
+    dt = DecisionTreeClassifier(
+                    criterion='gini',
+                    max_depth=2,
+                    max_features=10)
+    dt.fit(X_train, y_train_ravel)
+    print(dt.score(X_test, y_test))
+
+    #feature_importance(gdb, cols)
+    #feature_importance(rf, cols)
+    feature_importance(dt, cols)
     plt.show()

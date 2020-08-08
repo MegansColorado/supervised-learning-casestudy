@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats
+import matplotlib.pyplot as plt
 
 # other settings
 pd.options.display.float_format = '{:,.4f}'.format
@@ -22,10 +23,18 @@ from sklearn.feature_selection import RFECV, SelectFromModel
 from sklearn.ensemble import GradientBoostingClassifier 
 from sklearn.metrics import roc_curve
 
-def create_roc_curve(X_train, X_test, y_train, y_test, estimator):
-    clf = model.fit(X_train, y_train)
-    metrics.plot_roc_curve(estimator, X_test, y_test)
-    plt.show()
+def create_roc_curve(X_train, X_test, y_train, y_test, estimator, ax):
+    # yea but I think it needs to be like axs or something
+    #nevermind.. haha cuz what I was doing would just make subplots.. but almost like we want to do what we did by mistake earlier on purpose lol
+    #i think if you put the estimators in a list, it should work
+
+    #fig, ax = plt.subplots()
+    for i in estimator:
+        clf = i.fit(X_train, y_train)
+        metrics.plot_roc_curve(i, X_test, y_test, ax=ax)
+    #plt.legend() #or would this be ax.legend?
+    #plt.show()
+    return ax
     # return roc_curve(y_true, y_score, pos_label=None, sample_weight=None, drop_intermediate=True)
 
 def standardize(X, method):
@@ -73,4 +82,10 @@ if __name__ == '__main__':
     #gbmodel, yhat, gbscore = grad_boost(X_train_std, X_test_std, y_train, y_test)
     # fix y train
     y_train_ravel = y_train.values.ravel()
-    GridSearch_(X_train_std, y_train_ravel)
+    fig, ax = plt.subplots(1, figsize=(10, 8))
+    lst = [rf, dt, gdb]
+    create_roc_curve(X_train, X_test, y_train_ravel, y_test, lst, ax)  
+    #create_roc_curve(X_train, X_test, y_train_ravel, y_test, dt, ax) 
+    #create_roc_curve(X_train, X_test, y_train_ravel, y_test, gdb, ax)  
+    #plt.legend()
+    plt.show()
