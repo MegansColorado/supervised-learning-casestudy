@@ -1,4 +1,4 @@
-# Churn case Study
+# Ride Sharing Customer Churn - Case Study
 ![Banner](images/map.png)
 
 # Table of contents
@@ -125,11 +125,17 @@ Fitting 5 folds for each of 32 candidates, totalling 160 fits
 
 # Feature importance:
 ![Banner](images/image.png)
+
+
 ![other image](images/image2.png)
 
 # Conclusion 
 
+The best model based on the ROC curve is the Gradient Boosting Classifier. Feature importance shows average rating by driver as the most important factor in customer churn, followed by surge pricing, and requesting a ride from Kings Landing. Given the data we might advise the team to better incentivize drivers to get higher ratings, or cut drivers from the fleet with low ratings. This might impact the business by reducing the inventory of available drivers during peak hours. We could be especially concerned about this if the shortage is happening during peak hours in the location of Kings Landing. This could possibly be mitigated by incentivizing more drivers to sign up from that town, or bringing in other drivers from surrounding locations during peak hours. 
 
 # Next Steps
 
-We needed more time to ROC curve graphics, and feature importance. 
+Next steps would be to evaluate the non-rating customers in a seperate group than the other customers that did rate their drivers to see if there is a significant difference in the 2 populations. If the customers that did not rate their drivers are the leading indicators of churn then we would want to explore why this is and look to find ways to increase the number of customers who give driver ratings. 
+
+
+ 
