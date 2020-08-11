@@ -116,7 +116,7 @@ Fitting 5 folds for each of 32 candidates, totalling 160 fits
 #### Decision Tree Classifier SCORE with best parameters:  0.7076305220883534
 
 ### ROC Curve:
-![ROC image_RF](images/ROC_RF.png)
+![ROC image_RF](images/ROC_curves.png)
  
 
 ![Banner](images/decisiontree.png)
